@@ -1,5 +1,6 @@
 # Masail e Hajj — Class 2 Summary
 
+**Date:** May 12, 2026  
 **Topic:** Physical capability (Istita’at) for Hajj — the case of a blind person
 
 ---

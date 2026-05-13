@@ -1,4 +1,9 @@
-# May 11th 2026 - Conditions That Make Hajj Obligatory
+# Masail e Hajj — Class 1 Summary
+
+**Date:** May 11, 2026  
+**Topic:** Conditions that make Hajj obligatory
+
+---
 
 ## Overview
 
