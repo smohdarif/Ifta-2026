@@ -6,8 +6,6 @@
 Hajj, and mahram rules \
 #strong[Teacher:] Mufti Omar Sahab
 
-#horizontalrule
-
 == Introduction
 <introduction>
 This class continues the conditions of #strong[Istita'at (استطاعة)]

@@ -4,8 +4,6 @@
 #strong[Date:] May 13, 2026 #strong[Topic:] Conditions of Hajj --- Zad &
 Rahila (Travel Expenses & Transport) #strong[Teacher:] Mufti Omar Sahab
 
-#horizontalrule
-
 == Introduction
 <introduction>
 This lesson discusses one of the key conditions (شرائط) that make Hajj

@@ -5,8 +5,6 @@
 #strong[Topic:] Physical capability (Istita'at) for Hajj --- the case of
 a blind person
 
-#horizontalrule
-
 == Background
 <background>
 The fifth condition for Hajj to be obligatory is #strong[physical
@@ -109,5 +107,3 @@ of travel] (Zaad and Rahila) for Hajj.
 
 - Monday and Wednesday → #strong[9:30 PM]
 - Tuesday, Thursday, and Friday → #strong[7:15 PM]
-
-#horizontalrule

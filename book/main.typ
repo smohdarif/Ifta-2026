@@ -11,8 +11,14 @@
 #start-body-pages()
 
 #include "chapters/class-01.typ"
+
+#session-divider()
 #include "chapters/class-02.typ"
+
+#session-divider()
 #include "chapters/class-03.typ"
+
+#session-divider()
 #include "chapters/class-04.typ"
 
 // ── Back matter ───────────────────────────────────────────────

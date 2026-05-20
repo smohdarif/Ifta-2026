@@ -22,6 +22,7 @@ for n in 1 2 3 4; do
     cat "$out"
   } > "$tmp"
   mv "$tmp" "$out"
+  python3 "$BOOK/clean-chapter.py" "$out"
 done
 
 echo "→ Compiling PDF with Typst…"

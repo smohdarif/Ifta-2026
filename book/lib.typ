@@ -43,17 +43,26 @@
 #let ornament-line(width: 100%) = {
   box(width: width)[
     #align(center)[
-      #text(fill: gold, size: 11pt)[◆]
-      #h(0.4em)
-      #line(length: 35%, stroke: 0.6pt + gold)
-      #h(0.35em)
-      #text(fill: green-mid, size: 9pt)[✦]
-      #h(0.35em)
-      #line(length: 35%, stroke: 0.6pt + gold)
-      #h(0.4em)
-      #text(fill: gold, size: 11pt)[◆]
+      #grid(
+        columns: (1fr, auto, 1fr),
+        column-gutter: 10pt,
+        align: horizon,
+      )[
+        #line(length: 100%, stroke: 0.55pt + gold)
+        #circle(radius: 2.2pt, fill: gold)
+        #line(length: 100%, stroke: 0.55pt + gold)
+      ]
     ]
   ]
+}
+
+#let session-divider() = {
+  v(2.5em)
+  align(center)[
+    #text(size: 8.5pt, fill: ink-muted, tracking: 0.12em)[— • —]
+  ]
+  v(1.2em)
+  pagebreak()
 }
 
 #let side-rule() = place(
@@ -77,9 +86,9 @@
     below: 1.4em,
   )[
     #text(font: arabic-font, size: 13pt, fill: green-deep)[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]
-    #v(0.7em)
-    #ornament-line(width: 55%)
-    #v(0.8em)
+    #v(0.9em)
+    #line(length: 100%, stroke: 0.5pt + gold.lighten(20%))
+    #v(0.9em)
     #text(font: heading-font, size: 17pt, weight: "bold", fill: green-deep)[#title]
     #if subtitle != none [
       #v(0.35em)
@@ -186,8 +195,9 @@
   set heading(numbering: none)
 
   show heading.where(level: 1): it => {
-    pagebreak(weak: true)
+    v(0.5em)
     chapter-banner(it.body)
+    v(0.6em)
   }
 
   show heading.where(level: 2): it => {
@@ -270,11 +280,11 @@
   show figure: set text(size: 9pt, fill: ink-muted)
 }
 
-// Pandoc emits #horizontalrule (no parentheses) between sections
+// Light divider within a session (not between sessions)
 #let horizontalrule = [
-  #v(0.8em)
-  #ornament-line()
-  #v(0.8em)
+  #v(1.1em)
+  #align(center)[#line(length: 32%, stroke: 0.45pt + rule-color)]
+  #v(1.1em)
 ]
 
 // ── Front pages ───────────────────────────────────────────────

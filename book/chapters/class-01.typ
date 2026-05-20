@@ -4,8 +4,6 @@
 #strong[Date:] May 11, 2026 \
 #strong[Topic:] Conditions that make Hajj obligatory
 
-#horizontalrule
-
 == Overview
 <overview>
 This is a Fiqh (Islamic law) class discussing the conditions required
