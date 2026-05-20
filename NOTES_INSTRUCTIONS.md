@@ -93,6 +93,15 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 1. Save with the correct **filename** in the repo root (same folder as other class files).
 2. **Commit message** pattern: `Add Masail e Hajj Class N notes: [short topic]`
 3. Push to `origin main` only when the user asks to push.
+4. Rebuild the book PDF: `./book/build.sh` → output at `book/output/Masail-e-Hajj.pdf`
+
+## Book (Typst PDF)
+
+- **Theme:** Islamic palette (parchment, emerald, gold) — see `book/lib.typ`
+- **School:** Darul Uloom Wal Funoon
+- **Teacher:** Mufti Umar Aejaz
+- **Compiled by:** Arif Shaikh
+- **Reference intro:** from `03.pdf` (*Badā'iʿ al-Ṣanā'iʿ*, al-Kāsānī)
 
 ---
 
