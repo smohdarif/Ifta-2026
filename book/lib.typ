@@ -114,17 +114,16 @@
     inset: 12pt,
     below: 1.2em,
   )[
-    #for (label, value) in rows [
-      #grid(
-        columns: (4.5em, 1fr),
+    #for (label, value) in rows {
+      grid(
+        columns: (5em, 1fr),
         column-gutter: 10pt,
-        align: (right, left),
-      )[
-        #text(size: 8.5pt, weight: "bold", fill: gold)[#label]
-        #text(size: 10.5pt)[#value]
-      ]
-      #v(0.35em)
-    ]
+        align: (right + horizon, left),
+        text(size: 8.5pt, weight: "bold", fill: gold)[#label],
+        text(size: 10.5pt)[#value],
+      )
+      v(0.35em)
+    }
   ]
 }
 

@@ -74,6 +74,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     [2], [Physical capability — the blind person], [12 May 2026],
     [3], [Zād and Rāhilah — expenses & transport], [13 May 2026],
     [4], [Amn al-ṭarīq & women — maḥram rules], [18 May 2026],
+    [5], ['Iddah travel restrictions & Hajj Badal], [19 May 2026],
   )
 ]
 
