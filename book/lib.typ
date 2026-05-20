@@ -317,24 +317,21 @@
         Compiled class notes · Ḥanafī fiqh of Hajj
       ]
       #v(1.6em)
-      #grid(
-        columns: (1fr, 1fr),
-        gutter: 16pt,
-        [
-          #align(left)[
-            #text(size: 8.5pt, weight: "bold", fill: gold)[TEACHER]
-            #v(0.2em)
-            #text(size: 10.5pt)[#teacher-name]
-          ]
-        ],
-        [
-          #align(left)[
-            #text(size: 8.5pt, weight: "bold", fill: gold)[COMPILED BY]
-            #v(0.2em)
-            #text(size: 10.5pt)[#compiler-name]
-          ]
-        ],
-      )
+      #align(center)[
+        #grid(
+          columns: (auto, auto),
+          column-gutter: 3.5em,
+          align: center,
+        )[
+          #text(size: 8.5pt, weight: "bold", fill: gold)[TEACHER]
+          #v(0.25em)
+          #text(size: 10.5pt)[#teacher-name]
+        ][
+          #text(size: 8.5pt, weight: "bold", fill: gold)[COMPILED BY]
+          #v(0.25em)
+          #text(size: 10.5pt)[#compiler-name]
+        ]
+      ]
       #v(1.4em)
       #text(size: 9.5pt, fill: ink-muted)[#book-edition]
     ]
