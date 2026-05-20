@@ -34,6 +34,6 @@ Requires [Typst](https://typst.app/) and [Pandoc](https://pandoc.org/).
 - **School:** Darul Uloom Wal Funoon
 - **Teacher:** Mufti Umar Aejaz
 - **Compiled by:** Arif Shaikh
-- **Reference:** *Badā'iʿ al-Ṣanā'iʿ* (vol. 3) — `03.pdf` in repo root
+- **Reference:** *Badā'iʿ al-Ṣanā'iʿ fī Tartīb al-Sharā'iʿ* (vol. 3) — Imam al-Kāsānī
 
 Add new sessions by creating a dated markdown file in the repo root, then extend `build.sh` with the next class number.

@@ -10,8 +10,9 @@
 #let teacher-name = "Mufti Umar Aejaz"
 #let compiler-name = "Arif Shaikh"
 
-#let source-title-ar = "بدائع الصنائع في ترتيب الشرائع"
-#let source-vol = "Volume 3"
+#let source-title-ar = "بَدَائِعُ الصَّنَائِعِ فِي تَرْتِيبِ الشَّرَائِعِ"
+#let source-title-en = "Badāʾiʿ al-Ṣanāʾiʿ fī Tartīb al-Sharāʾiʿ"
+#let source-vol = "Volume 3 (al-Iʿtikāf — al-Nikāḥ)"
 #let source-author-ar = "الإمام علاء الدين أبو بكر بن مسعود الكاساني"
 #let source-author-en = "Imam ʿAlāʾ al-Dīn Abū Bakr ibn Masʿūd al-Kāsānī (d. 587 AH)"
 
@@ -351,7 +352,7 @@
 
     *Disclaimer.* Content reflects live class instruction in the Ḥanafī madhhab. Consult qualified scholars for legal rulings.
 
-    *Reference text.* The course library includes #source-title-ar (#source-vol) by #source-author-en, digitised as `03.pdf` in the project repository (scanned edition of *Badāʾiʿ al-Ṣanāʾiʿ*).
+    *Reference text.* The principal Hanafi reference for this series is *#source-title-en* (#source-vol), by #source-author-en.
 
     *Ongoing edition.* New sessions will be added as classes continue.
 

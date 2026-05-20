@@ -101,7 +101,7 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 - **School:** Darul Uloom Wal Funoon
 - **Teacher:** Mufti Umar Aejaz
 - **Compiled by:** Arif Shaikh
-- **Reference intro:** from `03.pdf` (*Badā'iʿ al-Ṣanā'iʿ*, al-Kāsānī)
+- **Reference text:** *Badā'iʿ al-Ṣanā'iʿ* (al-Kāsānī), vol. 3
 
 ---
 

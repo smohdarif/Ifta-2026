@@ -16,7 +16,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
 + Verify Quranic and hadith references in standard editions.
 + Download the latest PDF from the repository as new classes are added.
 
-== Principal reference (`03.pdf`)
+== Principal reference
 
 #block(spacing: 1em)[
   #arabic-block[
@@ -30,7 +30,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
   ]
 ]
 
-The digitised volume (*Badāʾiʿ al-Ṣanāʾiʿ*, vol. 3) is the classical Hanafi reference held alongside oral teaching. This student book *documents the lessons*; it does not reproduce the full scanned text.
+*#source-title-en* (#source-vol) by #source-author-en is the classical Hanafi reference used alongside oral teaching. This student book *documents the lessons*; it does not reproduce the full text of that work.
 
 == Method
 
