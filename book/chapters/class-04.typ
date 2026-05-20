@@ -1,8 +1,12 @@
-#import "../lib.typ": horizontalrule
+#import "../lib.typ": horizontalrule, class-meta
+
 = Masail e Hajj --- Class 4 Summary
 <masail-e-hajj-class-4-summary>
-#strong[Date:] May 18, 2026 \
-#strong[Topic:] Safety of travel (Amn al-Tariq), women's conditions for
+#class-meta(
+  date: [May 18, 2026],
+  topic: [Safety of travel (Amn al-Tariq), women's conditions for],
+)
+
 Hajj, and mahram rules \
 #strong[Teacher:] Mufti Omar Sahab
 

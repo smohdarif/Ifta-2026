@@ -24,9 +24,11 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     #source-vol
   ]
   #v(0.5em)
-  #text(size: 10.5pt, fill: ink-muted)[
-    #source-author-ar \
-    #source-author-en
+  #align(center)[
+    #text(size: 10.5pt, fill: ink-muted)[
+      #source-author-ar \
+      #source-author-en
+    ]
   ]
 ]
 
@@ -62,15 +64,17 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
   subtitle: [Editions will grow as classes continue],
 )
 
-#table(
-  columns: (auto, 1fr, auto),
-  align: (center, left, left),
-  inset: 10pt,
-  [*№*], [*Session*], [*Date*],
-  [1], [Conditions that make Hajj obligatory], [11 May 2026],
-  [2], [Physical capability — the blind person], [12 May 2026],
-  [3], [Zād and Rāhilah — expenses & transport], [13 May 2026],
-  [4], [Amn al-ṭarīq & women — maḥram rules], [18 May 2026],
-)
+#align(center)[
+  #table(
+    columns: (2.5em, 1fr, 6.5em),
+    align: (center, left, center),
+    inset: 10pt,
+    [*№*], [*Session*], [*Date*],
+    [1], [Conditions that make Hajj obligatory], [11 May 2026],
+    [2], [Physical capability — the blind person], [12 May 2026],
+    [3], [Zād and Rāhilah — expenses & transport], [13 May 2026],
+    [4], [Amn al-ṭarīq & women — maḥram rules], [18 May 2026],
+  )
+]
 
 #pagebreak()

@@ -65,17 +65,6 @@
   pagebreak()
 }
 
-#let side-rule() = place(
-  left + horizon,
-  dx: -1.6cm,
-  rect(
-    width: 3pt,
-    height: 1.4em,
-    fill: gradient.linear(green-deep, gold, angle: 90deg),
-    radius: 2pt,
-  ),
-)
-
 #let chapter-banner(title, subtitle: none) = {
   block(
     width: 100%,
@@ -85,14 +74,56 @@
     inset: (x: 16pt, y: 14pt),
     below: 1.4em,
   )[
-    #text(font: arabic-font, size: 13pt, fill: green-deep)[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]
+    #align(center)[
+      #text(font: arabic-font, size: 13pt, fill: green-deep)[بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ]
+    ]
     #v(0.9em)
     #line(length: 100%, stroke: 0.5pt + gold.lighten(20%))
     #v(0.9em)
-    #text(font: heading-font, size: 17pt, weight: "bold", fill: green-deep)[#title]
-    #if subtitle != none [
+    #align(center)[
+      #text(font: heading-font, size: 17pt, weight: "bold", fill: green-deep)[#title]
+      #if subtitle != none [
+        #v(0.35em)
+        #text(size: 10.5pt, fill: ink-muted, style: "italic")[#subtitle]
+      ]
+    ]
+  ]
+}
+
+// Session metadata block (date, topic, teacher) — consistent alignment
+#let class-meta(
+  date: none,
+  topic: none,
+  teacher: none,
+) = {
+  let rows = ()
+  if date != none {
+    rows.push(([DATE], date))
+  }
+  if topic != none {
+    rows.push(([TOPIC], topic))
+  }
+  if teacher != none {
+    rows.push(([TEACHER], teacher))
+  }
+  block(
+    width: 100%,
+    fill: bg-card,
+    stroke: 0.5pt + rule-color,
+    radius: 5pt,
+    inset: 12pt,
+    below: 1.2em,
+  )[
+    #for (label, value) in rows [
+      #grid(
+        columns: (4.5em, 1fr),
+        column-gutter: 10pt,
+        align: (right, left),
+      )[
+        #text(size: 8.5pt, weight: "bold", fill: gold)[#label]
+        #text(size: 10.5pt)[#value]
+      ]
       #v(0.35em)
-      #text(size: 10.5pt, fill: ink-muted, style: "italic")[#subtitle]
     ]
   ]
 }
@@ -155,7 +186,7 @@
           columns: (1fr, auto, 1fr),
           align: (left, center, right),
           [#book-title],
-          [#text(fill: gold)[◆]],
+          [#circle(radius: 1.5pt, fill: gold)],
           [#school-name],
         )
         #v(0.15em)
@@ -202,11 +233,13 @@
 
   show heading.where(level: 2): it => {
     v(1.1em)
-    block(below: 0.75em)[
-      #side-rule()
-      #pad(left: 0.5em)[
-        #text(font: heading-font, size: 13.5pt, weight: "bold", fill: green-deep)[#it.body]
-      ]
+    block(
+      width: 100%,
+      below: 0.75em,
+      stroke: (left: 3pt + green-mid),
+      inset: (left: 12pt, rest: 0pt),
+    )[
+      #text(font: heading-font, size: 13.5pt, weight: "bold", fill: green-deep)[#it.body]
       #v(0.35em)
       #line(length: 100%, stroke: 0.5pt + green-soft.darken(10%))
     ]
@@ -278,6 +311,21 @@
   show emph: set text(fill: green-mid.darken(10%))
   show link: it => underline(stroke: 0.4pt + green-mid)[#text(fill: green-mid)[#it]]
   show figure: set text(size: 9pt, fill: ink-muted)
+
+  // Centre comparison tables from pandoc
+  show figure.where(kind: table): it => align(center)[#it]
+
+  show outline.entry: it => {
+    block(above: 0.35em, below: 0.35em)[
+      #grid(
+        columns: (1fr, auto),
+        align: (left, right),
+      )[
+        #it.body
+        #text(fill: ink-muted, size: 9.5pt)[#it.page]
+      ]
+    ]
+  }
 }
 
 // Light divider within a session (not between sessions)
@@ -301,11 +349,12 @@
       radius: 10pt,
       inset: 28pt,
     )[
+      #set align(center)
       #text(font: arabic-font, size: 15pt, fill: green-deep)[
         بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
       ]
       #v(1.2em)
-      #ornament-line(width: 70%)
+      #align(center)[#ornament-line(width: 70%)]
       #v(1.4em)
       #text(font: heading-font, size: 10.5pt, tracking: 0.08em, fill: green-mid)[#school-name]
       #v(1.2em)

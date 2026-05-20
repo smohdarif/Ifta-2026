@@ -1,8 +1,11 @@
-#import "../lib.typ": horizontalrule
+#import "../lib.typ": horizontalrule, class-meta
+
 = Masail e Hajj --- Class 1 Summary
 <masail-e-hajj-class-1-summary>
-#strong[Date:] May 11, 2026 \
-#strong[Topic:] Conditions that make Hajj obligatory
+#class-meta(
+  date: [May 11, 2026],
+  topic: [Conditions that make Hajj obligatory],
+)
 
 == Overview
 <overview>

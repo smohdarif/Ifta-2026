@@ -1,8 +1,12 @@
-#import "../lib.typ": horizontalrule
+#import "../lib.typ": horizontalrule, class-meta
+
 = Masail e Hajj --- Class 2 Summary
 <masail-e-hajj-class-2-summary>
-#strong[Date:] May 12, 2026 \
-#strong[Topic:] Physical capability (Istita'at) for Hajj --- the case of
+#class-meta(
+  date: [May 12, 2026],
+  topic: [Physical capability (Istita'at) for Hajj --- the case of],
+)
+
 a blind person
 
 == Background

@@ -1,7 +1,12 @@
-#import "../lib.typ": horizontalrule
+#import "../lib.typ": horizontalrule, class-meta
+
 = Masail e Hajj --- Class 3 Summary
 <masail-e-hajj-class-3-summary>
-#strong[Date:] May 13, 2026 #strong[Topic:] Conditions of Hajj --- Zad &
+#class-meta(
+  date: [May 13, 2026],
+  topic: [Conditions of Hajj --- Zad &],
+)
+
 Rahila (Travel Expenses & Transport) #strong[Teacher:] Mufti Omar Sahab
 
 == Introduction
