@@ -4,11 +4,10 @@
 <masail-e-hajj-class-4-summary>
 #class-meta(
   date: [May 18, 2026],
-  topic: [Safety of travel (Amn al-Tariq), women's conditions for],
+  topic: [Safety of travel (Amn al-Tariq), women's conditions for Hajj, and mahram rules],
+  teacher: [Mufti Umar Aejaz],
 )
 
-Hajj, and mahram rules \
-#strong[Teacher:] Mufti Omar Sahab
 
 == Introduction
 <introduction>

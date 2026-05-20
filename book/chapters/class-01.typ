@@ -7,6 +7,7 @@
   topic: [Conditions that make Hajj obligatory],
 )
 
+
 == Overview
 <overview>
 This is a Fiqh (Islamic law) class discussing the conditions required

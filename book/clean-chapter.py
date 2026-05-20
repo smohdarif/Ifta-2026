@@ -5,41 +5,47 @@ import sys
 from pathlib import Path
 
 
-def parse_meta_line(line: str) -> dict[str, str]:
-    """Extract Date / Topic / Teacher from pandoc strong lines."""
+def parse_meta_text(text: str) -> dict[str, str]:
     out: dict[str, str] = {}
-    # Combined line: #strong[Date:] ... #strong[Topic:] ...
-    parts = re.split(r"#strong\[(Date|Topic|Teacher):\]\s*", line)
+    text = text.replace("\\", " ").strip()
+    parts = re.split(r"#strong\[(Date|Topic|Teacher):\]\s*", text)
     if len(parts) > 1:
         i = 1
         while i + 1 < len(parts):
             key = parts[i].strip().lower()
-            val = parts[i + 1].strip().rstrip("\\").strip()
-            # Stop at next label embedded in value
-            for label in ("Date:", "Topic:", "Teacher:"):
-                if label in val:
-                    val = val.split("#strong")[0].strip()
+            val = parts[i + 1].strip()
+            val = re.split(r"#strong\[", val)[0].strip()
             out[key] = val
             i += 2
-        return out
-
-    m = re.match(r"#strong\[(Date|Topic|Teacher):\]\s*(.+)", line.strip())
-    if m:
-        out[m.group(1).lower()] = m.group(2).strip().rstrip("\\").strip()
     return out
 
 
 def format_meta(meta: dict[str, str]) -> list[str]:
     if not meta:
         return []
-    args = []
+    teacher = meta.get("teacher", "")
+    if "Omar" in teacher:
+        teacher = "Mufti Umar Aejaz"
+    lines = ["#class-meta("]
     if "date" in meta:
-        args.append(f'  date: [{meta["date"]}],')
+        lines.append(f'  date: [{meta["date"]}],')
     if "topic" in meta:
-        args.append(f'  topic: [{meta["topic"]}],')
-    if "teacher" in meta:
-        args.append(f'  teacher: [{meta["teacher"]}],')
-    return ["#class-meta("] + args + [")", ""]
+        lines.append(f'  topic: [{meta["topic"]}],')
+    if teacher:
+        lines.append(f"  teacher: [{teacher}],")
+    lines.extend([")", ""])
+    return lines
+
+
+def is_meta_line(s: str) -> bool:
+    if not s:
+        return False
+    if s.startswith("#strong[Date") or s.startswith("#strong[Topic") or s.startswith("#strong[Teacher"):
+        return True
+    if s.startswith("<") or s.startswith("=") or s.startswith("=="):
+        return False
+    # Continuation of wrapped pandoc line (no block marker)
+    return not s.startswith("#") or s.startswith("#strong")
 
 
 def clean(text: str) -> str:
@@ -47,68 +53,39 @@ def clean(text: str) -> str:
     if not lines:
         return text
 
-    start = 0
-    imports: list[str] = []
-    while start < len(lines) and lines[start].strip().startswith("#import"):
-        imp = lines[start].strip()
-        if "class-meta" not in imp:
-            imp = imp.rstrip("]")
-            if imp.endswith(": horizontalrule"):
-                imp = '#import "../lib.typ": horizontalrule, class-meta'
-            elif "lib.typ" in imp and ":" in imp:
-                imp = re.sub(
-                    r'#import "\.\./lib\.typ": (.+)',
-                    r'#import "../lib.typ": \1, class-meta',
-                    imp,
-                )
-            else:
-                imp = '#import "../lib.typ": horizontalrule, class-meta'
-        imports.append(imp)
-        start += 1
+    imports = ['#import "../lib.typ": horizontalrule, class-meta']
 
-    if not imports:
-        imports = ['#import "../lib.typ": horizontalrule, class-meta']
+    start = 0
+    while start < len(lines) and lines[start].strip().startswith("#import"):
+        start += 1
 
     body = lines[start:]
 
-    # Remove leading blanks
     while body and body[0].strip() == "":
         body.pop(0)
 
-    # Collect metadata after level-1 heading (and optional label line)
-    meta: dict[str, str] = {}
-    i = 0
-    if i < len(body) and body[i].strip().startswith("="):
-        i += 1
-    if i < len(body) and body[i].strip().startswith("<"):
-        i += 1
-    while i < len(body):
-        s = body[i].strip()
-        if s.startswith("==") or s == "#horizontalrule":
-            break
-        if s.startswith("#strong[Date") or s.startswith("#strong[Topic") or s.startswith("#strong[Teacher"):
-            meta.update(parse_meta_line(s))
-            body.pop(i)
-            continue
-        if s == "":
-            body.pop(i)
-            continue
-        break
+    header: list[str] = []
+    if body and body[0].strip().startswith("="):
+        header.append(body.pop(0))
+    if body and body[0].strip().startswith("<"):
+        header.append(body.pop(0))
 
-    # Remove first horizontalrule before first ==
+    meta_chunks: list[str] = []
+    while body and is_meta_line(body[0].strip()):
+        meta_chunks.append(body.pop(0).strip())
+    meta = parse_meta_text(" ".join(meta_chunks))
+
     i = 0
     while i < len(body):
-        s = body[i].strip()
-        if s == "#horizontalrule":
+        if body[i].strip() == "#horizontalrule":
             body.pop(i)
             while i < len(body) and body[i].strip() == "":
                 body.pop(i)
             break
-        if s.startswith("=="):
+        if body[i].strip().startswith("=="):
             break
         i += 1
 
-    # Remove trailing horizontalrule
     while body and body[-1].strip() == "":
         body.pop()
     if body and body[-1].strip() == "#horizontalrule":
@@ -116,17 +93,7 @@ def clean(text: str) -> str:
     while body and body[-1].strip() == "":
         body.pop()
 
-    out_lines = imports + [""]
-    if body:
-        out_lines.append(body[0])
-        if len(body) > 1 and body[1].strip().startswith("<"):
-            out_lines.append(body[1])
-            body = body[2:]
-        else:
-            body = body[1:]
-    out_lines.extend(format_meta(meta))
-    out_lines.extend(body)
-
+    out_lines = imports + [""] + header + format_meta(meta) + body
     return "\n".join(out_lines) + "\n"
 
 

@@ -4,10 +4,10 @@
 <masail-e-hajj-class-3-summary>
 #class-meta(
   date: [May 13, 2026],
-  topic: [Conditions of Hajj --- Zad &],
+  topic: [Conditions of Hajj --- Zad & Rahila (Travel Expenses & Transport)],
+  teacher: [Mufti Umar Aejaz],
 )
 
-Rahila (Travel Expenses & Transport) #strong[Teacher:] Mufti Omar Sahab
 
 == Introduction
 <introduction>

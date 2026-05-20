@@ -4,10 +4,9 @@
 <masail-e-hajj-class-2-summary>
 #class-meta(
   date: [May 12, 2026],
-  topic: [Physical capability (Istita'at) for Hajj --- the case of],
+  topic: [Physical capability (Istita'at) for Hajj --- the case of a blind person],
 )
 
-a blind person
 
 == Background
 <background>
