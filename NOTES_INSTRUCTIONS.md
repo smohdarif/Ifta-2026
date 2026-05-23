@@ -114,5 +114,7 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 3 | `May 13 2026 - Masail e Hajj - Class 3 - Zad and Rahila.md` |
 | 4 | `May 18 2026 - Masail e Hajj - Class 4 - Amn al-Tariq and Women's Conditions.md` |
 | 5 | `May 19 2026 - Masail e Hajj - Class 5 - Iddah Travel Restrictions and Hajj Badal.md` |
+| 6 | `May 21 2026 - Masail e Hajj - Class 6 - Wuquf Arafah Obligation Place and Timing.md` |
+| 7 | `May 22 2026 - Masail e Hajj - Class 7 - Wuquf Arafah Duration Departure and Udhiyah.md` |
 
 Update this table when adding new classes.
