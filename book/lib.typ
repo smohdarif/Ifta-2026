@@ -3,7 +3,7 @@
 // ═══════════════════════════════════════════════════════════════
 
 #let book-title = "Masā'il al-Ḥajj"
-#let book-subtitle = "Conditions of Obligatory Hajj — Class Notes"
+#let book-subtitle = "Conditions & Pillars of Hajj — Class Notes"
 #let book-edition = "First edition · 2026 (ongoing)"
 
 #let school-name = "Darul Uloom Wal Funoon"

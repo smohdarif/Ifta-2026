@@ -7,7 +7,7 @@
 
 These notes form an *ongoing compendium* of the Masā'il al-Ḥajj lessons at *#school-name*, taught by *#teacher-name*, compiled by *#compiler-name*.
 
-The series explains *when Hajj becomes farḍ* upon a person: conditions of taklīf, then *istiṭāʿah* (capability)—provisions, transport, safety of travel, and rules for women.
+The series explains *when Hajj becomes farḍ* upon a person: conditions of taklīf, then *istiṭāʿah* (capability)—provisions, transport, safety of travel, and rules for women—followed by the *arkān* (pillars) and *wājibāt* (obligatory actions) of Hajj.
 
 == How to use this book
 
@@ -75,6 +75,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     [3], [Zād and Rāhilah — expenses & transport], [13 May 2026],
     [4], [Amn al-ṭarīq & women — maḥram rules], [18 May 2026],
     [5], ['Iddah travel restrictions & Hajj Badal], [19 May 2026],
+    [6], [Wuqūf Arafah — obligation, place, timing & mistaken dates], [21 May 2026],
   )
 ]
 
