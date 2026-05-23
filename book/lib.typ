@@ -47,11 +47,10 @@
         columns: (1fr, auto, 1fr),
         column-gutter: 10pt,
         align: horizon,
-      )[
-        #line(length: 100%, stroke: 0.55pt + gold)
-        #circle(radius: 2.2pt, fill: gold)
-        #line(length: 100%, stroke: 0.55pt + gold)
-      ]
+        line(length: 100%, stroke: 0.55pt + gold),
+        circle(radius: 2.2pt, fill: gold),
+        line(length: 100%, stroke: 0.55pt + gold),
+      )
     ]
   ]
 }
