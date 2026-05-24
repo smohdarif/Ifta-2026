@@ -77,6 +77,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     [5], ['Iddah travel restrictions & Hajj Badal], [19 May 2026],
     [6], [Wuqūf Arafah — obligation, place, timing & mistaken dates], [21 May 2026],
     [7], [Wuqūf Arafah — duration, departure, missing & Uḍḥiyah Q&A], [22 May 2026],
+    [8], [Aḥkām e Eid al-Aḍḥā & Qurbānī (Part 1)], [23 May 2026],
   )
 ]
 
