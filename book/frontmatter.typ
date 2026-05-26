@@ -79,6 +79,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     [7], [Wuqūf Arafah — duration, departure, missing & Uḍḥiyah Q&A], [22 May 2026],
     [8], [Aḥkām e Eid al-Aḍḥā & Qurbānī (Part 1)], [23 May 2026],
     [9], [Mishkāt: Kitāb al-Nikāḥ --- qualities & blessings of marriage], [24 May 2026],
+    [10], [Masāʾil e Qurbānī (Part 2) --- defects, method & distribution], [24 May 2026],
   )
 ]
 

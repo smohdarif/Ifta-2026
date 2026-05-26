@@ -117,6 +117,7 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 6 | `May 21 2026 - Masail e Hajj - Class 6 - Wuquf Arafah Obligation Place and Timing.md` |
 | 7 | `May 22 2026 - Masail e Hajj - Class 7 - Wuquf Arafah Duration Departure and Udhiyah.md` |
 | 8 | `May 23 2026 - Masail e Hajj - Class 8 - Ahkam e Eid ul Azha and Qurbani.md` |
-| 9 | `May 24 2026 - Mishkat Sani - Class 1 - Kitab al-Nikah Qualities and Blessings of Marriage.md` |
+| 9 | `May 24 2026 - Mishkat Sani - Class 1 - Kitab al-Nikah Qualities and Blessings of Marriage.md` (Typst only) |
+| 10 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
 
 Update this table when adding new classes.
