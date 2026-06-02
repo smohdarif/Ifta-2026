@@ -90,7 +90,7 @@ A slave has neither --- their body is controlled by their master, and
 they cannot own anything. So they are missing both conditions entirely.
 
 ==== Important Comparison: Slave vs.~Poor Person (Faqir)
-<important-comparison-slave-vs.-poor-person-faqir>
+<important-comparison-slave-vs-poor-person-faqir>
 #figure(
   align(center)[#table(
     columns: (33.33%, 33.33%, 33.33%),

@@ -48,6 +48,24 @@ def is_meta_line(s: str) -> bool:
     return not s.startswith("#") or s.startswith("#strong")
 
 
+def sanitize_typst_labels(text: str) -> str:
+    """Typst labels must be ASCII letters, numbers, and hyphens only."""
+
+    def fix_label(match: re.Match[str]) -> str:
+        raw = match.group(1)
+        safe = raw.lower()
+        safe = safe.replace("ﷺ", "").replace("ṣ", "s").replace("ḥ", "h")
+        safe = safe.replace("ā", "a").replace("ī", "i").replace("ū", "u")
+        safe = safe.replace("ʿ", "").replace("’", "").replace("'", "")
+        safe = re.sub(r"[^a-z0-9-]+", "-", safe)
+        safe = re.sub(r"-+", "-", safe).strip("-")
+        if not safe:
+            safe = "section"
+        return f"<{safe}>"
+
+    return re.sub(r"<([^>\n]+)>", fix_label, text)
+
+
 def clean(text: str) -> str:
     lines = text.splitlines()
     if not lines:
@@ -94,7 +112,8 @@ def clean(text: str) -> str:
         body.pop()
 
     out_lines = imports + [""] + header + format_meta(meta) + body
-    return "\n".join(out_lines) + "\n"
+    result = "\n".join(out_lines) + "\n"
+    return sanitize_typst_labels(result)
 
 
 if __name__ == "__main__":

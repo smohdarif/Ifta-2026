@@ -77,7 +77,7 @@ capability. Evidence:
   not need to send someone on his behalf.
 
 === Case 2: Became blind after Hajj was already obligatory on him (i.e.~he delayed Hajj while healthy)
-<case-2-became-blind-after-hajj-was-already-obligatory-on-him-i.e.-he-delayed-hajj-while-healthy>
+<case-2-became-blind-after-hajj-was-already-obligatory-on-him-i-e-he-delayed-hajj-while-healthy>
 - #strong[If capable of traveling with a guide] → He must perform it
   himself.
 - #strong[If not capable of traveling] → He must arrange for someone to

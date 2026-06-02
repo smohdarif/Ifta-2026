@@ -55,7 +55,7 @@ have guaranteed, unconditional access --- so full Istitaa'at (استطاعة
 --- capability) is not achieved through it.
 
 === Imam Shafi'i (رحمه الله)
-<imam-shafii-رحمه-الله>
+<imam-shafii>
 Both Zad and Rahila are required, #strong[BUT] Ibaha (permission to use)
 is also sufficient. If someone from your close family --- like your
 father --- arranges and permits you to use his food and transport as his
@@ -77,7 +77,7 @@ and unconditional capability (Istitaa'at), which Ibaha cannot guarantee
 since permission can be taken back at any time.
 
 === Imam Malik (رحمه الله)
-<imam-malik-رحمه-الله>
+<imam-malik>
 Rahila (means of transport) is #strong[NOT] a condition at all. If a
 person is healthy and physically capable of walking the entire journey,
 Hajj is obligatory upon him even if he has no vehicle, ticket, or

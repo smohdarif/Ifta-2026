@@ -444,7 +444,7 @@ other conditions exist. #strong[Details: next class.]
 == Q&A from Class
 <qa-from-class>
 === Q1 --- If I get wealth only shortly before Hajj (e.g.~one month before Dhul Hijjah), when does Hajj become Farz?
-<q1-if-i-get-wealth-only-shortly-before-hajj-e.g.-one-month-before-dhul-hijjah-when-does-hajj-become-farz>
+<q1-if-i-get-wealth-only-shortly-before-hajj-e-g-one-month-before-dhul-hijjah-when-does-hajj-become-farz>
 #strong[Answer:] Unlike #strong[Zakat];, there is #strong[no fixed “one
 year on wealth”] rule for Hajj. Hajj is tied to #strong[Istita'at];, not
 a calendar year on money.
@@ -460,7 +460,7 @@ a calendar year on money.
 #horizontalrule
 
 === Q2 --- Hajj became Farz; then I lost the money and never got it again. Is Hajj still Farz?
-<q2-hajj-became-farz-then-i-lost-the-money-and-never-got-it-again.-is-hajj-still-farz>
+<q2-hajj-became-farz-then-i-lost-the-money-and-never-got-it-again-is-hajj-still-farz>
 #strong[Answer:] #strong[Yes --- it remains Farz] on the person.
 
 #figure(
@@ -485,7 +485,7 @@ Farz earlier).
 #horizontalrule
 
 === Q3 --- Today women travel in groups for ‘Umrah/Hajj; visas are issued without mahram. How do we convey the Hanafi ruling?
-<q3-today-women-travel-in-groups-for-umrahhajj-visas-are-issued-without-mahram.-how-do-we-convey-the-hanafi-ruling>
+<q3-today-women-travel-in-groups-for-umrahhajj-visas-are-issued-without-mahram-how-do-we-convey-the-hanafi-ruling>
 #strong[Answer (as taught):]
 
 - Government visas and group travel #strong[do not change] Allah's
