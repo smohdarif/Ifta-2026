@@ -17,6 +17,7 @@ MD_CHAPTERS=(
   "May 22 2026 - Masail e Hajj - Class 7 - Wuquf Arafah Duration Departure and Udhiyah.md"
   "May 23 2026 - Masail e Hajj - Class 8 - Ahkam e Eid ul Azha and Qurbani.md"
   "June 1 2026 - Masail e Hajj - Class 9 - Tawaf al-Ziyarah Obligation and Rukn.md"
+  "June 2 2026 - Masail e Hajj - Class 10 - Taharat and Wajibat of Tawaf.md"
 )
 
 echo "→ Converting markdown chapters to Typst…"
