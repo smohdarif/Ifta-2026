@@ -40,6 +40,9 @@
 #include "chapters/class-10.typ"
 
 #session-divider()
+#include "chapters/class-11.typ"
+
+#session-divider()
 #include "chapters/class-12.typ"
 
 // ── Back matter ───────────────────────────────────────────────
