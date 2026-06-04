@@ -119,7 +119,6 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 8 | `May 23 2026 - Masail e Hajj - Class 8 - Ahkam e Eid ul Azha and Qurbani.md` |
 | 9 | `June 1 2026 - Masail e Hajj - Class 9 - Tawaf al-Ziyarah Obligation and Rukn.md` |
 | 10 | `June 2 2026 - Masail e Hajj - Class 10 - Taharat and Wajibat of Tawaf.md` |
-| 11 | Mishkāt al-Maṣābīḥ — Kitāb al-Nikāḥ (Typst only in `book/chapters/class-11.typ`) |
-| 12 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
+| 11 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
 
 Update this table when adding new classes.
