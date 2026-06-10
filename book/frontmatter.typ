@@ -83,6 +83,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     [11], [Ṭahārah, Satr al-ʿAwrah & Wājibāt of Tawaf al-Ziyārah], [2 Jun 2026],
     [12], [Tawaf al-Ziyārah --- Sunan, Timing, Place & Rulings], [3 Jun 2026],
     [13], [Saʿī between Ṣafā & Marwah --- Status, Wājibāt & Penalty Framework], [8 Jun 2026],
+    [14], [Saʿī --- Conditions of Validity, Sunan, Timing & Missed Rulings], [9 Jun 2026],
   )
 ]
 
