@@ -120,6 +120,7 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 9 | `June 1 2026 - Masail e Hajj - Class 9 - Tawaf al-Ziyarah Obligation and Rukn.md` |
 | 10 | `June 2 2026 - Masail e Hajj - Class 10 - Taharat and Wajibat of Tawaf.md` |
 | 11 | `June 3 2026 - Masail e Hajj - Class 11 - Tawaf al-Ziyarah Sunan Timing and Rulings.md` |
-| 12 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
+| 12 | `June 8 2026 - Masail e Hajj - Class 12 - Sai Status Wajibat and Penalty Framework.md` |
+| 13 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
 
 Update this table when adding new classes.

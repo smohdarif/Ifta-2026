@@ -45,6 +45,9 @@
 #session-divider()
 #include "chapters/class-12.typ"
 
+#session-divider()
+#include "chapters/class-13.typ"
+
 // ── Back matter ───────────────────────────────────────────────
 #pagebreak()
 #chapter-banner(
