@@ -85,6 +85,7 @@ The series explains *when Hajj becomes farḍ* upon a person: conditions of takl
     [13], [Saʿī between Ṣafā & Marwah --- Status, Wājibāt & Penalty Framework], [8 Jun 2026],
     [14], [Saʿī --- Conditions of Validity, Sunan, Timing & Missed Rulings], [9 Jun 2026],
     [15], [Wuqūf at Muzdalifah & Ramī al-Jimār Introduction], [10 Jun 2026],
+    [16], [Ramī --- Missed Rulings, Tadākhul, Qaḍā' & Tartīb of Jamarāt], [12 Jun 2026],
   )
 ]
 

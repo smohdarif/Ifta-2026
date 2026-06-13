@@ -123,6 +123,7 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 12 | `June 8 2026 - Masail e Hajj - Class 12 - Sai Status Wajibat and Penalty Framework.md` |
 | 13 | `June 9 2026 - Masail e Hajj - Class 13 - Sai Conditions Timing and Missed Rulings.md` |
 | 14 | `June 10 2026 - Masail e Hajj - Class 14 - Wuquf Muzdalifah and Rami al-Jimar Introduction.md` |
-| 15 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
+| 15 | `June 12 2026 - Masail e Hajj - Class 15 - Rami Missed Rulings Tadakhul and Qada.md` |
+| 16 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
 
 Update this table when adding new classes.
