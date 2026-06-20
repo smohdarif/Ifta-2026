@@ -40,10 +40,10 @@ value.
 #strong[Key virtues (from aḥādīth as cited in class):] - One fast during
 these ten days equals the reward of #strong[one year] of fasting. - The
 ʿibādah of one night among these ten nights equals the reward of
-#strong[Laylat al-Qadr];. - The #strong[9th of Dhul Ḥijjah] (Yawm
+#strong[Laylat al-Qadr]. - The #strong[9th of Dhul Ḥijjah] (Yawm
 al-ʿArafah) is the most special: fasting on it expiates sins of
-#strong[one year before and one year after];. - The night between the
-9th and 10th is the best of these nights.
+#strong[one year before and one year after]. - The night between the 9th
+and 10th is the best of these nights.
 
 #horizontalrule
 
@@ -51,7 +51,7 @@ al-ʿArafah) is the most special: fasting on it expiates sins of
 <recommended-not-cutting-nails-and-hair>
 A person who intends to slaughter an animal should #strong[not cut their
 nails or hair] during these ten days --- resembling one in the state of
-#strong[iḥrām];. This is a recommended practice (mustaḥabb), not
+#strong[iḥrām]. This is a recommended practice (mustaḥabb), not
 obligatory.
 
 #strong[Practical advice:] - Trim nails and settle hair #strong[before]
@@ -74,7 +74,7 @@ It is #strong[wājib] to recite the Takbīr al-Tashrīq after every
 the #strong[ʿAṣr of the 13th of Dhul Ḥijjah] --- spanning five days and
 twenty-three prayers.
 
-- Obligatory on #strong[both men and women];, whether praying with
+- Obligatory on #strong[both men and women], whether praying with
   jamāʿah or alone.
 - #strong[Men] recite it audibly (not excessively loud --- just
   audible).
@@ -105,8 +105,8 @@ al-Aḍḥā:
 
 == Eid Prayer --- Key Rulings
 <eid-prayer-key-rulings>
-The Eid prayer is #strong[wājib];. It has a specific methodology with
-#strong[six additional takbīrāt];:
+The Eid prayer is #strong[wājib]. It has a specific methodology with
+#strong[six additional takbīrāt]:
 
 - #strong[First rakʿah:] Three extra takbīrāt #strong[before] the
   qirāʾah.
@@ -155,13 +155,13 @@ provided the intention is sincere.
     table.header([Scholar], [Ruling],),
     table.hline(),
     [#strong[Imām Abū Ḥanīfah (preferred Ḥanafī
-    opinion)];], [#strong[Wājib] --- based on the Prophet ﷺ's warning:
+    opinion)]], [#strong[Wājib] --- based on the Prophet ﷺ's warning:
     #emph["Whoever has the capability but did not slaughter, let him not
     come near our muṣallā."] Such a severe warning is only issued for
     missing a wājib.],
     [#strong[Ṣāḥibayn, Imām al-Shāfiʿī, Imām Mālik, Imām
-    Aḥmad];], [#strong[Sunnah Muʾakkadah] --- strongly emphasized
-    sunnah, but not wājib.],
+    Aḥmad]], [#strong[Sunnah Muʾakkadah] --- strongly emphasized sunnah,
+    but not wājib.],
   )]
   , kind: table
   )
@@ -179,7 +179,7 @@ The person must be: 1. #strong[Muslim] 2. #strong[ʿĀqil] (sane) 3.
 <specific-criteria-for-qurbani>
 In addition to the above: 4. #strong[Muqīm] (resident, not a
 musāfir/traveler) 5. #strong[Ṣāḥib al-Niṣāb] --- owner of the niṣāb
-amount beyond basic needs (#strong[ḥājāt aṣliyyah];)
+amount beyond basic needs (#strong[ḥājāt aṣliyyah])
 
 The niṣāb is the value of #strong[612+ grams of silver] (the lower of
 the two niṣāb thresholds of gold and silver).
@@ -194,11 +194,11 @@ the two niṣāb thresholds of gold and silver).
     align: (auto,auto,auto,),
     table.header([Point], [Zakāt], [Qurbānī / Ṣadaqat al-Fiṭr],),
     table.hline(),
-    [#strong[Ḥawl (completion of year)];], [Required --- niṣāb must be
+    [#strong[Ḥawl (completion of year)]], [Required --- niṣāb must be
     held for one full year], [#strong[Not required] --- even if one
     acquires the niṣāb on the last day of Eid before sunset, Qurbānī
     becomes wājib],
-    [#strong[Exemptions for personal-use items];], [Broader --- e.g., a
+    [#strong[Exemptions for personal-use items]], [Broader --- e.g., a
     backup car (not for trade) is #strong[not] counted in
     niṣāb], [#strong[Narrower] --- a backup car, extra house not in use,
     etc. #strong[are] counted toward niṣāb],
@@ -227,7 +227,7 @@ be completed. - If she has a #strong[mixture] (gold + some cash, or gold
 year (e.g., saving a small amount daily), rather than waking up on Eid
 day wondering how to arrange funds. The husband commonly takes this
 burden upon himself, which is permissible --- but it must be done
-#strong[with the wife's knowledge];.
+#strong[with the wife's knowledge].
 
 #horizontalrule
 
@@ -269,7 +269,7 @@ below the niṣāb, which defeats the purpose.
 === Poor Person Who Buys an Animal
 <poor-person-who-buys-an-animal>
 If a poor person (not ṣāḥib al-niṣāb) #strong[purchases an animal with
-the intention of Qurbānī];, the Qurbānī becomes #strong[wājib] upon him
+the intention of Qurbānī], the Qurbānī becomes #strong[wājib] upon him
 on account of that purchase.
 
 #horizontalrule
@@ -288,7 +288,7 @@ The days of slaughtering are the #strong[10th, 11th, and 12th of Dhul
 
 === In Cities and Large Villages (Where Eid Prayer is Performed)
 <in-cities-and-large-villages-where-eid-prayer-is-performed>
-Slaughtering #strong[must be done after the Eid prayer];. If done before
+Slaughtering #strong[must be done after the Eid prayer]. If done before
 the prayer, the Qurbānī is #strong[not valid] and must be
 #strong[repeated] (the meat is still ḥalāl, but the wājib is not
 fulfilled).
@@ -329,7 +329,7 @@ day that is an Eid day in #strong[both] locations:
 == Charity Cannot Replace Qurbānī
 <charity-cannot-replace-qurbani>
 Some people argue that slaughtering is a "waste of money" and that the
-amount should be given as charity instead. This is #strong[incorrect];.
+amount should be given as charity instead. This is #strong[incorrect].
 ʿIbādāt are fixed by Allah's command, not by human logic. No ṣadaqah can
 replace Qurbānī.
 
@@ -350,10 +350,10 @@ Three categories of animals are valid:
     align: (auto,auto,auto,),
     table.header([Category], [Animals], [Shares],),
     table.hline(),
-    [#strong[Small animals];], [Goat, sheep, ram, lamb], [#strong[1
+    [#strong[Small animals]], [Goat, sheep, ram, lamb], [#strong[1
     share] (1 animal = 1 person)],
-    [#strong[Cattle];], [Cow, buffalo, ox], [#strong[Up to 7 shares];],
-    [#strong[Camel];], [Camel], [#strong[Up to 7 shares];],
+    [#strong[Cattle]], [Cow, buffalo, ox], [#strong[Up to 7 shares]],
+    [#strong[Camel]], [Camel], [#strong[Up to 7 shares]],
   )]
   , kind: table
   )
@@ -384,9 +384,9 @@ the Qurbānī of #strong[all partners] is invalidated.
 <the-haram-income-problem>
 This is a very sensitive and critical case:
 
-- If one partner's income is #strong[majority ḥarām];, and he pays his
+- If one partner's income is #strong[majority ḥarām], and he pays his
   share from ḥarām earnings, the Qurbānī is #strong[invalid for all
-  partners];.
+  partners].
 - If there is #strong[no evidence] against a partner's income, the
   default assumption is that his earning is #strong[ḥalāl] --- benefit
   of the doubt applies.
@@ -425,7 +425,7 @@ schools.
 these ten days and interferes with eating, can it be trimmed?
 
 #strong[A (Teacher):] Yes. The prohibition of cutting hair/nails is only
-a #strong[recommendation];. If it causes difficulty, removing the harm
+a #strong[recommendation]. If it causes difficulty, removing the harm
 takes priority. The principle: #emph["Removing harm is preferred over
 gaining benefit"] (dar' al-mafāsid muqaddam ʿalā jalb al-manāfiʿ).
 

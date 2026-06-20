@@ -1,380 +1,414 @@
 #import "../lib.typ": horizontalrule, class-meta
 
-= Masail e Hajj --- Class 12 Summary
-<masail-e-hajj-class-12-summary>
+= Masail e Hajj --- Class 13 Summary
+<masail-e-hajj-class-13-summary>
 #class-meta(
-  date: [June 8, 2026],
-  topic: [Saʿī between Ṣafā and Marwah --- Status, Wājibāt of Hajj, and the Penalty (Jazāʾ) Framework],
+  date: [June 9, 2026],
+  topic: [Saʿī between Ṣafā and Marwah --- Conditions of Validity, Sunan, Timing, and Rulings When Missed],
   teacher: [Mufti Umar Aejaz],
 )
 
+
 == Introduction
-<introduction-12>
-
-This lesson opens with a concise #strong[listing of the five Wājibāt of Hajj], then devotes the bulk of the class to the #strong[first wājib: Saʿī (سعي) between Ṣafā and Marwah]. The teacher examines the status of Saʿī (Wājib, Farḍ, or optional?), the evidence and counter-evidence for each position, and the number of required rounds. A major uṣūl discussion follows on the #strong[penalty framework] when a wājib is missed — distinguishing between a wājib missed entirely, its major part, or its minor part. The class also revisits the principle that a #strong[wājib missed due to a genuine excuse (ʿudhr)] incurs no penalty, with the example of Ṭawāf al-Wadāʿ for menstruating women.
-
-#horizontalrule
-
-== Part 1 --- The Five Wājibāt of Hajj (overview)
-<part-1-five-wajibat-of-hajj-overview>
-
-The teacher listed the #strong[five Wājibāt (واجبات)] of Hajj at the outset:
-
-#figure(
-  align(center)[#table(
-    columns: (2.5em, 35%, 1fr),
-    align: (center, auto, auto),
-    table.header([*\#*], [Wājib], [Brief description]),
-    table.hline(),
-    [1], [#strong[Saʿī between Ṣafā and Marwah (السعي بين الصفا والمروة)]], [Seven rounds between the two mountains],
-    [2], [#strong[Stay in Muzdalifah (الوقوف بالمزدلفة)]], [Staying at Muzdalifah on the night of the 10th Dhū al-Ḥijjah],
-    [3], [#strong[Ramī al-Jimār (رمي الجمار)]], [Stoning the pillars],
-    [4], [#strong[Ḥalq or Qaṣr (الحلق أو التقصير)]], [Shaving or trimming the hair],
-    [5], [#strong[Ṭawāf al-Wadāʿ / al-Ṣadr (طواف الوداع / الصدر)]], [Farewell ṭawāf when leaving Makkah],
-  )]
-  , kind: table
-)
-
-The details of each will be covered in sequence; this class focuses on #strong[Saʿī].
+<introduction>
+This lesson continues the detailed study of #strong[Saʿī (سعي)] between
+Ṣafā and Marwah, building on the previous class which established its
+status as #strong[Wājib] (Ḥanafī) and the penalty framework. Today the
+teacher covers: the #strong[seven rounds] and the farḍ vs wājib within
+Saʿī itself, the #strong[conditions (shurūṭ)] that make Saʿī valid, the
+#strong[sunan] of Saʿī, its #strong[timing], and what happens when Saʿī
+is #strong[delayed or missed entirely]. A Q&A section addresses Saʿī in
+ʿUmrah, Ḥajj al-Qirān vs Ḥajj al-Ifrād, and the number of Saʿīs
+required.
 
 #horizontalrule
 
-== Part 2 --- Status of Saʿī: Three Opinions
-<part-2-status-of-sai-three-opinions>
+== Part 1 --- The Seven Rounds: Confirmation and Farḍ vs Wājib
+<part-1-the-seven-rounds-confirmation-and-far-vs-wajib>
+=== The seven rounds are established by Ijmāʿ
+<the-seven-rounds-are-established-by-ijma>
+The requirement of #strong[seven rounds (أشواط)] is established by:
 
-=== Opinion 1 --- Wājib (Ḥanafī position)
-<opinion-1-wajib-hanafi>
++ #strong[Ijmāʿ (إجماع)] --- the consensus of the Ummah.
++ #strong[The practice of the Prophet ﷺ] --- he performed seven rounds.
 
-According to the Aḥnāf (Ḥanafī school), Saʿī is #strong[Wājib].
+#strong[Reminder (from last class):] One round = Ṣafā to Marwah; the
+return from Marwah to Ṣafā is a second round. The Saʿī starts at Ṣafā
+and ends at Marwah (7th round). The non-preferred opinion that counts a
+round-trip as one round is #strong[not the muʿtamad (relied-upon)
+opinion].
 
-#strong[Reasoning:] There is no #strong[dalīl qaṭʿī (دليل قطعي)] [definitive proof] establishing the farḍiyyah of Saʿī. The evidence that exists can, at most, establish #strong[wujūb (وجوب)]. Since farḍiyyah requires definitive proof --- both in the #strong[chain of transmission (thubūt)] and in the #strong[meaning (dalālah)] --- and this is lacking for Saʿī, the Ḥanafī school classifies it as Wājib.
+=== What is Farḍ and what is Wājib within Saʿī?
+<what-is-far-and-what-is-wajib-within-sai>
+#figure(
+  align(center)[#table(
+    columns: (30%, 26.67%, 43.33%),
+    align: (auto,auto,auto,),
+    table.header([Element], [Status], [Explanation],),
+    table.hline(),
+    [#strong[Being present (الحضور)] between Ṣafā and
+    Marwah], [#strong[Farḍ]], [The essential component --- presence
+    fulfils the farḍ regardless of #emph[how] one is present (walking,
+    carried, wheelchair)],
+    [#strong[Walking on one's feet (المشي على
+    الأقدام)]], [#strong[Wājib]], [Must walk unless there is a genuine
+    ʿudhr; utilising a wheelchair, animal, or being carried without
+    excuse = missing the wājib],
+  )]
+  , kind: table
+  )
 
-=== Opinion 2 --- Farḍ (Shāfiʿī position)
-<opinion-2-fard-shafii>
+#strong[Practical implication:] A person who is #strong[carried] or uses
+a #strong[wheelchair] without a valid excuse: - Has #strong[not] missed
+the farḍ (he was present). - Has missed the #strong[wājib] of walking →
+#strong[dam (دم)] is required if he cannot repeat.
 
-According to Imam al-Shāfiʿī, Saʿī is #strong[Farḍ (فرض)].
+This is #strong[identical] to the ruling in Ṭawāf (covered in Class 10).
 
-#strong[Dalīl:]
+#horizontalrule
 
-#quote(block: true)[
-إِنَّ اللَّهَ كَتَبَ عَلَيْكُمُ السَّعْيَ فَاسْعَوْا
-
-_"Indeed, Allāh has ordained upon you the Saʿī, so perform it."_
-
-#strong[Ref:] Hadith --- as cited in class (verify exact source and numbering).
-]
-
-Imam al-Shāfiʿī interpreted the word #strong[كَتَبَ (kataba)] [ordained/wrote] as equivalent to #strong[فَرَضَ (faraḍa)] [made obligatory], just as it is interpreted in the context of fasting:
-
-#quote(block: true)[
-كُتِبَ عَلَيْكُمُ الصِّيَامُ
-
-_"Fasting has been ordained upon you."_
-
-#strong[Ref:] Surah al-Baqarah, 2:183.
-]
-
-=== Ḥanafī response to Imam al-Shāfiʿī's dalīl
-<hanafi-response-to-shafii-dalil>
-
-The Aḥnāf raised #strong[two objections] to this ḥadīth:
-
-#strong[1. The chain of narration (sanad) has a weakness:]
-
-- The #strong[rāwī (narrator)] of this ḥadīth is #strong[majhūl (مجهول)] [unknown] --- specifically, the name of the female narrator's father is not properly identified; she is not specifically recognizable.
-- A ḥadīth with a #strong[majhūl] narrator cannot reach the level of #strong[dalīl qaṭʿī], which is required for establishing farḍiyyah.
-
-#strong[2. The meaning of "kataba" is not certain:]
-
-- The word #strong[كَتَبَ] (kataba) can mean Allāh's command --- but Allāh's command sometimes indicates #strong[farḍ] and sometimes indicates #strong[wujūb].
-- Both meanings are possible, creating #strong[uncertainty in the meaning (dalālah)].
-- When there is uncertainty, the ḥadīth is taken in the meaning that #strong[accords with the Qur'anic text] --- and the Qur'anic text does not establish farḍiyyah for Saʿī. Therefore, the meaning of wujūb is preferred.
-
-#strong[Observation on Imam al-Shāfiʿī's methodology:]
-
-The teacher noted an inconsistency: Imam al-Shāfiʿī is known for being #strong[very strict] about the authenticity of ḥadīth and normally #strong[rejects mursal ḥadīth] (where the Ṣaḥābī's name is missing). Yet here, he accepts a ḥadīth narrated by a #strong[majhūl] person --- someone whose identity is not established at all.
-
-=== Note on Mursal Ḥadīth
-<note-on-mursal-hadith>
-
-A #strong[mursal ḥadīth (حديث مرسل)] is one where the #strong[Ṣaḥābī's name is missing] --- a Tābiʿī directly attributes the report to the Prophet ﷺ without naming the Ṣaḥābī in between.
+== Part 2 --- Conditions for Validity of Saʿī (Shurūṭ)
+<part-2-conditions-for-validity-of-sai-shuru>
+=== Condition 1 --- Saʿī must be after a valid Ṭawāf
+<condition-1-sai-must-be-after-a-valid-awaf>
+#strong[Saʿī is a follower (tābiʿ / تابع) of Ṭawāf.] A follower must
+come #strong[after] what it follows --- it cannot precede it.
 
 #figure(
   align(center)[#table(
-    columns: (30%, 70%),
-    align: (auto, auto),
-    table.header([School], [Ruling on mursal ḥadīth]),
+    columns: (55.56%, 44.44%),
+    align: (auto,auto,),
+    table.header([Scenario], [Ruling],),
     table.hline(),
-    [#strong[Ḥanafī]], [#strong[Accepted] --- if the one skipping the Ṣaḥābī's name is a #strong[reliable person] (e.g. Saʿīd ibn al-Musayyab)],
-    [#strong[Shāfiʿī]], [#strong[Rejected] --- because the missing person could be a non-Ṣaḥābī whose reliability is unknown],
+    [Saʿī performed #strong[after] a complete Ṭawāf (7
+    rounds)], [#strong[Valid]],
+    [Saʿī performed #strong[after] the major part of Ṭawāf (4+
+    rounds)], [#strong[Valid] --- because the major part is treated as
+    the whole],
+    [Saʿī performed #strong[before] any Ṭawāf], [#strong[Not valid] ---
+    must be repeated after Ṭawāf],
   )]
   , kind: table
-)
+  )
 
-=== Opinion 3 --- Neither Farḍ nor Wājib
-<opinion-3-neither-fard-nor-wajib>
-
-A #strong[third opinion] holds that Saʿī is #strong[neither Farḍ nor Wājib] --- it is merely recommended.
-
-#strong[Dalīl:]
+#strong[Dalīl:] The Prophet ﷺ performed Saʿī after Ṭawāf, and he
+instructed:
 
 #quote(block: true)[
-إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا
+خُذُوا عَنِّي مَنَاسِكَكُمْ
 
-_"Indeed, Ṣafā and Marwah are among the symbols of Allāh. So whoever performs Hajj of the House or ʿUmrah, there is no sin upon him if he walks between them."_
+#emph["Learn your rites (of Hajj) from me."]
+
+#strong[Ref:] Hadith --- as cited in class (confirm in hadith index).
+]
+
+=== Condition 2 --- Must start from Ṣafā and end at Marwah
+<condition-2-must-start-from-safa-and-end-at-marwah>
+The first round #strong[must] begin from #strong[Ṣafā]. If a person
+starts from Marwah instead:
+
+- That first round (Marwah → Ṣafā) is #strong[not counted].
+- He must complete seven valid rounds starting from Ṣafā --- effectively
+  performing #strong[eight rounds] total, with the first discarded.
+
+#strong[Dalīl:] When the Prophet ﷺ was asked where to start, he said:
+
+#quote(block: true)[
+نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ
+
+#emph["We begin with what Allāh began with."]
+
+#strong[Ref:] Hadith --- as cited in class (Sahih Muslim and others ---
+confirm exact numbering).
+]
+
+Allāh mentioned #strong[Ṣafā first] in the Qur'an:
+
+#quote(block: true)[
+إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ
+
+#emph["Indeed, Ṣafā and Marwah are among the symbols of Allāh."]
 
 #strong[Ref:] Surah al-Baqarah, 2:158.
 ]
 
-#strong[Their reasoning:] The phrase #strong["lā junāḥa ʿalayhi" (لا جناح عليه)] [there is no sin upon him] is typically used in the Qur'an for #strong[optional] matters.
+The Prophet ﷺ himself always started from Ṣafā. This is the
+#strong[preferred (rājiḥ) opinion] --- that starting from Ṣafā is a
+#strong[condition of validity].
 
-=== Ḥanafī response --- the context of revelation (sabab al-nuzūl)
-<hanafi-response-context-of-revelation>
+#strong[Non-preferred opinion:] Starting from Ṣafā is not compulsory
+(merely sunnah). This is #strong[not the muʿtamad].
 
-The Aḥnāf answered this by explaining the #strong[specific context] in which this āyah was revealed:
+=== Condition 3 --- Ṭahārah is NOT required for Saʿī itself
+<condition-3-aharah-is-not-required-for-sai-itself>
+#strong[Ṭahārah (طهارة)] --- whether from #strong[ḥadath aṣghar] (minor
+impurity) or #strong[ḥadath akbar] (major impurity / janābah) --- is
+#strong[not a condition] for the validity of Saʿī.
 
-In the pre-Islamic period (Jāhiliyyah), #strong[idols] were placed on Ṣafā and Marwah --- specifically, the idol #strong[Isāf] on one and #strong[Nā'ilah] on the other. When the Ṣaḥābah embraced Islam, they #strong[felt ḥaraj (حرج)] [discomfort/reluctance] about performing Saʿī between these mountains because of the association with the idols.
+#strong[Reason:] Saʿī is performed #strong[outside the Masjid (al-Masʿā
+\/ المسعى)], not inside it. The requirement of ṭahārah is linked to acts
+performed #strong[inside the Masjid] (i.e.~Ṭawāf). Since Saʿī is
+outside, ṭahārah is not stipulated for it.
 
-The āyah came down to #strong[remove that ḥaraj]: "There is no sin upon you if you perform the Saʿī between Ṣafā and Marwah" --- meaning, the presence of the idols does not make your Saʿī sinful.
+#strong[However --- the critical link to Ṭawāf:]
 
-#strong[Key points:]
-
-- Ṣafā and Marwah are #strong[from the shaʿā'ir (شعائر)] [symbols/rites] of Allāh --- they are #strong[historical Islamic mountains], not ordinary places. The Islamic history of Hājar عليها السلام's running between them belongs to these mountains.
-- The āyah is #strong[not] discussing whether Saʿī is obligatory or optional. Rather, it is #strong[countering the Ṣaḥābah's reluctance] about performing it due to the idol-association.
-- This is analogous to the Ka'bah itself: despite there being idols around it, Muslims still performed ṭawāf --- keeping the Ka'bah in mind, not the idols.
-
-#strong[Conclusion:] The āyah cannot be used to determine the status (farḍ/wājib/optional) of Saʿī because it is addressing a #strong[different question entirely].
-
-#horizontalrule
-
-== Part 3 --- Ḥanafī Evidence for the Wujūb of Saʿī
-<part-3-hanafi-evidence-for-wujub-of-sai>
-
-The Aḥnāf established their position by the following reasoning:
-
-1. #strong[Only two arkān (فرائض)] of Hajj can be proven by #strong[dalīl qaṭʿī]: (a) Wuqūf ʿArafah and (b) Ṭawāf al-Ziyārah.
-
-   - Wuqūf ʿArafah is established by the ḥadīth:
-
-     #quote(block: true)[
-     اَلْحَجُّ عَرَفَةُ
-
-     _"Hajj is ʿArafah."_
-     ]
-
-   - Ṭawāf al-Ziyārah is established by:
-
-     #quote(block: true)[
-     وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ
-
-     _"And due to Allāh from the people is the Hajj of the House."_
-
-     #strong[Ref:] Surah Āl ʿImrān, 3:97.
-     ]
-
-     The "Hajj of the House" refers to the ṭawāf, because no other act of worship is specifically directed #strong[toward the House] except ṭawāf.
-
-2. #strong[All other obligatory acts] of Hajj are established by #strong[dalīl ẓannī (ظني)] [probabilistic evidence] --- i.e. #strong[khabar wāḥid] --- and therefore they are #strong[wājib], not farḍ.
-
-3. A ḥadīth indicates:
-
-   #quote(block: true)[
-   لَا يَتِمُّ الْحَجُّ إِلَّا بِالسَّعْيِ
-
-   _"Hajj cannot be completed except with Saʿī."_
-
-   #strong[Ref:] Hadith --- as cited in class (confirm in hadith index).
-   ]
-
-   The word #strong["lā yatimmu" (لا يتم)] [cannot be completed] --- rather than #strong["lā yaṣiḥḥu" (لا يصح)] [cannot be valid] --- indicates the position of #strong[wujūb], not farḍiyyah. If Saʿī is missed, Hajj is #strong[not completed] (i.e. defective), but it is not #strong[invalid].
-
-#horizontalrule
-
-== Part 4 --- The Two Parameters for Dalīl Qaṭʿī (Definitive Proof)
-<part-4-two-parameters-for-dalil-qati>
-
-The teacher expanded on the recurring uṣūl framework:
-
-=== Parameter 1 --- Certainty of transmission (qaṭʿī al-thubūt)
-<parameter-1-certainty-of-transmission>
+Since Saʿī must follow a #strong[valid Ṭawāf], and Ṭawāf requires
+ṭahārah, the practical effect is:
 
 #figure(
   align(center)[#table(
-    columns: (50%, 50%),
-    align: (auto, auto),
-    table.header([Type], [Status]),
+    columns: (27.03%, 37.84%, 35.14%),
+    align: (auto,auto,auto,),
+    table.header([Scenario], [Ṭawāf valid?], [Saʿī valid?],),
     table.hline(),
-    [#strong[Entire Qur'an]], [Qaṭʿī al-thubūt --- transmitted in tawātur],
-    [#strong[Ḥadīth Mutawātir / Mashhūr]], [Qaṭʿī al-thubūt],
-    [#strong[Khabar Wāḥid]], [Ẓannī al-thubūt --- #strong[cannot] establish farḍ],
+    [Ṭawāf with ṭahārah → Saʿī without ṭahārah], [Yes], [#strong[Yes]
+    --- Saʿī itself doesn't need ṭahārah],
+    [Ṭawāf #strong[without] ṭahārah (e.g.~in ḥayḍ or janābah) → Saʿī
+    #strong[with] ṭahārah], [No], [#strong[No] --- because it follows an
+    invalid Ṭawāf],
+    [Ṭawāf without ṭahārah → person obtains ṭahārah → performs Saʿī with
+    ṭahārah], [No (the Ṭawāf was still invalid)], [#strong[No] --- the
+    Saʿī is not after a #emph[valid] Ṭawāf],
   )]
   , kind: table
-)
+  )
 
-=== Parameter 2 --- Certainty of meaning (qaṭʿī al-dalālah)
-<parameter-2-certainty-of-meaning>
+#strong[Key takeaway:] Ṭahārah is not a condition of Saʿī itself, but it
+is indirectly required because Saʿī must follow a #strong[valid] Ṭawāf
+--- and Ṭawāf #strong[does] require ṭahārah (as wājib in the Ḥanafī
+school).
+
+=== Q&A --- Is the Masʿā (place of Saʿī) part of the Masjid?
+<qa-is-the-masa-place-of-sai-part-of-the-masjid>
+#strong[Q:] People pray in the Masʿā area during ṣalāh times, and there
+are prayer markings on the floor. Does this make it part of the Masjid?
+
+#strong[A:] No.~The fact that people pray there during congregation ---
+when the Masjid is full and the overflow extends outside --- does not
+make the Masʿā part of the Masjid. People also pray outside the Masjid
+in the streets when it is full; that does not make the streets part of
+the Masjid.
+
+#strong[Q:] What about the expansion (tawsīʿ) of the Masjid --- doesn't
+that change the status?
+
+#strong[A:] No.~The #strong[status declared by Allāh in the Qur'an] does
+not change through human expansion. The Masʿā is declared as the place
+of Saʿī --- it will remain as such even if physically enclosed within an
+expanded building. The #strong[aḥkām of Sharīʿah] follow the original
+designation, not architectural changes. Similarly, the Ka'bah's status
+does not change based on renovations.
+
+#horizontalrule
+
+== Part 3 --- Sunan of Saʿī
+<part-3-sunan-of-sai>
+=== Ramal (hastening) in the marked area
+<ramal-hastening-in-the-marked-area>
+- In each round, there is a #strong[specific marked section] between two
+  green markers/pillars.
+- In this section, #strong[ramal (رمل)] \[hastening/jogging\] is
+  #strong[masnūn (مسنون)] \[sunnah\].
+- In the #strong[rest] of each round, #strong[normal walking] is masnūn.
+
+=== Ramal is for men only
+<ramal-is-for-men-only>
+- #strong[Women] walk normally throughout the entire Saʿī --- including
+  in the marked ramal area.
+- If ramal is missed (by men), there is #strong[no penalty] --- only the
+  #strong[karāhah] of missing a sunnah intentionally.
+
+#horizontalrule
+
+== Part 4 --- Timing of Saʿī (for Hajj)
+<part-4-timing-of-sai-for-hajj>
+=== Basic time: After Ṭawāf al-Ziyārah, within the days of slaughtering
+<basic-time-after-awaf-al-ziyarah-within-the-days-of-slaughtering>
+The Saʿī that is a #strong[wājib of Hajj] must come after #strong[Ṭawāf
+al-Ziyārah (طواف الزيارة)] --- the second farḍ of Hajj --- within the
+#strong[three days of slaughtering (Ayyām al-Naḥr)].
+
+=== Why not after Ṭawāf al-Qudūm?
+<why-not-after-awaf-al-qudum>
+Ṭawāf al-Qudūm (the arrival ṭawāf) is a #strong[sunnah/nafl ṭawāf]. A
+#strong[wājib Saʿī] cannot be a follower of a #strong[nafl Ṭawāf] ---
+the wājib requires a corresponding #strong[farḍ] Ṭawāf (i.e.~Ṭawāf
+al-Ziyārah) to follow.
+
+=== The concession (rukhṣah): Saʿī after Ṭawāf al-Qudūm
+<the-concession-rukhsah-sai-after-awaf-al-qudum>
+#strong[The Sharīʿah grants a concession:] If a pilgrim anticipates that
+performing Saʿī during the Ayyām al-Naḥr will be #strong[difficult] due
+to crowds and the many obligations of those days (Ṭawāf, Ramī, Qurbānī,
+Ḥalq), he may perform the Saʿī #strong[in advance] --- immediately after
+#strong[Ṭawāf al-Qudūm] (upon first arriving in Makkah).
 
 #figure(
   align(center)[#table(
-    columns: (50%, 50%),
-    align: (auto, auto),
-    table.header([Situation], [Status]),
+    columns: (55.56%, 44.44%),
+    align: (auto,auto,),
+    table.header([Scenario], [Ruling],),
     table.hline(),
-    [Meaning is #strong[clear and singular] --- no other interpretation possible], [Qaṭʿī al-dalālah],
-    [Meaning has #strong[two or more possible interpretations]], [Ẓannī al-dalālah --- #strong[cannot] establish farḍ],
+    [Performs Saʿī after Ṭawāf al-Qudūm (arrival)], [#strong[Valid] ---
+    the wājib is fulfilled; no need to repeat during Ayyām al-Naḥr],
+    [Does not perform Saʿī after arrival; performs it after Ṭawāf
+    al-Ziyārah during Ayyām al-Naḥr], [#strong[Standard ruling] --- this
+    is the basic time],
   )]
   , kind: table
-)
+  )
 
-#strong[Both parameters must be qaṭʿī] for the ruling to be #strong[farḍ]. If either is ẓannī, the ruling is #strong[wājib] at most.
+This concession is to #strong[ease the burden] on the pilgrim during the
+busiest days of Hajj.
 
-#strong[Important clarification:] Even some #strong[Qur'anic āyāt] can be ẓannī --- not in their transmission (the entire Qur'an is qaṭʿī al-thubūt), but in their #strong[meaning]. If the meaning of an āyah admits multiple interpretations, it becomes ẓannī al-dalālah and cannot, on its own, establish farḍiyyah.
+#horizontalrule
 
-=== Division of scholarly roles
-<division-of-scholarly-roles>
+== Part 5 --- When Saʿī is Missed or Delayed
+<part-5-when-sai-is-missed-or-delayed>
+=== Case 1 --- Still in Makkah
+<case-1-still-in-makkah>
+If the pilgrim did not perform Saʿī during the Ayyām al-Naḥr but is
+#strong[still in Makkah]:
+
+- He should #strong[perform the Saʿī] whenever he remembers.
+- There is #strong[no penalty for the delay] --- no dam is required
+  merely for being late.
+- Even if he had #strong[physical/marital relations] after Ṭawāf
+  al-Ziyārah, the Saʿī is #strong[still valid] when performed later. The
+  iḥrām restrictions were already lifted by the Ṭawāf; the state of
+  iḥrām does not depend on Saʿī.
+
+=== Case 2 --- Returned home without performing Saʿī
+<case-2-returned-home-without-performing-sai>
+If the pilgrim returned home and #strong[missed the Saʿī entirely],
+without a genuine excuse:
+
+#strong[Option A --- Send a dam:] - Slaughter of an average goat in the
+Ḥaram of Makkah. - This is the #strong[preferred option] according to
+#strong[Imam Muḥammad رحمه الله], because: - The defect (nuqṣān) is a
+#strong[lesser one] (missing a wājib, not a farḍ). - It saves the
+pilgrim travel expenses. - It is #strong[more beneficial for the people
+of the Ḥaram] (the meat is distributed there).
+
+#strong[Option B --- Return to Makkah:] - He may return, enter a
+#strong[new iḥrām] (since the old one is already completed), and perform
+the Saʿī. - Once performed, the #strong[penalty (dam) is dropped] ---
+because he has now done the main action itself.
+
+=== When to choose which option?
+<when-to-choose-which-option>
+#figure(
+  align(center)[#table(
+    columns: (44.83%, 55.17%),
+    align: (auto,auto,),
+    table.header([Defect level], [Recommendation],),
+    table.hline(),
+    [#strong[Lesser defect] (e.g.~missing Saʿī, Ṭawāf without
+    wuḍū)], [#strong[Send the dam] --- better and more practical],
+    [#strong[Greater defect] (e.g.~Ṭawāf in state of
+    janābah)], [#strong[Come back] to repeat the action --- if travel is
+    feasible],
+  )]
+  , kind: table
+  )
+
+=== Not knowing the ruling is NOT an excuse
+<not-knowing-the-ruling-is-not-an-excuse>
+If a person missed Saʿī because he #strong[did not know] it was wājib
+--- this is #strong[not considered a valid ʿudhr (excuse)]. The
+#strong[dam remains obligatory]. Ignorance of Sharīʿah rulings does not
+drop the penalty.
+
+#horizontalrule
+
+== Part 6 --- Saʿī in ʿUmrah
+<part-6-sai-in-umrah>
+#strong[Q (from previous class):] Is Saʿī wājib in ʿUmrah as well?
+
+#strong[A:] #strong[Yes.] Saʿī is #strong[wājib in both Hajj and
+ʿUmrah].
+
+#horizontalrule
+
+== Part 7 --- Saʿī in Ḥajj al-Qirān: How Many Saʿīs?
+<part-7-sai-in-hajj-al-qiran-how-many-sais>
+#strong[Q:] In Ḥajj al-Qirān (where Hajj and ʿUmrah are combined in one
+iḥrām), how many Saʿīs must be performed?
+
+#strong[A:] #strong[Two Saʿīs] are required:
 
 #figure(
   align(center)[#table(
-    columns: (30%, 70%),
-    align: (auto, auto),
-    table.header([Discipline], [Their task]),
+    columns: 3,
+    align: (auto,auto,auto,),
+    table.header([Saʿī], [When], [For],),
     table.hline(),
-    [#strong[Muḥaddithūn (محدثون)]], [Check the authenticity of the ḥadīth on the basis of the #strong[chain (sanad)] --- is it mutawātir, mashhūr, or wāḥid?],
-    [#strong[Fuqahā' (فقهاء)]], [Check the #strong[meaning (dalālah)] --- does the wording point to its ruling certainly or uncertainly?],
+    [#strong[First Saʿī]], [After ʿUmrah Ṭawāf], [Wājib of
+    #strong[ʿUmrah]],
+    [#strong[Second Saʿī]], [After Ṭawāf al-Ziyārah], [Wājib of
+    #strong[Hajj]],
   )]
   , kind: table
-)
+  )
+
+Even though the pilgrim is in #strong[one iḥrām], the Saʿī is a
+#strong[separate wājib] for each --- ʿUmrah and Hajj require their own
+Saʿī independently.
 
 #horizontalrule
 
-== Part 5 --- Practical Ruling: If Saʿī is Missed
-<part-5-practical-ruling-if-sai-is-missed>
+== Part 8 --- Ḥajj al-Ifrād: Discussion Deferred
+<part-8-hajj-al-ifrad-discussion-deferred>
+#strong[Q:] In Ḥajj al-Ifrād (Hajj only, no ʿUmrah), can the pilgrim
+exit iḥrām after Ṭawāf al-Qudūm without performing Saʿī?
 
-Since Saʿī is #strong[wājib] (Ḥanafī):
+#strong[A:] The teacher clarified the general principles:
 
-- If missed #strong[with a genuine excuse (ʿudhr)] --- such as severe illness, menstruation (ḥayḍ), or post-natal bleeding (nifās) --- #strong[no penalty].
-- If missed #strong[without excuse] --- #strong[dam (دم)] is obligatory: slaughter of an average goat in the Ḥaram of Makkah.
+- In Ḥajj al-Ifrād, the pilgrim enters iḥrām with the #strong[intention
+  of Hajj only].
+- He #strong[cannot exit iḥrām] until the Hajj rites are completed
+  (Wuqūf ʿArafah, Ṭawāf al-Ziyārah, etc.).
+- The Saʿī is #strong[not a condition] for exiting iḥrām --- iḥrām
+  restrictions are lifted by Ṭawāf al-Ziyārah (and Ḥalq/Qaṣr).
+- On the occasion of Ṭawāf al-Qudūm, performing Saʿī is
+  #strong[optional] --- the pilgrim may do it then (using the
+  concession) or defer it to after Ṭawāf al-Ziyārah.
 
-=== The principle: Wājib missed for ʿudhr → no penalty
-<principle-wajib-missed-for-udhr>
+The teacher noted that the #strong[detailed ruling for Ḥajj al-Ifrād]
+--- particularly regarding exiting iḥrām --- needs further verification
+and will be shared with students via the WhatsApp group.
 
-This principle was extracted from the ruling of #strong[Ṭawāf al-Wadāʿ (طواف الوداع)]:
-
-- Ṭawāf al-Wadāʿ is the #strong[last thing] a pilgrim does when leaving Makkah --- it is #strong[wājib].
-- Yet the Prophet ﷺ #strong[permitted menstruating women] to skip it #strong[without issuing any penalty (dam)].
-- This established the general rule that #strong[any wājib missed for a genuine ʿudhr incurs no penalty].
-
-#strong[Contrast with Farḍ:]
-
-- If a #strong[farḍ] is missed, it does not matter #strong[why] it is missed --- for ʿudhr or without ʿudhr --- the action is #strong[invalid] and must be repeated.
-- For #strong[wājib], the action remains valid even when missed, but a penalty applies --- #strong[unless] there is a genuine excuse.
-
-#horizontalrule
-
-== Part 6 --- Amount of Saʿī: Seven Rounds
-<part-6-amount-of-sai-seven-rounds>
-
-=== How to count
-<how-to-count>
-
-- #strong[Ṣafā to Marwah] = #strong[one round (شوط)]
-- #strong[Marwah back to Ṣafā] = #strong[second round]
-- Total = #strong[seven rounds]
-- The Saʿī #strong[starts at Ṣafā] and #strong[ends at Marwah] (7th round).
-
-#strong[Common misconception:] Some people think that going from Ṣafā to Marwah and coming back to Ṣafā counts as one round. This is #strong[incorrect]. Each direction is one round.
-
-=== Climbing on the mountains
-<climbing-on-the-mountains>
-
-#strong[Climbing onto Ṣafā or Marwah] is #strong[sunnah] --- it is #strong[not wājib]. If a person does not climb and simply walks between the two points at ground level:
-
-- He has #strong[missed a sunnah], not a wājib.
-- There is #strong[no penalty] --- only the mild #strong[karāhah] of missing a sunnah intentionally.
-
-=== Ramal (hastening) during Saʿī
-<ramal-during-sai>
-
-#strong[Ramal (رمل)] [hastening/jogging] during the Saʿī is also #strong[sunnah]. If missed:
-
-- #strong[No penalty] --- it is a sunnah.
-- Missing a sunnah intentionally is #strong[makrūh (مكروه)] only.
-
-#horizontalrule
-
-== Part 7 --- The Penalty (Jazāʾ) Framework: Uṣūl for Missing a Wājib
-<part-7-penalty-framework>
-
-The teacher taught a comprehensive #strong[uṣūl principle] regarding penalties when wājibāt are missed.
-
-=== Principle --- Amount of penalty based on how much is missed
-<principle-amount-of-penalty>
-
-This principle was #strong[extracted (mustanbaṭ)] from the rulings of #strong[Ramī al-Jimār (رمي الجمار)] [stoning the pillars] and is applicable to #strong[all wājibāt] of Hajj:
-
+=== Quick Reference: Three Types of Hajj
+<quick-reference-three-types-of-hajj>
 #figure(
   align(center)[#table(
-    columns: (40%, 60%),
-    align: (auto, auto),
-    table.header([Situation], [Penalty]),
+    columns: (27.27%, 40.91%, 31.82%),
+    align: (auto,auto,auto,),
+    table.header([Type], [Meaning], [Iḥrām],),
     table.hline(),
-    [#strong[Entire wājib] missed (no ʿudhr)], [#strong[Dam (دم)] --- slaughter of an average goat in the Ḥaram],
-    [#strong[Major part (akṯar / أكثر)] missed (no ʿudhr)], [#strong[Dam] --- because the major part is treated like the whole],
-    [#strong[Minor part (aqall / أقل)] missed (no ʿudhr)], [#strong[Ṣadaqah (صدقة)] for each missed part --- equivalent to Ṣadaqat al-Fiṭr per unit],
+    [#strong[Ḥajj al-Ifrād (الإفراد)]], [Hajj only --- no ʿUmrah], [One
+    iḥrām for Hajj; remains in iḥrām until Hajj rites are complete],
+    [#strong[Ḥajj al-Tamattuʿ (التمتع)]], [ʿUmrah first, then
+    Hajj], [Two separate iḥrāms --- exit after ʿUmrah, re-enter for
+    Hajj],
+    [#strong[Ḥajj al-Qirān (القران)]], [ʿUmrah and Hajj together], [One
+    iḥrām for both; remains in iḥrām until Hajj rites are complete],
   )]
   , kind: table
-)
-
-=== Application to Saʿī (7 rounds)
-<application-to-sai>
-
-#figure(
-  align(center)[#table(
-    columns: (20%, 30%, 50%),
-    align: (auto, auto, auto),
-    table.header([Rounds missed], [Classification], [Penalty]),
-    table.hline(),
-    [#strong[All 7]], [Entire wājib missed], [#strong[Dam] (one goat)],
-    [#strong[4 rounds]], [Major part missed], [#strong[Dam] --- major is treated like whole],
-    [#strong[3 rounds]], [Minor part missed], [#strong[Ṣadaqah] --- 3 × Ṣadaqat al-Fiṭr],
-    [#strong[2 rounds]], [Minor part missed], [#strong[Ṣadaqah] --- 2 × Ṣadaqat al-Fiṭr],
-    [#strong[1 round]], [Minor part missed], [#strong[Ṣadaqah] --- 1 × Ṣadaqat al-Fiṭr],
-  )]
-  , kind: table
-)
-
-Each ṣadaqah = approximately #strong[half a ṣāʿ (صاع) of wheat] given to a #strong[miskīn (مسكين)] [needy person].
-
-#strong[Cap on ṣadaqah:] If the #strong[total ṣadaqah] amount reaches the value of a dam (the price of a goat), then the pilgrim #strong[may replace it with a dam] instead. But the default when minor parts are missed is ṣadaqah, not dam.
-
-#horizontalrule
-
-== Part 8 --- The Broader Uṣūl: Dam as the Standard Penalty
-<part-8-broader-usul-dam-as-standard-penalty>
-
-The teacher articulated the general rule:
-
-#strong[Every wājib action] for which there is a #strong[dam] when the #strong[entire] action is missed, also carries a #strong[dam] when its #strong[major part (akṯar)] is missed for no ʿudhr. This is extracted from the rulings of Ramī al-Jimār and is applicable across all the Wājibāt of Hajj.
-
-This uṣūl allows scholars to derive penalties for specific scenarios even when no explicit ḥadīth addresses them --- because the principle has been established from the known cases.
-
-#horizontalrule
-
-== Q&A
-<qa-12>
-
-#strong[Q:] Is Ṭawāf al-Wadāʿ wājib for ʿUmrah as well?
-
-#strong[A:] The teacher indicated this needs to be checked and would be confirmed separately.
-
-#strong[Q:] Can you clarify --- does the "kataba" (كتب) in the ḥadīth about Saʿī necessarily mean farḍ?
-
-#strong[A:] No. The word #strong[kataba] means "Allāh commanded" --- but Allāh's commands appear in the form of #strong[farḍ], #strong[wājib], and even #strong[sunnah mu'akkadah] at times. Both farḍ and wājib are possible meanings. When there is this ambiguity, the Ḥanafī school takes the meaning that #strong[accords with the Qur'anic text]. Since the Qur'anic āyah does not establish farḍiyyah for Saʿī, the meaning of wujūb is preferred.
+  )
 
 #horizontalrule
 
 == Closing
-<closing-12>
-
-- #strong[Covered:] Five Wājibāt of Hajj (overview); status of Saʿī (Wājib --- Ḥanafī, Farḍ --- Shāfiʿī, third opinion --- neither); evidence from Qur'an (al-Baqarah 2:158 --- context of revelation) and ḥadīth; objections to the Shāfiʿī dalīl (majhūl narrator, uncertain meaning); amount of Saʿī (7 rounds); climbing and ramal as sunnah; penalty framework (dam for whole/major part, ṣadaqah for minor part); wājib missed for ʿudhr = no penalty; mursal ḥadīth acceptance (Ḥanafī vs Shāfiʿī); two parameters of dalīl qaṭʿī.
-- #strong[Next class:] Continuation of Saʿī --- conditions for validity, sunan, timing, and ruling on delay; same time inshā'Allāh.
+<closing>
+- #strong[Covered:] Seven rounds of Saʿī (ijmāʿ); farḍ (presence) vs
+  wājib (walking) within Saʿī; conditions for validity (must follow
+  valid Ṭawāf, must start from Ṣafā, ṭahārah not required for Saʿī but
+  indirectly needed via Ṭawāf); the Masʿā is not part of the Masjid;
+  sunan (ramal for men in marked area); timing (after Ṭawāf al-Ziyārah,
+  with concession to do it after Ṭawāf al-Qudūm); rulings when missed
+  (still in Makkah = perform with no penalty; returned home = dam or
+  come back); ignorance is not an excuse; Saʿī in ʿUmrah (wājib); Ḥajj
+  al-Qirān requires two Saʿīs.
+- #strong[Next class:] Next wājib of Hajj (Muzdalifah); details of Ḥajj
+  al-Ifrād to be shared separately; same time inshā'Allāh.

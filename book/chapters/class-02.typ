@@ -11,7 +11,7 @@
 == Background
 <background>
 The fifth condition for Hajj to be obligatory is #strong[physical
-capability];. The class examined the specific case of a #strong[blind
+capability]. The class examined the specific case of a #strong[blind
 person] and whether Hajj is obligatory upon them.
 
 #horizontalrule
@@ -25,23 +25,23 @@ His reasoning:
 
 - A blind person cannot independently perform the actions of Hajj --- he
   cannot travel, mount or dismount, or navigate without assistance.
-- Any capability he has is #strong[dependent on another person];, and
+- Any capability he has is #strong[dependent on another person], and
   that other person is not under his control.
 - In Sharia, capability achieved through someone not in one's control
-  #strong[does not count as true capability];.
+  #strong[does not count as true capability].
 - Example given: an elderly person too weak to sit firmly --- even if
   someone helps him, Hajj is still not obligatory on him.
 - Obligating Hajj in such a case would create #strong[haraj (undue
-  hardship)];, which Islam does not impose.
+  hardship)], which Islam does not impose.
 
 === Opinion 2 --- The Sahibain (Imam Abu Yusuf and Imam Muhammad) --- preferred opinion
 <opinion-2-the-sahibain-imam-abu-yusuf-and-imam-muhammad-preferred-opinion>
 Hajj #strong[is obligatory] upon a blind person #strong[if he has a
-guide];. Their reasoning:
+guide]. Their reasoning:
 
 - A blind person is physically fit --- he can perform all actions of
   Hajj: Tawaf, Rami (stoning), and all other rites.
-- All he lacks is #strong[directional guidance];, not physical ability.
+- All he lacks is #strong[directional guidance], not physical ability.
 - If a guide is available, he has no valid excuse.
 - Therefore, if a guide is present, Hajj is obligatory upon him
   personally.
@@ -55,7 +55,7 @@ having #strong[Zaad] (food and provision) and #strong[Rahila] (means of
 travel) --- and a blind person can have both.
 
 #strong[Imam Abu Hanifa's response:] The Prophet ﷺ mentioned Zaad and
-Rahila as #strong[examples];, not as an exhaustive definition of
+Rahila as #strong[examples], not as an exhaustive definition of
 capability. Evidence:
 
 - A person blocked by a sea with no ship available is not obligated for

@@ -1,326 +1,433 @@
 #import "../lib.typ": horizontalrule, class-meta
 
-= Masail e Hajj --- Class 13 Summary
-<masail-e-hajj-class-13-summary>
+= Masail e Hajj --- Class 14 Summary
+<masail-e-hajj-class-14-summary>
 #class-meta(
-  date: [June 9, 2026],
-  topic: [Saʿī between Ṣafā and Marwah --- Conditions of Validity, Sunan, Timing, and Rulings When Missed],
+  date: [June 10, 2026],
+  topic: [Wuqūf at Muzdalifah --- Status, Farḍ, Place, Time, and Rulings; Introduction to Ramī al-Jimār and the Uṣūl of the Prophet's Actions],
   teacher: [Mufti Umar Aejaz],
 )
 
+
 == Introduction
-<introduction-13>
-
-This lesson continues the detailed study of #strong[Saʿī (سعي)] between Ṣafā and Marwah, building on the previous class which established its status as #strong[Wājib] (Ḥanafī) and the penalty framework. Today the teacher covers: the #strong[seven rounds] and the farḍ vs wājib within Saʿī itself, the #strong[conditions (shurūṭ)] that make Saʿī valid, the #strong[sunan] of Saʿī, its #strong[timing], and what happens when Saʿī is #strong[delayed or missed entirely]. A Q&A section addresses Saʿī in ʿUmrah, Ḥajj al-Qirān vs Ḥajj al-Ifrād, and the number of Saʿīs required.
-
-#horizontalrule
-
-== Part 1 --- The Seven Rounds: Confirmation and Farḍ vs Wājib
-<part-1-seven-rounds-fard-vs-wajib>
-
-=== The seven rounds are established by Ijmāʿ
-<seven-rounds-ijma>
-
-The requirement of #strong[seven rounds (أشواط)] is established by:
-
-1. #strong[Ijmāʿ (إجماع)] --- the consensus of the Ummah.
-2. #strong[The practice of the Prophet ﷺ] --- he performed seven rounds.
-
-#strong[Reminder (from last class):] One round = Ṣafā to Marwah; the return from Marwah to Ṣafā is a second round. The Saʿī starts at Ṣafā and ends at Marwah (7th round).
-
-=== What is Farḍ and what is Wājib within Saʿī?
-<fard-and-wajib-within-sai>
-
-#figure(
-  align(center)[#table(
-    columns: (25%, 15%, 60%),
-    align: (auto, auto, auto),
-    table.header([Element], [Status], [Explanation]),
-    table.hline(),
-    [#strong[Being present (الحضور)] between Ṣafā and Marwah], [#strong[Farḍ]], [The essential component --- presence fulfils the farḍ regardless of _how_ one is present (walking, carried, wheelchair)],
-    [#strong[Walking on one's feet (المشي على الأقدام)]], [#strong[Wājib]], [Must walk unless there is a genuine ʿudhr; utilising a wheelchair, animal, or being carried without excuse = missing the wājib],
-  )]
-  , kind: table
-)
-
-#strong[Practical implication:] A person who is #strong[carried] or uses a #strong[wheelchair] without a valid excuse:
-- Has #strong[not] missed the farḍ (he was present).
-- Has missed the #strong[wājib] of walking $arrow$ #strong[dam (دم)] is required if he cannot repeat.
-
-This is #strong[identical] to the ruling in Ṭawāf (covered in Class 10).
+<introduction>
+This class covers two of the five #strong[Wājibāt of Hajj]: the
+#strong[Wuqūf (وقوف)] \[standing/staying\] at #strong[Muzdalifah
+(مزدلفة)], and the beginning of the discussion on #strong[Ramī al-Jimār
+(رمي الجمار)] \[stoning the pillars\]. For Muzdalifah, the teacher
+discusses its status (Wājib vs Farḍ), the essential act (farḍ), the
+place, the time, and the ruling when it is missed. For Ramī, the class
+covers the dalīl for its obligation and a major #strong[uṣūl discussion]
+on when the #strong[actions of the Prophet ﷺ] make something obligatory
+--- distinguishing between obligation in #strong[practice (ʿamalī)] and
+obligation in #strong[creed (ʿaqīdah/iʿtiqādī)], and the concept of the
+Prophet's #strong[khuṣūṣiyyāt (خصوصيات)] \[specialties\].
 
 #horizontalrule
 
-== Part 2 --- Conditions for Validity of Saʿī (Shurūṭ)
-<part-2-conditions-for-validity-of-sai>
+== Part 1 --- Status of Wuqūf at Muzdalifah
+<part-1-status-of-wuquf-at-muzdalifah>
+=== Ḥanafī position: Wājib
+<hanafi-position-wajib>
+#strong[According to the Ḥanafī school, Wuqūf at Muzdalifah is Wājib
+(واجب).]
 
-=== Condition 1 --- Saʿī must be after a valid Ṭawāf
-<condition-1-sai-after-valid-tawaf>
+#strong[Reasoning:]
 
-#strong[Saʿī is a follower (tābiʿ / تابع) of Ṭawāf.] A follower must come #strong[after] what it follows --- it cannot precede it.
-
-#figure(
-  align(center)[#table(
-    columns: (50%, 50%),
-    align: (auto, auto),
-    table.header([Scenario], [Ruling]),
-    table.hline(),
-    [Saʿī performed #strong[after] a complete Ṭawāf (7 rounds)], [#strong[Valid]],
-    [Saʿī performed #strong[after] the major part of Ṭawāf (4+ rounds)], [#strong[Valid] --- because the major part is treated as the whole],
-    [Saʿī performed #strong[before] any Ṭawāf], [#strong[Not valid] --- must be repeated after Ṭawāf],
-  )]
-  , kind: table
-)
-
-#strong[Dalīl:] The Prophet ﷺ performed Saʿī after Ṭawāf, and he instructed:
++ Its obligation is established from #strong[khabar wāḥid (خبر واحد)],
+  which can maximally prove #strong[wujūb], not farḍiyyah.
++ The Prophet ﷺ said:
 
 #quote(block: true)[
-خُذُوا عَنِّي مَنَاسِكَكُمْ
+اَلْحَجُّ عَرَفَةُ
 
-_"Learn your rites (of Hajj) from me."_
+#emph["Hajj is ʿArafah."]
 
 #strong[Ref:] Hadith --- as cited in class (confirm in hadith index).
 ]
 
-=== Condition 2 --- Must start from Ṣafā and end at Marwah
-<condition-2-start-from-safa>
+If Muzdalifah were also farḍ, the Prophet ﷺ would have included it in
+this definition. By singling out ʿArafah, he indicated that
+#strong[ʿArafah alone] is the farḍ wuqūf.
 
-The first round #strong[must] begin from #strong[Ṣafā]. If a person starts from Marwah instead:
-
-- That first round (Marwah $arrow$ Ṣafā) is #strong[not counted].
-- He must complete seven valid rounds starting from Ṣafā --- effectively performing #strong[eight rounds] total, with the first discarded.
-
-#strong[Dalīl:] When the Prophet ﷺ was asked where to start, he said:
-
-#quote(block: true)[
-نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ
-
-_"We begin with what Allāh began with."_
-
-#strong[Ref:] Hadith --- as cited in class (Sahih Muslim and others --- confirm exact numbering).
+#block[
+#set enum(numbering: "1.", start: 3)
++ The Prophet ﷺ #strong[sent the women and weaker members of his family
+  ahead] from Muzdalifah before the compulsory time, allowing them to
+  skip the wuqūf. He did #strong[not order any kaffārah (penalty)] for
+  them. This demonstrates that Muzdalifah is #strong[only wājib] ---
+  because a #strong[farḍ cannot be skipped] for an ʿudhr without
+  invalidating the action.
 ]
 
-Allāh mentioned #strong[Ṣafā first] in the Qur'an:
+=== Shāfiʿī position: Farḍ (Rukn)
+<shafii-position-far-rukn>
+#strong[According to Imam al-Shāfiʿī, Wuqūf at Muzdalifah is Farḍ.]
+
+#strong[Dalīl:]
 
 #quote(block: true)[
-إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ
+فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ الْمَشْعَرِ الْحَرَامِ
 
-_"Indeed, Ṣafā and Marwah are among the symbols of Allāh."_
+#emph["And when you depart from ʿArafāt, then remember Allāh at
+al-Mashʿar al-Ḥarām."]
 
-#strong[Ref:] Surah al-Baqarah, 2:158.
+#strong[Ref:] Surah al-Baqarah, 2:198.
 ]
 
-The Prophet ﷺ himself always started from Ṣafā. This is the #strong[preferred (rājiḥ) opinion] --- that starting from Ṣafā is a #strong[condition of validity].
+#strong[Imam al-Shāfiʿī's reasoning:] The āyah gives a direct
+#strong[command (amr)] to remember Allāh at al-Mashʿar al-Ḥarām
+(Muzdalifah). A command in the Qur'an refers to #strong[farḍiyyah].
 
-#strong[Non-preferred opinion:] Starting from Ṣafā is not compulsory (merely sunnah). This is #strong[not the muʿtamad].
+=== Ḥanafī response
+<hanafi-response>
+The Aḥnāf responded on #strong[two fronts]:
 
-=== Condition 3 --- Ṭahārah is NOT required for Saʿī itself
-<condition-3-tahara-not-required>
+#strong[\1. The meaning of "dhikr" (ذكر) is uncertain:]
 
-#strong[Ṭahārah (طهارة)] --- whether from #strong[ḥadath aṣghar] (minor impurity) or #strong[ḥadath akbar] (major impurity / janābah) --- is #strong[not a condition] for the validity of Saʿī.
+The word #strong["fa-dhkurū Allāh" (فاذكروا الله)] \[remember Allāh\]
+could mean:
 
-#strong[Reason:] Saʿī is performed #strong[outside the Masjid (al-Masʿā / المسعى)], not inside it. The requirement of ṭahārah is linked to acts performed #strong[inside the Masjid] (i.e. Ṭawāf). Since Saʿī is outside, ṭahārah is not stipulated for it.
+- #strong[The wuqūf itself] --- standing at Muzdalifah in remembrance of
+  Allāh, OR
+- #strong[The ṣalāh] --- specifically Ṣalāt al-Maghrib and Ṣalāt
+  al-ʿIshā' combined at Muzdalifah with #strong[jamʿ ta'khīr (جمع
+  تأخير)] \[delayed combining\].
 
-#strong[However --- the critical link to Ṭawāf:]
+Since #strong[ṣalāh is undoubtedly farḍ], the āyah could simply be
+commanding the prayers at Muzdalifah --- not establishing a separate
+farḍ of wuqūf. The #strong[uncertainty in meaning] prevents this āyah
+from being a #strong[dalīl qaṭʿī] for the farḍiyyah of wuqūf.
 
-Since Saʿī must follow a #strong[valid Ṭawāf], and Ṭawāf requires ṭahārah, the practical effect is:
+#strong[\2. The fact of istiḥbāb (اجتهاد) proves there is no qaṭʿī
+dalīl:]
+
+The very fact that scholars had to engage in #strong[ijtihād] about
+whether Muzdalifah is farḍ or wājib shows that there is #strong[no
+definitive proof (dalīl qaṭʿī)]. If there were, there would be no room
+for ijtihād --- the matter would be settled.
+
+#horizontalrule
+
+== Part 2 --- The Farḍ (Essential Act) of Wuqūf at Muzdalifah
+<part-2-the-far-essential-act-of-wuquf-at-muzdalifah>
+=== Just being present is sufficient
+<just-being-present-is-sufficient>
+The #strong[farḍ] (essential/minimum act) within the wuqūf is simply
+#strong[being present (الحضور)] in Muzdalifah --- in any manner:
 
 #figure(
   align(center)[#table(
-    columns: (40%, 20%, 40%),
-    align: (auto, auto, auto),
-    table.header([Scenario], [Ṭawāf valid?], [Saʿī valid?]),
+    columns: (38.46%, 61.54%),
+    align: (auto,auto,),
+    table.header([Scenario], [Farḍ fulfilled?],),
     table.hline(),
-    [Ṭawāf with ṭahārah $arrow$ Saʿī without ṭahārah], [Yes], [#strong[Yes] --- Saʿī itself doesn't need ṭahārah],
-    [Ṭawāf #strong[without] ṭahārah $arrow$ Saʿī #strong[with] ṭahārah], [No], [#strong[No] --- it follows an invalid Ṭawāf],
-    [Ṭawāf without ṭahārah $arrow$ person obtains ṭahārah $arrow$ Saʿī with ṭahārah], [No], [#strong[No] --- the Ṭawāf was still invalid],
+    [Stayed properly and made duʿā'], [#strong[Yes]],
+    [Merely #strong[passed through] without stopping], [#strong[Yes] ---
+    farḍ is done],
+    [Stayed for #strong[one second]], [#strong[Yes]],
+    [Was present #strong[without knowing] it was
+    Muzdalifah], [#strong[Yes] --- niyyah is not required],
+    [Was present but had #strong[no intention] of wuqūf], [#strong[Yes]
+    --- niyyah is not a shart],
   )]
   , kind: table
-)
+  )
 
-#strong[Key takeaway:] Ṭahārah is not a condition of Saʿī itself, but it is indirectly required because Saʿī must follow a #strong[valid] Ṭawāf --- and Ṭawāf #strong[does] require ṭahārah (as wājib in the Ḥanafī school).
+#strong[Key distinction:] The person who merely passes through fulfils
+the #strong[farḍ] but misses the #strong[sunnah] of proper standing with
+duʿā'.
 
-=== Q&A --- Is the Masʿā (place of Saʿī) part of the Masjid?
-<masa-not-part-of-masjid>
-
-#strong[Q:] People pray in the Masʿā area during ṣalāh times, and there are prayer markings on the floor. Does this make it part of the Masjid?
-
-#strong[A:] No. The fact that people pray there during congregation --- when the Masjid is full and the overflow extends outside --- does not make the Masʿā part of the Masjid. People also pray outside the Masjid in the streets when it is full; that does not make the streets part of the Masjid.
-
-#strong[Q:] What about the expansion (tawsīʿ) of the Masjid --- doesn't that change the status?
-
-#strong[A:] No. The #strong[status declared by Allāh in the Qur'an] does not change through human expansion. The Masʿā is declared as the place of Saʿī --- it will remain as such even if physically enclosed within an expanded building. The #strong[aḥkām of Sharīʿah] follow the original designation, not architectural changes.
-
-#horizontalrule
-
-== Part 3 --- Sunan of Saʿī
-<part-3-sunan-of-sai>
-
-=== Ramal (hastening) in the marked area
-<ramal-in-marked-area>
-
-- In each round, there is a #strong[specific marked section] between two green markers/pillars.
-- In this section, #strong[ramal (رمل)] [hastening/jogging] is #strong[masnūn (مسنون)] [sunnah].
-- In the #strong[rest] of each round, #strong[normal walking] is masnūn.
-
-=== Ramal is for men only
-<ramal-for-men-only>
-
-- #strong[Women] walk normally throughout the entire Saʿī --- including in the marked ramal area.
-- If ramal is missed (by men), there is #strong[no penalty] --- only the #strong[karāhah] of missing a sunnah intentionally.
+=== Ṭahārah is NOT required
+<aharah-is-not-required>
+#strong[Ṭahārah (طهارة)] is not a condition for the wuqūf at Muzdalifah.
+Ṭahārah is mandatory only for #strong[Ṭawāf], which is performed inside
+the Masjid. Other Hajj actions performed outside the Masjid ---
+including Wuqūf at ʿArafah and Wuqūf at Muzdalifah --- do not require
+ṭahārah.
 
 #horizontalrule
 
-== Part 4 --- Timing of Saʿī (for Hajj)
-<part-4-timing-of-sai>
+== Part 3 --- Place of Wuqūf
+<part-3-place-of-wuquf>
+=== Anywhere in Muzdalifah --- except Wādī Muḥassar
+<anywhere-in-muzdalifah-except-wadi-muhassar>
+The wuqūf may be performed #strong[anywhere] within the area of
+Muzdalifah.
 
-=== Basic time: After Ṭawāf al-Ziyārah, within the days of slaughtering
-<basic-time-after-tawaf-ziyarah>
+#strong[Exception:] #strong[Wādī Muḥassar (وادي محسر)] --- this valley
+is #strong[not] a valid place for the wuqūf. Staying there does not
+count.
 
-The Saʿī that is a #strong[wājib of Hajj] must come after #strong[Ṭawāf al-Ziyārah (طواف الزيارة)] --- the second farḍ of Hajj --- within the #strong[three days of slaughtering (Ayyām al-Naḥr)].
+=== Preferred location
+<preferred-location>
+The #strong[preferred (mustaḥabb)] location is near #strong[Jabal Quzaḥ
+(جبل قزح)] --- the mountain near which the #strong[Imam] and
+#strong[Amīr of Hajj] stand. This is the same place where the Prophet ﷺ
+made his wuqūf. Being close to it means being:
 
-=== Why not after Ṭawāf al-Qudūm?
-<why-not-after-tawaf-qudum>
+- Closer to the #strong[Imam].
+- Closer to the #strong[place of the Prophet ﷺ].
 
-Ṭawāf al-Qudūm (the arrival ṭawāf) is a #strong[sunnah/nafl ṭawāf]. A #strong[wājib Saʿī] cannot be a follower of a #strong[nafl Ṭawāf] --- the wājib requires a corresponding #strong[farḍ] Ṭawāf (i.e. Ṭawāf al-Ziyārah) to follow.
+However, it is #strong[not permissible] to rush, push, or cause harm to
+others in trying to reach this spot.
 
-=== The concession (rukhṣah): Saʿī after Ṭawāf al-Qudūm
-<concession-sai-after-tawaf-qudum>
+#horizontalrule
 
-#strong[The Sharīʿah grants a concession:] If a pilgrim anticipates that performing Saʿī during the Ayyām al-Naḥr will be #strong[difficult] due to crowds and the many obligations of those days (Ṭawāf, Ramī, Qurbānī, Ḥalq), he may perform the Saʿī #strong[in advance] --- immediately after #strong[Ṭawāf al-Qudūm] (upon first arriving in Makkah).
-
+== Part 4 --- Time of Wuqūf at Muzdalifah
+<part-4-time-of-wuquf-at-muzdalifah>
+=== The compulsory time: Between Ṣubḥ Ṣādiq and sunrise
+<the-compulsory-time-between-subh-sadiq-and-sunrise>
 #figure(
   align(center)[#table(
     columns: (50%, 50%),
-    align: (auto, auto),
-    table.header([Scenario], [Ruling]),
+    align: (auto,auto,),
+    table.header([Period], [Status],),
     table.hline(),
-    [Performs Saʿī after Ṭawāf al-Qudūm (arrival)], [#strong[Valid] --- the wājib is fulfilled; no need to repeat during Ayyām al-Naḥr],
-    [Does not perform Saʿī after arrival; performs it after Ṭawāf al-Ziyārah during Ayyām al-Naḥr], [#strong[Standard ruling] --- this is the basic time],
+    [#strong[Night] (after arriving from ʿArafah, 9th Dhū
+    al-Ḥijjah)], [#strong[Sunnah] --- spending the night in Muzdalifah
+    is recommended, not wājib],
+    [#strong[From Ṭulūʿ al-Fajr (صبح صادق) to Ṭulūʿ al-Shams (طلوع
+    الشمس)]], [#strong[Wājib] --- this is the compulsory period for the
+    wuqūf],
   )]
   , kind: table
-)
+  )
 
-This concession is to #strong[ease the burden] on the pilgrim during the busiest days of Hajj.
+=== Practical sequence
+<practical-sequence>
++ #strong[After ʿArafah] (evening of 9th Dhū al-Ḥijjah): pilgrims travel
+  to Muzdalifah.
++ #strong[At Muzdalifah:] Ṣalāt al-Maghrib and Ṣalāt al-ʿIshā' are
+  performed together (#strong[jamʿ ta'khīr] --- Maghrib delayed to
+  ʿIshā' time).
++ #strong[Night:] Rest and sleep --- this is sunnah, not wājib.
++ #strong[Fajr prayer:] Should be performed #strong[as early as
+  possible] --- in the #strong[dark part] of Fajr time (not waiting for
+  brightness as is normally preferred in the Ḥanafī school).
++ #strong[After Fajr:] Stand (#strong[wuqūf]) facing the Qiblah, making
+  duʿā' and dhikr, until proper daylight appears.
++ #strong[Before sunrise:] Depart for Minā.
+
+=== Why pray Fajr early on this day?
+<why-pray-fajr-early-on-this-day>
+Normally in the Ḥanafī school, Fajr is preferred in the #strong[isfār
+(إسفار)] \[bright period\]. But on the morning of the 10th Dhū al-Ḥijjah
+at Muzdalifah, Fajr should be prayed #strong[early in the dark (ghalas /
+غلس)] --- so the pilgrim has #strong[more time] for the wuqūf and duʿā'
+before departing.
+
+=== Ruling for departing early
+<ruling-for-departing-early>
+#figure(
+  align(center)[#table(
+    columns: (55.56%, 44.44%),
+    align: (auto,auto,),
+    table.header([Scenario], [Ruling],),
+    table.hline(),
+    [Departed #strong[after Fajr prayer] but #strong[before standing for
+    wuqūf] (rushed away immediately after ṣalāh)], [Farḍ of presence is
+    done (he was there); but missed the sunnah of standing ---
+    #strong[no penalty], but it is against the sunnah],
+    [Departed #strong[before Fajr time] entirely (left Muzdalifah in the
+    night)], [#strong[Wājib missed] --- if without ʿudhr, #strong[dam]
+    is required],
+  )]
+  , kind: table
+  )
+
+=== Imam al-Shāfiʿī's extended compulsory time
+<imam-al-shafiis-extended-compulsory-time>
+Imam al-Shāfiʿī held that the compulsory time for the wuqūf begins from
+the #strong[second half of the night] (after midnight of the 9th/10th
+Dhū al-Ḥijjah) --- not from Fajr. This extends the compulsory window.
 
 #horizontalrule
 
-== Part 5 --- When Saʿī is Missed or Delayed
-<part-5-sai-missed-or-delayed>
+== Part 5 --- Ruling When Wuqūf at Muzdalifah is Missed
+<part-5-ruling-when-wuquf-at-muzdalifah-is-missed>
+=== Missed with ʿudhr (genuine excuse): No penalty
+<missed-with-udhr-genuine-excuse-no-penalty>
+The Prophet ﷺ sent the #strong[women, elderly, and weaker members] of
+his family ahead from Muzdalifah during the night --- before the
+compulsory time. He did #strong[not order any penalty] for them. This
+establishes:
 
-=== Case 1 --- Still in Makkah
-<case-1-still-in-makkah>
+- Weaker pilgrims, women, children, and the elderly may #strong[depart
+  at night] before Fajr.
+- The wājib is #strong[missed for ʿudhr] (crowd, physical weakness) →
+  #strong[no dam].
 
-If the pilgrim did not perform Saʿī during the Ayyām al-Naḥr but is #strong[still in Makkah]:
+=== Missed without ʿudhr: Dam is required
+<missed-without-udhr-dam-is-required>
+If a healthy, capable person leaves Muzdalifah before the compulsory
+time (Fajr to sunrise) #strong[without a valid excuse]:
 
-- He should #strong[perform the Saʿī] whenever he remembers.
-- There is #strong[no penalty for the delay] --- no dam is required merely for being late.
-- Even if he had #strong[physical/marital relations] after Ṭawāf al-Ziyārah, the Saʿī is #strong[still valid] when performed later. The iḥrām restrictions were already lifted by the Ṭawāf; the state of iḥrām does not depend on Saʿī.
+- #strong[Dam (دم)] --- slaughter of a goat in the Ḥaram.
 
-=== Case 2 --- Returned home without performing Saʿī
-<case-2-returned-home>
+#horizontalrule
 
-If the pilgrim returned home and #strong[missed the Saʿī entirely], without a genuine excuse:
+== Part 6 --- Ramī al-Jimār: Introduction and Dalīl
+<part-6-rami-al-jimar-introduction-and-dalil>
+=== Status: Wājib --- by Ijmāʿ
+<status-wajib-by-ijma>
+#strong[Ramī al-Jimār (رمي الجمار)] \[stoning the pillars\] is
+#strong[wājib] and agreed upon by #strong[all schools of thought] as a
+compulsory act of Hajj.
 
-#strong[Option A --- Send a dam:]
-- Slaughter of an average goat in the Ḥaram of Makkah.
-- This is the #strong[preferred option] according to #strong[Imam Muḥammad رحمه الله], because:
-  - The defect (nuqṣān) is a #strong[lesser one] (missing a wājib, not a farḍ).
-  - It saves the pilgrim travel expenses.
-  - It is #strong[more beneficial for the people of the Ḥaram] (the meat is distributed there).
+=== Dalīl
+<dalil>
++ #strong[Ijmāʿ (إجماع):] The entire Ummah agrees on its obligation.
++ #strong[The Prophet's statement:] He ordered the performance of Ramī.
++ #strong[The Prophet's practice (fiʿl / فعل):] He performed Ramī in his
+  Hajj.
++ #strong[His general instruction:]
 
-#strong[Option B --- Return to Makkah:]
-- He may return, enter a #strong[new iḥrām] (since the old one is already completed), and perform the Saʿī.
-- Once performed, the #strong[penalty (dam) is dropped] --- because he has now done the main action itself.
+#quote(block: true)[
+خُذُوا عَنِّي مَنَاسِكَكُمْ
 
-=== When to choose which option?
-<when-to-choose-which-option>
+#emph["Learn your rites (of Hajj) from me."]
+
+#strong[Ref:] Hadith --- as cited in class (confirm in hadith index).
+]
+
+This means his actions during Hajj are themselves evidence for
+obligation.
+
+#horizontalrule
+
+== Part 7 --- Major Uṣūl: When Does the Prophet's Action (Fiʿl) Establish Wujūb?
+<part-7-major-usul-when-does-the-prophets-action-fil-establish-wujub>
+The teacher explained a critical #strong[uṣūl principle] regarding when
+the actions of the Prophet ﷺ create obligation for the Ummah.
+
+=== Three conditions for the Prophet's action to establish wujūb
+<three-conditions-for-the-prophets-action-to-establish-wujub>
+For an action of the Prophet ﷺ to obligate the Ummah to follow it,
+#strong[three conditions] must be met:
+
+#figure(
+  align(center)[#table(
+    columns: (11.11%, 40.74%, 48.15%),
+    align: (auto,auto,auto,),
+    table.header([\#], [Condition], [Explanation],),
+    table.hline(),
+    [1], [#strong[Done with consistency (مواظبة)]], [He performed it
+    regularly, not just once or occasionally],
+    [2], [#strong[Done as ʿibādah (عبادة), not personal need]], [It was
+    performed as worship, not to fulfil a personal or natural need
+    (e.g.~eating, answering the call of nature)],
+    [3], [#strong[Not his khuṣūṣiyyah (خصوصية)] \[specialty\]], [It was
+    not something exclusive to him --- it must be applicable to the
+    Ummah generally],
+  )]
+  , kind: table
+  )
+
+=== The distinction: ʿAmalī (practice-wise) vs Iʿtiqādī (creed-wise) wujūb
+<the-distinction-amali-practice-wise-vs-itiqadi-creed-wise-wujub>
+This is a #strong[crucial distinction]:
 
 #figure(
   align(center)[#table(
     columns: (40%, 60%),
-    align: (auto, auto),
-    table.header([Defect level], [Recommendation]),
+    align: (auto,auto,),
+    table.header([Type], [Meaning],),
     table.hline(),
-    [#strong[Lesser defect] (e.g. missing Saʿī, Ṭawāf without wuḍū)], [#strong[Send the dam] --- better and more practical],
-    [#strong[Greater defect] (e.g. Ṭawāf in state of janābah)], [#strong[Come back] to repeat the action --- if travel is feasible],
+    [#strong[Wājib ʿAmalī (واجب عملي)] \[practice-wise\]], [The Ummah
+    #strong[must perform] the action --- it is obligatory to practise
+    upon it],
+    [#strong[Wājib Iʿtiqādī (واجب اعتقادي)] \[creed-wise\]], [It is
+    #strong[declared wājib in one's belief] --- one must hold it to be
+    wājib as a matter of conviction],
   )]
   , kind: table
-)
+  )
 
-=== Not knowing the ruling is NOT an excuse
-<not-knowing-is-not-excuse>
+#strong[When the Prophet's action (with the three conditions) is the
+sole evidence:]
 
-If a person missed Saʿī because he #strong[did not know] it was wājib --- this is #strong[not considered a valid ʿudhr (excuse)]. The #strong[dam remains obligatory]. Ignorance of Sharīʿah rulings does not drop the penalty.
+- It establishes #strong[wājib ʿamalī] --- we must follow it in
+  practice.
+- It does #strong[NOT] establish #strong[wājib iʿtiqādī] --- we cannot
+  declare it wājib as a matter of creed/belief.
 
-#horizontalrule
+#strong[Why?] Because there is always a #strong[possibility] that the
+action was the Prophet's #strong[khuṣūṣiyyah] (specialty) --- something
+exclusive to him. We cannot be certain that it applies to the Ummah.
+Therefore:
 
-== Part 6 --- Saʿī in ʿUmrah
-<part-6-sai-in-umrah>
+- #strong[Practice:] We must follow it (out of caution --- if it is
+  wājib and we do it, we fulfil the obligation; if it turns out to be
+  optional and we do it, there is no harm).
+- #strong[Creed:] We cannot declare it definitively wājib (because of
+  the possibility of khuṣūṣiyyah).
 
-#strong[Q (from previous class):] Is Saʿī wājib in ʿUmrah as well?
+=== In the case of Ramī al-Jimār
+<in-the-case-of-rami-al-jimar>
+For Ramī, the matter is #strong[beyond just the Prophet's action] ---
+there is also: - His #strong[explicit verbal order] to perform it. -
+#strong[Ijmāʿ] of the Ummah.
 
-#strong[A:] #strong[Yes.] Saʿī is #strong[wājib in both Hajj and ʿUmrah].
+Therefore, Ramī is established as wājib both #strong[ʿamalī and
+iʿtiqādī].
 
-#horizontalrule
-
-== Part 7 --- Saʿī in Ḥajj al-Qirān: How Many Saʿīs?
-<part-7-sai-in-hajj-al-qiran>
-
-#strong[Q:] In Ḥajj al-Qirān (where Hajj and ʿUmrah are combined in one iḥrām), how many Saʿīs must be performed?
-
-#strong[A:] #strong[Two Saʿīs] are required:
-
+=== Examples of Khuṣūṣiyyāt (the Prophet's specialties)
+<examples-of-khususiyyat-the-prophets-specialties>
 #figure(
   align(center)[#table(
-    columns: (25%, 35%, 40%),
-    align: (auto, auto, auto),
-    table.header([Saʿī], [When], [For]),
+    columns: (21.05%, 21.05%, 57.89%),
+    align: (auto,auto,auto,),
+    table.header([Action], [Status], [Why it is khuṣūṣiyyah],),
     table.hline(),
-    [#strong[First Saʿī]], [After ʿUmrah Ṭawāf], [Wājib of #strong[ʿUmrah]],
-    [#strong[Second Saʿī]], [After Ṭawāf al-Ziyārah], [Wājib of #strong[Hajj]],
+    [#strong[Tahajjud (تهجد)]], [Was #strong[farḍ upon the Prophet ﷺ]
+    only], [He performed it with consistency as ʿibādah, but it was his
+    specialty --- not farḍ on the Ummah],
+    [#strong[Marrying more than four wives]], [His #strong[exclusive
+    permission]], [Marriage is mubāḥ (permissible); but having nine
+    wives at once was his khuṣūṣiyyah --- the general limit for the
+    Ummah is #strong[four] (Qur'anic ruling). No one may follow him in
+    this, #strong[not even as sunnah]],
   )]
   , kind: table
-)
+  )
 
-Even though the pilgrim is in #strong[one iḥrām], the Saʿī is a #strong[separate wājib] for each --- ʿUmrah and Hajj require their own Saʿī independently.
+#strong[Key point on khuṣūṣiyyah:] When an action is declared the
+Prophet's khuṣūṣiyyah, it means #strong[no one else may perform it] ---
+not as wājib, not as sunnah, not even as mubāḥ. Otherwise, the
+designation of "khuṣūṣiyyah" would lose its meaning.
 
 #horizontalrule
 
-== Part 8 --- Ḥajj al-Ifrād: Discussion Deferred
-<part-8-hajj-al-ifrad>
+== Part 8 --- Preview: Points on Ramī to be Covered
+<part-8-preview-points-on-rami-to-be-covered>
+The teacher listed the topics for the next class on Ramī al-Jimār:
 
-#strong[Q:] In Ḥajj al-Ifrād (Hajj only, no ʿUmrah), can the pilgrim exit iḥrām after Ṭawāf al-Qudūm without performing Saʿī?
-
-#strong[A:] The teacher clarified:
-
-- In Ḥajj al-Ifrād, the pilgrim enters iḥrām with the #strong[intention of Hajj only].
-- He #strong[cannot exit iḥrām] until the Hajj rites are completed (Wuqūf ʿArafah, Ṭawāf al-Ziyārah, etc.).
-- The Saʿī is #strong[not a condition] for exiting iḥrām --- iḥrām restrictions are lifted by Ṭawāf al-Ziyārah (and Ḥalq/Qaṣr).
-- On the occasion of Ṭawāf al-Qudūm, performing Saʿī is #strong[optional] --- the pilgrim may do it then (using the concession) or defer it to after Ṭawāf al-Ziyārah.
-
-The teacher noted that the #strong[detailed ruling for Ḥajj al-Ifrād] needs further verification and will be shared separately.
-
-=== Quick Reference: Three Types of Hajj
-<three-types-of-hajj>
-
-#figure(
-  align(center)[#table(
-    columns: (30%, 35%, 35%),
-    align: (auto, auto, auto),
-    table.header([Type], [Meaning], [Iḥrām]),
-    table.hline(),
-    [#strong[Ḥajj al-Ifrād (الإفراد)]], [Hajj only --- no ʿUmrah], [One iḥrām for Hajj; remains in iḥrām until Hajj rites are complete],
-    [#strong[Ḥajj al-Tamattuʿ (التمتع)]], [ʿUmrah first, then Hajj], [Two separate iḥrāms --- exit after ʿUmrah, re-enter for Hajj],
-    [#strong[Ḥajj al-Qirān (القران)]], [ʿUmrah and Hajj together], [One iḥrām for both; remains in iḥrām until Hajj rites are complete],
-  )]
-  , kind: table
-)
++ #strong[Definition] of Ramī --- what qualifies as "throwing"?
++ #strong[Time] --- when is it performed on each day?
++ #strong[Place] --- where are the Jamarāt?
++ #strong[Number of pebbles] --- how many per throwing?
++ #strong[Size of pebbles] --- what is the correct size?
++ #strong[Material] --- what kind of stones are acceptable?
++ #strong[Collection] --- where should pebbles be gathered from?
++ #strong[How many times per day] --- number of Jamarāt stoned each day
++ #strong[Method] --- the correct technique of throwing
++ #strong[Sunan] of Ramī
++ #strong[Makrūhāt] --- what is disliked during Ramī
++ #strong[Ruling for delay or missing] --- penalties
 
 #horizontalrule
 
 == Closing
-<closing-13>
-
-- #strong[Covered:] Seven rounds of Saʿī (ijmāʿ); farḍ (presence) vs wājib (walking) within Saʿī; conditions for validity (must follow valid Ṭawāf, must start from Ṣafā, ṭahārah not required for Saʿī but indirectly needed via Ṭawāf); the Masʿā is not part of the Masjid; sunan (ramal for men in marked area); timing (after Ṭawāf al-Ziyārah, with concession to do it after Ṭawāf al-Qudūm); rulings when missed (still in Makkah = perform with no penalty; returned home = dam or come back); ignorance is not an excuse; Saʿī in ʿUmrah (wājib); Ḥajj al-Qirān requires two Saʿīs.
-- #strong[Next class:] Next wājib of Hajj (Muzdalifah); details of Ḥajj al-Ifrād to be shared separately; same time inshā'Allāh.
+<closing>
+- #strong[Covered:] Wuqūf at Muzdalifah (Wājib --- Ḥanafī vs Farḍ ---
+  Shāfiʿī; dalīl from al-Baqarah 2:198 and Ḥanafī response ---
+  uncertainty of "dhikr"\; farḍ = mere presence; place = anywhere except
+  Wādī Muḥassar; time = Fajr to sunrise, night is sunnah; pray Fajr
+  early; ruling when missed); Ramī al-Jimār introduction (wājib by
+  ijmāʿ, Prophet's order and practice); uṣūl on when the Prophet's
+  action establishes wujūb (three conditions; ʿamalī vs iʿtiqādī
+  distinction; khuṣūṣiyyāt examples).
+- #strong[Next class:] Detailed rulings of Ramī al-Jimār --- definition,
+  time, place, pebbles, method, sunan, makrūhāt, and missed rulings;
+  same time inshā'Allāh.

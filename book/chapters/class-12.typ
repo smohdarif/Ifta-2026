@@ -1,368 +1,552 @@
 #import "../lib.typ": horizontalrule, class-meta
 
-= Masail e Qurbānī --- Class 2 Summary
-<masail-e-qurbani-class-2>
+= Masail e Hajj --- Class 12 Summary
+<masail-e-hajj-class-12-summary>
 #class-meta(
-  date: [May 24, 2026],
-  topic: [Qurbānī (continued) --- sharing animals, age requirements, defects, method of slaughter, meat distribution & skin rulings],
+  date: [June 8, 2026],
+  topic: [Saʿī between Ṣafā and Marwah --- Status, Wājibāt of Hajj, and the Penalty (Jazāʾ) Framework],
   teacher: [Mufti Umar Aejaz],
 )
 
 
 == Introduction
-<introduction-10>
-This class completes the study of #strong[Qurbānī masāʾil] from the
-kitāb _Aḥkām e Eid al-Aḍḥā wa Qurbānī_ by Muftī Muḥammad Shafīʿ
-ʿUthmānī (raḥimahullāh). Topics covered include sharing larger animals,
-age requirements, disqualifying defects, the masnūn method of slaughter,
-and rulings on meat distribution and animal skins.
+<introduction>
+This lesson opens with a concise #strong[listing of the five Wājibāt of
+Hajj], then devotes the bulk of the class to the #strong[first wājib:
+Saʿī (سعي) between Ṣafā and Marwah]. The teacher examines the status of
+Saʿī (Wājib, Farḍ, or optional?), the evidence and counter-evidence for
+each position, and the number of required rounds. A major uṣūl
+discussion follows on the #strong[penalty framework] when a wājib is
+missed --- distinguishing between a wājib missed entirely, its major
+part, or its minor part. The class also revisits the principle that a
+#strong[wājib missed due to a genuine excuse (ʿudhr)] incurs no penalty,
+with the example of Ṭawāf al-Wadāʿ for menstruating women.
 
 #horizontalrule
 
-== Sharing a Larger Animal --- Intention at Time of Purchase
-<sharing-intention>
-
-=== Best Practice
-<best-practice-sharing>
-A person purchasing a large animal (cow, buffalo, camel) should make the
-intention to share it with others #strong[before purchasing]. This is
-the best and clearest option.
-
-=== Purchasing Alone, Then Wanting to Share Later
-<purchase-alone-share-later>
+== Part 1 --- The Five Wājibāt of Hajj (overview)
+<part-1-the-five-wajibat-of-hajj-overview>
+The teacher listed the #strong[five Wājibāt (واجبات)] of Hajj at the
+outset:
 
 #figure(
   align(center)[#table(
-    columns: 2,
-    align: (auto, auto),
-    table.header([Person], [Ruling]),
+    columns: (10.34%, 24.14%, 65.52%),
+    align: (auto,auto,auto,),
+    table.header([\#], [Wājib], [Brief description],),
     table.hline(),
-    [#strong[Ghanī (rich / ṣāḥib al-niṣāb)]],
-    [He #strong[may] share it with others later. Since Qurbānī is
-    wājib on his person (not the animal), one share in the animal
-    suffices for his obligation.],
-    [#strong[Faqīr (poor / not ṣāḥib al-niṣāb)]],
-    [He should #strong[not] share it, because when he purchased the
-    whole animal with the niyyah of Qurbānī, the obligation attached
-    to the #strong[entire animal]. However, some scholars permitted it
-    even for a faqīr, though it would be #strong[makrūh] --- because
-    it resembles rujūʿ (going back on a commitment in ʿibādah).],
+    [1], [#strong[Saʿī between Ṣafā and Marwah (السعي بين الصفا
+    والمروة)]], [Seven rounds between the two mountains],
+    [2], [#strong[Stay in Muzdalifah (الوقوف بالمزدلفة)]], [Staying at
+    Muzdalifah on the night of the 10th Dhū al-Ḥijjah],
+    [3], [#strong[Ramī al-Jimār (رمي الجمار)]], [Stoning the pillars],
+    [4], [#strong[Ḥalq or Qaṣr (الحلق أو التقصير)]], [Shaving or
+    trimming the hair],
+    [5], [#strong[Ṭawāf al-Wadāʿ / al-Ṣadr (طواف الوداع /
+    الصدر)]], [Farewell ṭawāf when leaving Makkah],
   )]
   , kind: table
-)
+  )
 
-#strong[Advice:] Decide before purchasing whether to keep the animal
-alone or share it.
-
-#horizontalrule
-
-== Age Requirements for Animals
-<age-requirements>
-
-#figure(
-  align(center)[#table(
-    columns: 2,
-    align: (auto, auto),
-    table.header([Animal], [Minimum Age]),
-    table.hline(),
-    [Goat (bakrā / bakrī)], [#strong[1 full year] (Islamic calendar)],
-    [Ram / lamb (dumbā)], [#strong[6 months] --- but only if it looks
-    as healthy as a one-year-old. This exception applies only to sheep
-    and ram.],
-    [Cow / buffalo], [#strong[2 years]],
-    [Camel], [#strong[5 years]],
-  )]
-  , kind: table
-)
-
-#strong[Important:] Age is determined by #strong[days and years], not by
-teeth. Teeth can give an idea but are not the Sharʿī criterion. If the
-seller states the animal is of the required age and there is no solid
-evidence to reject his claim, relying on his statement is permissible.
+The details of each will be covered in sequence; this class focuses on
+#strong[Saʿī].
 
 #horizontalrule
 
-== Mixed Intentions Among Partners
-<mixed-intentions>
-Different partners in a shared animal may have different ʿibādah
-intentions --- one for Qurbānī, another for ʿAqīqah, a third for
-Walīmah, and so on. This is #strong[valid], as long as every partner
-has a #strong[niyyah of ʿibādah] (a religious purpose involving
-slaughter). The specific type of ʿibādah may differ.
+== Part 2 --- Saʿī between Ṣafā and Marwah: Seven Points of Discussion
+<part-2-sai-between-safa-and-marwah-seven-points-of-discussion>
+The teacher outlined seven sub-topics to cover regarding the Saʿī:
+
++ #strong[Status (حكم)] --- Is it Farḍ, Wājib, or Sunnah?
++ #strong[Amount (مقدار)] --- How many rounds are Wājib?
++ #strong[Compulsory minimum (فرض)] --- What is the minimum without
+  which it is not done?
++ #strong[Conditions (شروط)] --- For permissibility and validity
++ #strong[Sunan (سنن)] --- Recommended acts related to Saʿī
++ #strong[Time (وقت)] --- When should Saʿī be performed?
++ #strong[Delay (تأخير)] --- Ruling if Saʿī is delayed beyond its time
 
 #horizontalrule
 
-== Castrated Animal (Khāṣī)
-<castrated-animal>
-A castrated goat or other animal is #strong[not defective] for Qurbānī
-purposes. In fact, it is #strong[afḍal] (better) --- the Prophet ﷺ
-himself slaughtered castrated animals. Castration makes the animal
-healthier, fattier, and the meat better.
+== Part 3 --- Status of Saʿī: Three Opinions
+<part-3-status-of-sai-three-opinions>
+=== Opinion 1 --- Wājib (Ḥanafī position)
+<opinion-1-wajib-hanafi-position>
+#strong[According to the Aḥnāf (Ḥanafī school), Saʿī is Wājib.]
 
-== Goat Alone vs. One Share in a Larger Animal
-<goat-vs-share>
-Which is better depends on the situation. In general, looking at current
-custom, a #strong[goat alone] is often considered more virtuous because
-it is typically more expensive and the meat quality is better. But this
-varies by context.
+#strong[Reasoning:] There is no #strong[dalīl qaṭʿī (دليل قطعي)]
+\[definitive proof\] establishing the farḍiyyah of Saʿī. The evidence
+that exists can, at most, establish #strong[wujūb (وجوب)]. Since
+farḍiyyah requires definitive proof --- both in the #strong[chain of
+transmission (thubūt)] and in the #strong[meaning (dalālah)] --- and
+this is lacking for Saʿī, the Ḥanafī school classifies it as Wājib.
 
-#horizontalrule
+=== Opinion 2 --- Farḍ (Shāfiʿī position)
+<opinion-2-far-shafii-position>
+#strong[According to Imam al-Shāfiʿī, Saʿī is Farḍ (فرض).]
 
-== Disqualifying Defects (ʿUyūb) --- Three Core Principles
-<disqualifying-defects>
-
-The animal for Qurbānī should be as healthy and fatty as possible. The
-Prophet ﷺ said: #emph["Make your animals for slaughtering samīn (fatty,
-healthy)."]
-
-Three principles determine whether a defect disqualifies an animal:
-
-+ A #strong[useful body part] is missing completely, or #strong[one-third
-  or more] of it is gone --- one-third is considered #strong[kathīr]
-  (significant) in Sharīʿah.
-+ Any defect that makes the animal #strong[defective in the eyes of
-  traders] (tujjār), reducing its market value.
-+ Any defect that causes #strong[damage to the meat] itself.
-
-#horizontalrule
-
-=== Applying the Principles --- Specific Cases
-<specific-defect-cases>
-
-#figure(
-  align(center)[#table(
-    columns: 3,
-    align: (auto, auto, auto),
-    table.header([Defect], [Useful Part?], [Eligible?]),
-    table.hline(),
-    [No horns (by birth)], [Horn is not a functionally useful part],
-    [#strong[Yes] --- eligible],
-    [Horn broken / uprooted affecting blood (dimāgh)], [Becomes a
-    health defect], [#strong[No] --- not eligible],
-    [Blind in one or both eyes (or one-third of eyesight lost)],
-    [Eye is a useful part], [#strong[No] --- not eligible],
-    [Severely lame (cannot walk to slaughter site)], [Leg is a useful
-    part], [#strong[No] --- not eligible],
-    [Slightly lame (can still walk easily)], [Minor defect],
-    [#strong[Yes] --- eligible],
-    [Too weak to walk (from illness)], [Major health defect],
-    [#strong[No] --- not eligible],
-    [Tail missing or one-third cut], [Tail is a useful part (removes
-    flies, etc.)], [#strong[No] --- not eligible],
-    [Ear missing or one-third cut], [Ear is a useful part],
-    [#strong[No] --- not eligible],
-    [Ear split but still attached], [Ear is intact, just has a cut],
-    [#strong[Yes] --- eligible],
-    [Ear missing from birth], [Missing a useful part regardless of
-    cause], [#strong[No] --- not eligible],
-    [Majority of teeth missing (cannot chew properly)], [Teeth are
-    useful], [#strong[No] --- not eligible],
-    [Some teeth missing (can still chew)], [Minor defect],
-    [#strong[Yes] --- eligible],
-    [Mild allergy], [Bearable, common], [#strong[Yes] --- eligible],
-    [Severe allergy (bones visible, meat damaged)], [Major health
-    defect], [#strong[No] --- not eligible],
-    [Udder: goat missing one of two], [Half of udder gone],
-    [#strong[No] --- not eligible],
-    [Udder: cow with one of four defective], [Only one-fourth affected],
-    [#strong[Yes] --- eligible],
-    [Udder: cow with two of four defective], [Half affected],
-    [#strong[No] --- not eligible],
-  )]
-  , kind: table
-)
-
-#horizontalrule
-
-== Defect Appears After Purchase
-<defect-after-purchase>
-
-#strong[Key uṣūl:] The wujūb (obligation) of Qurbānī belongs to the
-#strong[person] of the ghanī, but to the #strong[animal] of the faqīr.
-
-#figure(
-  align(center)[#table(
-    columns: 2,
-    align: (auto, auto),
-    table.header([Person], [Ruling]),
-    table.hline(),
-    [#strong[Ghanī (rich)]],
-    [Must purchase a #strong[new healthy animal]. The obligation is on
-    his person, and he is required to slaughter a healthy one.],
-    [#strong[Faqīr (poor)]],
-    [May slaughter the #strong[same defective animal]. The obligation
-    is on the animal, not on him personally. Sharīʿah does not force
-    him to buy another.],
-  )]
-  , kind: table
-)
-
-#horizontalrule
-
-== Lost Animal Scenarios
-<lost-animal-scenarios>
-
-=== Ghanī Loses the Animal
-<ghani-loses>
-+ He must purchase another animal (obligation is on his person).
-+ If the first animal returns, he only needs to slaughter #strong[one]
-  --- his choice which one.
-+ If the second animal is of #strong[lesser value] than the first, he
-  must give the difference in charity.
-
-=== Faqīr Loses the Animal
-<faqir-loses>
-+ Sharīʿah does not require him to purchase another (obligation was on
-  the animal).
-+ If he #strong[does] purchase another with niyyah of Qurbānī, that
-  second animal also becomes wājib.
-+ If the first animal returns, he must slaughter #strong[both] ---
-  because each animal independently carries the obligation.
-+ If the animal returns #strong[after Eid days], it cannot be
-  slaughtered for Qurbānī. It (or its price) must be given in charity.
-
-#horizontalrule
-
-== Masnūn Method of Slaughter
-<masnun-method>
-
-=== Who Should Slaughter
-<who-should-slaughter>
-- The owner should slaughter #strong[by his own hands] if capable.
-- If not, another expert may slaughter on his behalf, but the owner
-  should #strong[be present].
-- If both the owner and an expert hold the knife together, #strong[both]
-  must say Bismillāh. If either omits it #strong[intentionally], the
-  animal is not ḥalāl. Forgetting is excusable; #strong[not knowing the
-  ruling is not] --- it is treated as intentional omission.
-
-=== What to Say
-<what-to-say>
-Any name of Allah suffices (e.g., #emph[Allāhu Akbar]), said with the
-#strong[intention of Qurbānī]. The masnūn practice:
-
-+ #strong[Before slaughtering:]
+#strong[Dalīl:]
 
 #quote(block: true)[
-إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ
+إِنَّ اللَّهَ كَتَبَ عَلَيْكُمُ السَّعْيَ فَاسْعَوْا
 
-#emph["I have turned my face towards the One who created the heavens
-and the earth, as a ḥanīf, and I am not of the mushrikīn."]
+#emph["Indeed, Allāh has ordained upon you the Saʿī, so perform it."]
 
-#strong[Ref:] Sūrah al-Anʿām (6:79)
+#strong[Ref:] Hadith --- as cited in class (verify exact source and
+numbering).
 ]
 
-+ #strong[At the time of slaughter:] #emph[Bismillāhi Allāhu Akbar.]
-+ #strong[After slaughter:] #emph[Allāhumma taqabbal minnī] (or #emph[min
-  fulān] if on behalf of someone else).
+Imam al-Shāfiʿī interpreted the word #strong[كَتَبَ (kataba)]
+\[ordained/wrote\] as equivalent to #strong[فَرَضَ (faraḍa)] \[made
+obligatory\], just as it is interpreted in the context of fasting:
 
-=== Ādāb (Etiquettes) of Slaughter
-<adab-slaughter>
-- Place the animal #strong[facing the qiblah].
-- Keep the animal in your custody for a period before slaughter
-  (#strong[afḍal]).
-- Do not extract milk or use the animal for personal benefit after
-  dedicating it. If any benefit is gained, give that amount in charity.
-- #strong[Sharpen the knife properly] --- but not in front of the animal.
-- Do #strong[not slaughter one animal in front of another].
-- Do not #strong[drag the animal by its legs] to the slaughter site.
-- Do not rush to remove the skin --- #strong[wait until the animal has
-  fully cooled]. Removing skin while the animal still feels pain is
-  impermissible.
+#quote(block: true)[
+كُتِبَ عَلَيْكُمُ الصِّيَامُ
+
+#emph["Fasting has been ordained upon you."]
+
+#strong[Ref:] Surah al-Baqarah, 2:183.
+]
+
+=== Ḥanafī response to Imam al-Shāfiʿī's dalīl
+<hanafi-response-to-imam-al-shafiis-dalil>
+The Aḥnāf raised #strong[two objections] to this ḥadīth:
+
+#strong[\1. The chain of narration (sanad) has a weakness:]
+
+- The #strong[rāwī (narrator)] of this ḥadīth is #strong[majhūl (مجهول)]
+  \[unknown\] --- specifically, the name of the female narrator's father
+  is not properly identified; she is not specifically recognizable.
+- A ḥadīth with a #strong[majhūl] narrator cannot reach the level of
+  #strong[dalīl qaṭʿī], which is required for establishing farḍiyyah.
+
+#strong[\2. The meaning of "kataba" is not certain:]
+
+- The word #strong[كَتَبَ] (kataba) can mean Allāh's command --- but
+  Allāh's command sometimes indicates #strong[farḍ] and sometimes
+  indicates #strong[wujūb].
+- Both meanings are possible, creating #strong[uncertainty in the
+  meaning (dalālah)].
+- When there is uncertainty, the ḥadīth is taken in the meaning that
+  #strong[accords with the Qur'anic text] --- and the Qur'anic text (see
+  Opinion 3 below) does not establish farḍiyyah for Saʿī. Therefore, the
+  meaning of wujūb is preferred.
+
+#strong[Observation on Imam al-Shāfiʿī's methodology:]
+
+The teacher noted an inconsistency in Imam al-Shāfiʿī's approach: Imam
+al-Shāfiʿī is known for being #strong[very strict] about the
+authenticity of ḥadīth and normally #strong[rejects mursal ḥadīth]
+(where the Ṣaḥābī's name is missing) on the grounds that the missing
+narrator could be unreliable. Yet here, he accepts a ḥadīth narrated by
+a #strong[majhūl] person --- someone whose identity is not established
+at all. This is considered a #strong[strange (gharīb)] position from
+him.
+
+=== Note on Mursal Ḥadīth
+<note-on-mursal-hadith>
+A #strong[mursal ḥadīth (حديث مرسل)] is one where the #strong[Ṣaḥābī's
+name is missing] --- a Tābiʿī directly attributes the report to the
+Prophet ﷺ without naming the Ṣaḥābī in between.
+
+#figure(
+  align(center)[#table(
+    columns: (25%, 75%),
+    align: (auto,auto,),
+    table.header([School], [Ruling on mursal ḥadīth],),
+    table.hline(),
+    [#strong[Ḥanafī]], [#strong[Accepted] --- if the one skipping the
+    Ṣaḥābī's name is a #strong[reliable person] (e.g.~Saʿīd ibn
+    al-Musayyab)],
+    [#strong[Shāfiʿī]], [#strong[Rejected] --- because the missing
+    person could be a non-Ṣaḥābī whose reliability is unknown],
+  )]
+  , kind: table
+  )
+
+Imam al-Shāfiʿī lists mursal ḥadīth among the categories of #strong[weak
+(ḍaʿīf)] ḥadīth. The Aḥnāf find it contradictory that he rejects mursal
+ḥadīth but accepts a report from a completely unidentified narrator.
+
+=== Opinion 3 --- Neither Farḍ nor Wājib
+<opinion-3-neither-far-nor-wajib>
+A #strong[third opinion] holds that Saʿī is #strong[neither Farḍ nor
+Wājib] --- it is merely recommended.
+
+#strong[Dalīl:]
+
+#quote(block: true)[
+إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ
+يَطَّوَّفَ بِهِمَا
+
+#emph["Indeed, Ṣafā and Marwah are among the symbols of Allāh. So
+whoever performs Hajj of the House or ʿUmrah, there is no sin upon him
+if he walks between them."]
+
+#strong[Ref:] Surah al-Baqarah, 2:158.
+]
+
+#strong[Their reasoning:] The phrase #strong["lā junāḥa ʿalayhi" (لا
+جناح عليه)] \[there is no sin upon him\] is typically used in the Qur'an
+for #strong[optional] matters --- meaning: if you do it, fine; if you do
+not, also fine. This wording does not indicate obligation.
+
+=== Ḥanafī response --- the context of revelation (sabab al-nuzūl)
+<hanafi-response-the-context-of-revelation-sabab-al-nuzul>
+The Aḥnāf answered this by explaining the #strong[specific context] in
+which this āyah was revealed:
+
+#strong[Context:] In the pre-Islamic period (Jāhiliyyah), #strong[idols]
+were placed on Ṣafā and Marwah --- specifically, the idol #strong[Isāf]
+on one and #strong[Nā'ilah] on the other. When the Ṣaḥābah embraced
+Islam, they #strong[felt ḥaraj (حرج)] \[discomfort/reluctance\] about
+performing Saʿī between these mountains #strong[because of the
+association with the idols]. They asked: "The idols were placed there
+--- should we still perform Saʿī?"
+
+The āyah came down to #strong[remove that ḥaraj]: "There is no sin upon
+you if you perform the Saʿī between Ṣafā and Marwah" --- meaning,
+#strong[the presence of the idols does not make your Saʿī sinful]. You
+are not doing it as a respect toward the idols; you are doing it for
+Allāh.
+
+#strong[Key points:]
+
+- Ṣafā and Marwah are #strong[from the shaʿā'ir (شعائر)]
+  \[symbols/rites\] of Allāh --- they are #strong[historical Islamic
+  mountains], not ordinary places. The Islamic history of Hājar عليها
+  السلام's running between them belongs to these mountains.
+- The āyah is #strong[not] discussing whether Saʿī is obligatory or
+  optional. Rather, it is #strong[countering the Ṣaḥābah's reluctance]
+  about performing it due to the idol-association.
+- This is analogous to the Ka'bah itself: despite there being idols
+  around it, Muslims still performed ṭawāf --- keeping the Ka'bah in
+  mind, not the idols.
+
+#strong[Conclusion:] The āyah cannot be used to determine the status
+(farḍ/wājib/optional) of Saʿī because it is addressing a
+#strong[different question entirely].
 
 #horizontalrule
 
-== Baby Born from the Qurbānī Animal
-<baby-born>
-If the animal gives birth before or at the time of slaughter:
+=== Ḥanafī evidence for the Wujūb of Saʿī
+<hanafi-evidence-for-the-wujub-of-sai>
+The Aḥnāf established their position by the following reasoning:
 
-- If the baby is large enough to yield meat: it #strong[must be
-  slaughtered] as well --- it is part of the dedicated animal.
-- If the baby is too small (no benefit from slaughtering): it may be
-  #strong[kept and slaughtered next year], or its #strong[price given in
-  charity]. Either way, it counts as part of #strong[this Qurbānī] (not
-  a new one).
++ #strong[Only two arkān (فرائض)] of Hajj can be proven by #strong[dalīl
+  qaṭʿī]: #strong[\(a) Wuqūf ʿArafah] and #strong[\(b) Ṭawāf
+  al-Ziyārah].
 
-#horizontalrule
+  - Wuqūf ʿArafah is established by the ḥadīth:
 
-== One Partner Passes Away
-<partner-passes-away>
-If one of seven partners in a cow passes away before slaughter, the
-#strong[permission of all his warathah] (heirs) is required before
-proceeding. If the animal is slaughtered without their consent, the
-Qurbānī is #strong[invalid for all partners] --- not just for the
-deceased's share.
+    #quote(block: true)[
+    اَلْحَجُّ عَرَفَةُ
 
-#horizontalrule
+    #emph["Hajj is ʿArafah."]
+    ]
 
-== Distribution of Meat
-<distribution-meat>
+  - Ṭawāf al-Ziyārah is established by:
 
-=== General Rule
-<general-rule-meat>
-The entire meat may be used personally. However, the #strong[mustaḥabb]
-division is into three parts:
+    #quote(block: true)[
+    وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ
 
-+ One-third for #strong[yourself and family].
-+ One-third for #strong[friends and relatives].
-+ One-third for #strong[poor people].
+    #emph["And due to Allāh from the people is the Hajj of the House."]
 
-=== Dividing Meat Among Partners (Ribā Concern)
-<dividing-among-partners>
-When partners divide meat from a shared animal, it is technically an
-#strong[exchange (mubādalah)] of meat for meat. Since meat exchanged
-for meat of the same genus requires #strong[strict equality], random
-division could involve ribā.
+    #strong[Ref:] Surah Āl ʿImrān, 3:97.
+    ]
 
-#strong[Solution:] Add #strong[non-meat parts] (liver, heart, head,
-skin, trotters) to each share. This creates a mixture of meat and
-non-meat, and the strict equality requirement is relaxed. Random
-(approximate) division then becomes permissible.
+    The "Hajj of the House" refers to the ṭawāf, because no other act of
+    worship is specifically directed #strong[toward the House] except
+    ṭawāf.
 
-#horizontalrule
++ #strong[All other obligatory acts] of Hajj are established by
+  #strong[dalīl ẓannī (ظني)] \[probabilistic evidence\] ---
+  i.e.~#strong[khabar wāḥid] --- and therefore they are #strong[wājib],
+  not farḍ.
 
-== Commercial Use is Prohibited
-<commercial-use-prohibited>
-No part of the Qurbānī animal (meat, skin, or otherwise) may be used
-for #strong[commercial purposes]:
++ A ḥadīth indicates:
 
-- Cannot sell the meat.
-- Cannot pay the butcher's wages from the meat or skin.
-- Cannot give the skin to anyone in exchange for services.
+  #quote(block: true)[
+  لَا يَتِمُّ الْحَجُّ إِلَّا بِالسَّعْيِ
+
+  #emph["Hajj cannot be completed except with Saʿī."]
+
+  #strong[Ref:] Hadith --- as cited in class (confirm in hadith index).
+  ]
+
+  The word #strong["lā yatimmu" (لا يتم)] \[cannot be completed\] ---
+  rather than #strong["lā yaṣiḥḥu" (لا يصح)] \[cannot be valid\] ---
+  indicates the position of #strong[wujūb], not farḍiyyah. If Saʿī is
+  missed, Hajj is #strong[not completed] (i.e.~defective), but it is not
+  #strong[invalid]. This is precisely the distinction between wājib and
+  farḍ.
 
 #horizontalrule
 
-== Rulings on the Skin
-<rulings-skin>
-- The skin may be used for #strong[personal use].
-- If sold, the proceeds must be used to purchase something
-  #strong[sustainable / non-consumable] (e.g., household vessels) ---
-  not food.
-- The skin may be given in #strong[charity] to the needy (most common
-  practice). All partners must consent.
-- It may be given to a #strong[madrasah where needy students reside]
-  (and must be spent on those students).
-- It #strong[cannot] be given to a masjid, or used for construction of
-  masjid or madrasah buildings.
+== Part 4 --- The Two Parameters for Dalīl Qaṭʿī (Definitive Proof)
+<part-4-the-two-parameters-for-dalil-qa-i-definitive-proof>
+The teacher expanded on the recurring uṣūl framework:
+
+=== Parameter 1 --- Certainty of transmission (qaṭʿī al-thubūt)
+<parameter-1-certainty-of-transmission-qa-i-al-thubut>
+How the text reached us:
+
+#figure(
+  align(center)[#table(
+    columns: 2,
+    align: (auto,auto,),
+    table.header([Type], [Status],),
+    table.hline(),
+    [#strong[Entire Qur'an]], [Qaṭʿī al-thubūt --- transmitted in
+    tawātur],
+    [#strong[Ḥadīth Mutawātir / Mashhūr]], [Qaṭʿī al-thubūt],
+    [#strong[Khabar Wāḥid]], [Ẓannī al-thubūt --- #strong[cannot]
+    establish farḍ],
+  )]
+  , kind: table
+  )
+
+=== Parameter 2 --- Certainty of meaning (qaṭʿī al-dalālah)
+<parameter-2-certainty-of-meaning-qa-i-al-dalalah>
+What the text indicates:
+
+#figure(
+  align(center)[#table(
+    columns: (57.89%, 42.11%),
+    align: (auto,auto,),
+    table.header([Situation], [Status],),
+    table.hline(),
+    [Meaning is #strong[clear and singular] --- no other interpretation
+    possible], [Qaṭʿī al-dalālah],
+    [Meaning has #strong[two or more possible interpretations]], [Ẓannī
+    al-dalālah --- #strong[cannot] establish farḍ],
+  )]
+  , kind: table
+  )
+
+#strong[Both parameters must be qaṭʿī] for the ruling to be
+#strong[farḍ]. If either is ẓannī, the ruling is #strong[wājib] at most.
+
+#strong[Important clarification:] Even some #strong[Qur'anic āyāt] can
+be ẓannī --- not in their transmission (the entire Qur'an is qaṭʿī
+al-thubūt), but in their #strong[meaning]. If the meaning of an āyah
+admits multiple interpretations, it becomes ẓannī al-dalālah and cannot,
+on its own, establish farḍiyyah.
+
+=== Division of scholarly roles
+<division-of-scholarly-roles>
+#figure(
+  align(center)[#table(
+    columns: (52.17%, 47.83%),
+    align: (auto,auto,),
+    table.header([Discipline], [Their task],),
+    table.hline(),
+    [#strong[Muḥaddithūn (محدثون)]], [Check the authenticity of the
+    ḥadīth on the basis of the #strong[chain (sanad)] --- is it
+    mutawātir, mashhūr, or wāḥid?],
+    [#strong[Fuqahā' (فقهاء)]], [Check the #strong[meaning (dalālah)]
+    --- does the wording point to its ruling certainly or uncertainly?],
+  )]
+  , kind: table
+  )
 
 #horizontalrule
 
-== Miscellaneous Rulings
-<miscellaneous-rulings>
+== Part 5 --- Practical Ruling: If Saʿī is missed
+<part-5-practical-ruling-if-sai-is-missed>
+Since Saʿī is #strong[wājib] (Ḥanafī):
 
-=== Substituting Qurbānī with Other Animals
-<substituting-animals>
-Some people who are not eligible for Qurbānī slaughter a chicken or
-other small animal "to join in the spirit." This has #strong[no basis in
-Islam] and is considered manipulation of the aḥkām of Sharīʿah. It is
-the way of ignorant people and should be avoided.
+- If missed #strong[with a genuine excuse (ʿudhr)] --- such as severe
+  illness, menstruation (ḥayḍ), or post-natal bleeding (nifās) ---
+  #strong[no penalty].
+- If missed #strong[without excuse] --- #strong[dam (دم)] is obligatory:
+  slaughter of an average goat in the Ḥaram of Makkah.
+
+=== The principle: Wājib missed for ʿudhr → no penalty
+<the-principle-wajib-missed-for-udhr-no-penalty>
+This principle was extracted from the ruling of #strong[Ṭawāf al-Wadāʿ
+(طواف الوداع)]:
+
+- Ṭawāf al-Wadāʿ is the #strong[last thing] a pilgrim does when leaving
+  Makkah --- it is #strong[wājib].
+- Yet the Prophet ﷺ #strong[permitted menstruating women] to skip it
+  #strong[without issuing any penalty (dam)].
+- This established the general rule that #strong[any wājib missed for a
+  genuine ʿudhr incurs no penalty].
+
+#strong[Contrast with Farḍ:]
+
+- If a #strong[farḍ] is missed, it does not matter #strong[why] it is
+  missed --- for ʿudhr or without ʿudhr --- the action is
+  #strong[invalid] and must be repeated.
+- For #strong[wājib], the action remains valid even when missed, but a
+  penalty applies --- #strong[unless] there is a genuine excuse.
+
+#horizontalrule
+
+== Part 6 --- Amount of Saʿī: Seven Rounds
+<part-6-amount-of-sai-seven-rounds>
+=== How to count
+<how-to-count>
+- #strong[Ṣafā to Marwah] = #strong[one round (شوط)]
+- #strong[Marwah back to Ṣafā] = #strong[second round]
+- Total = #strong[seven rounds]
+- The Saʿī #strong[starts at Ṣafā] and #strong[ends at Marwah] (7th
+  round).
+
+#strong[Common misconception:] Some people think that going from Ṣafā to
+Marwah and coming back to Ṣafā counts as one round. This is
+#strong[incorrect]. Each direction is one round.
+
+=== Climbing on the mountains
+<climbing-on-the-mountains>
+#strong[Climbing onto Ṣafā or Marwah] is #strong[sunnah] --- it is
+#strong[not wājib]. If a person does not climb and simply walks between
+the two points at ground level:
+
+- He has #strong[missed a sunnah], not a wājib.
+- There is #strong[no penalty] --- only the mild #strong[karāhah] of
+  missing a sunnah intentionally.
+
+=== Ramal (hastening) during Saʿī
+<ramal-hastening-during-sai>
+#strong[Ramal (رمل)] \[hastening/jogging\] during the Saʿī is also
+#strong[sunnah]. If missed:
+
+- #strong[No penalty] --- it is a sunnah.
+- Missing a sunnah intentionally is #strong[makrūh (مكروه)] only.
+
+#horizontalrule
+
+== Part 7 --- The Penalty (Jazāʾ) Framework: Uṣūl for Missing a Wājib
+<part-7-the-penalty-jaza-framework-usul-for-missing-a-wajib>
+The teacher taught a comprehensive #strong[uṣūl principle] regarding
+penalties when wājibāt are missed. This is one of the most important
+principles for applying across all Wājibāt of Hajj.
+
+=== Principle 1 --- Wājib missed for ʿudhr → no penalty
+<principle-1-wajib-missed-for-udhr-no-penalty>
+\(Covered in Part 5 above.)
+
+=== Principle 2 --- Amount of penalty based on how much is missed
+<principle-2-amount-of-penalty-based-on-how-much-is-missed>
+This principle was #strong[extracted (mustanbat)] from the rulings of
+#strong[Ramī al-Jimār (رمي الجمار)] \[stoning the pillars\] and is
+applicable to #strong[all wājibāt] of Hajj:
+
+#figure(
+  align(center)[#table(
+    columns: (55%, 45%),
+    align: (auto,auto,),
+    table.header([Situation], [Penalty],),
+    table.hline(),
+    [#strong[Entire wājib] missed (for no ʿudhr)], [#strong[Dam (دم)]
+    --- slaughter of an average goat in the Ḥaram],
+    [#strong[Major part (akṯar / أكثر)] of a wājib missed (for no
+    ʿudhr)], [#strong[Dam] --- because the major part is treated like
+    the whole],
+    [#strong[Minor part (aqall / أقل)] of a wājib missed (for no
+    ʿudhr)], [#strong[Ṣadaqah (صدقة)] for each missed part ---
+    equivalent to Ṣadaqat al-Fiṭr per unit],
+  )]
+  , kind: table
+  )
+
+=== Application to Saʿī (7 rounds)
+<application-to-sai-7-rounds>
+#figure(
+  align(center)[#table(
+    columns: (50.98%, 31.37%, 17.65%),
+    align: (auto,auto,auto,),
+    table.header([Rounds missed (no
+      ʿudhr)], [Classification], [Penalty],),
+    table.hline(),
+    [#strong[All 7 rounds]], [Entire wājib missed], [#strong[Dam] (one
+    goat)],
+    [#strong[4 rounds] (out of 7)], [Major part missed], [#strong[Dam]
+    --- major is treated like whole],
+    [#strong[3 rounds]], [Minor part missed], [#strong[Ṣadaqah] --- 3 ×
+    Ṣadaqat al-Fiṭr (one per round)],
+    [#strong[2 rounds]], [Minor part missed], [#strong[Ṣadaqah] --- 2 ×
+    Ṣadaqat al-Fiṭr],
+    [#strong[1 round]], [Minor part missed], [#strong[Ṣadaqah] --- 1 ×
+    Ṣadaqat al-Fiṭr],
+  )]
+  , kind: table
+  )
+
+=== The Ṣadaqah amount per round
+<the-sadaqah-amount-per-round>
+Each ṣadaqah = approximately #strong[half a ṣāʿ (صاع) of wheat] given to
+a #strong[miskīn (مسكين)] \[needy person\].
+
+=== Cap on ṣadaqah
+<cap-on-sadaqah>
+If the #strong[total ṣadaqah] amount --- calculated by the number of
+missed minor parts --- #strong[reaches the value of a dam] (the price of
+a goat), then the pilgrim #strong[may replace it with a dam] instead.
+But the default when minor parts are missed is ṣadaqah, not dam.
+
+#horizontalrule
+
+== Part 8 --- The Broader Uṣūl: Dam as the Standard Penalty
+<part-8-the-broader-usul-dam-as-the-standard-penalty>
+The teacher articulated the general rule:
+
+#quote(block: true)[
+#strong[Every wājib action] for which there is a #strong[dam] when the
+#strong[entire] action is missed, also carries a #strong[dam] when its
+#strong[major part (akṯar)] is missed for no ʿudhr. This is extracted
+from the rulings of Ramī al-Jimār and is applicable across all the
+Wājibāt of Hajj.
+]
+
+This uṣūl allows scholars to derive penalties for specific scenarios
+even when no explicit ḥadīth addresses them --- because the principle
+has been established from the known cases.
+
+#horizontalrule
+
+== Part 9 --- Saʿī for ʿUmrah
+<part-9-sai-for-umrah>
+A student asked whether the above ruling on Saʿī applies to
+#strong[ʿUmrah] as well. The teacher noted that Saʿī is also performed
+in ʿUmrah, but said he would #strong[confirm the specific ruling] for
+ʿUmrah's Saʿī after the class.
+
+#horizontalrule
+
+== Q&A
+<qa>
+#strong[Q:] Is Ṭawāf al-Wadāʿ wājib for ʿUmrah as well?
+
+#strong[A:] The teacher indicated this needs to be checked and would be
+confirmed separately.
+
+#strong[Q:] Can you clarify --- does the "kataba" (كتب) in the ḥadīth
+about Saʿī necessarily mean farḍ?
+
+#strong[A:] No.~The word #strong[kataba] means "Allāh commanded" --- but
+Allāh's commands appear in the form of #strong[farḍ], #strong[wājib],
+and even #strong[sunnah mu'akkadah] at times. Both farḍ and wājib are
+possible meanings. When there is this ambiguity, the Ḥanafī school takes
+the meaning that #strong[accords with the Qur'anic text]. Since the
+Qur'anic āyah does not establish farḍiyyah for Saʿī, the meaning of
+wujūb is preferred. Taking the meaning of farḍiyyah from a khabar wāḥid
+would amount to preferring the ḥadīth over the āyah --- and adding to
+the Qur'an on the basis of a ẓannī source, which is not suitable.
 
 #horizontalrule
 
 == Closing
-<closing-10>
-
-This concludes the study of #strong[Qurbānī masāʾil] from the kitāb
-of Muftī Muḥammad Shafīʿ ʿUthmānī. Classes now break for #strong[one
-week] for the blessed days of Eid al-Aḍḥā. Regular Masāʾil al-Ḥajj
-classes resume the following Monday, inshāʾAllāh.
+<closing>
+- #strong[Covered:] Five Wājibāt of Hajj (overview); status of Saʿī
+  (Wājib --- Ḥanafī, Farḍ --- Shāfiʿī, third opinion --- neither);
+  evidence from Qur'an (al-Baqarah 2:158 --- context of revelation) and
+  ḥadīth; objections to the Shāfiʿī dalīl (majhūl narrator, uncertain
+  meaning); amount of Saʿī (7 rounds); climbing and ramal as sunnah;
+  penalty framework (dam for whole/major part, ṣadaqah for minor part);
+  wājib missed for ʿudhr = no penalty; mursal ḥadīth acceptance (Ḥanafī
+  vs Shāfiʿī); two parameters of dalīl qaṭʿī.
+- #strong[Next class:] Continuation of Saʿī --- conditions for validity,
+  sunan, timing, and ruling on delay; same time inshā'Allāh.

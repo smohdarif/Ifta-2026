@@ -42,16 +42,15 @@ Tawaf al-Ziyarah] --- next class inshā'Allāh.
     align: (auto,auto,auto,),
     table.header([Tawaf], [When], [Wujūb],),
     table.hline(),
-    [#strong[Tawaf al-Qudūm / al-Taḥiyyah (طواف القدوم)];], [On arrival
+    [#strong[Tawaf al-Qudūm / al-Taḥiyyah (طواف القدوم)]], [On arrival
     in Makkah], [#strong[Not wājib] --- sunnah / mustaḥabb],
-    [#strong[Tawaf al-Ziyarah (طواف الزيارة)];], [During the
-    #strong[days of Eid] (after the main rites)], [#strong[Wājib] on
-    every Ḥājj],
-    [#strong[Tawaf al-Ifāḍah];], [Same as ziyārah in timing (discussed
-    as the one wājib tawaf for all)], [#strong[Wājib];],
-    [#strong[Tawaf al-Wadā‘ (طواف الوداع)];], [When leaving
+    [#strong[Tawaf al-Ziyarah (طواف الزيارة)]], [During the #strong[days
+    of Eid] (after the main rites)], [#strong[Wājib] on every Ḥājj],
+    [#strong[Tawaf al-Ifāḍah]], [Same as ziyārah in timing (discussed as
+    the one wājib tawaf for all)], [#strong[Wājib]],
+    [#strong[Tawaf al-Wadā' (طواف الوداع)]], [When leaving
     Makkah], [#strong[Wājib] on those #strong[outside Makkah] ---
-    #strong[not] on #strong[Makkīs];],
+    #strong[not] on #strong[Makkīs]],
   )]
   , kind: table
   )
@@ -69,13 +68,13 @@ performing Hajj --- whether from Makkah, Ḥill, or abroad.
 #quote(block: true)[
 وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ
 
-#emph[“And let them circumambulate the Ancient House.”]
+#emph["And let them circumambulate the Ancient House."]
 
 #strong[Ref:] Surah al-Ḥajj, 22:29.
 ]
 
-- Whenever the Qur'an #strong[commands] an act, it is #strong[farḍ];.
-- The command here is for #strong[ṭawāf] around the Ka‘bah.
+- Whenever the Qur'an #strong[commands] an act, it is #strong[farḍ].
+- The command here is for #strong[ṭawāf] around the Ka'bah.
 - Among types of ṭawāf, the ayah refers to #strong[Tawaf al-Ziyarah] ---
   the only type #strong[farḍ] for every Ḥājj.
 
@@ -84,8 +83,8 @@ performing Hajj --- whether from Makkah, Ḥill, or abroad.
 #quote(block: true)[
 وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا
 
-#emph[“Hajj to the House is a duty owed to Allah upon mankind --- for
-whoever is able to find a way to it.”]
+#emph["Hajj to the House is a duty owed to Allah upon mankind --- for
+whoever is able to find a way to it."]
 
 #strong[Ref:] Surah Āl ʿImrān, 3:97.
 ]
@@ -97,38 +96,38 @@ sake of Allah --- which, in Sharīʿah, is fulfilled by #strong[ṭawāf]
 around it in the prescribed manner.
 
 - The letter #strong[lām (ل)] in Arabic can indicate #strong[obligation
-  (wujūb)];.
+  (wujūb)].
 - The #strong[visit (ziyārah)] that is wājib on the Ḥājj is this
   #strong[ṭawāf] --- not merely standing near the House.
 
 #strong[Supporting poetry (as cited in class):] Classical usage shows
 #strong[ḥajj] meaning #strong[ziyārah] of a sacred place with the
 #strong[niyyah of ʿibādah] --- applied here to Baytullāh through
-#strong[ṭawāf];.
+#strong[ṭawāf].
 
-=== Evidence 3 --- Ijmā‘ (إجماع) \[consensus\]
+=== Evidence 3 --- Ijmā' (إجماع) \[consensus\]
 <evidence-3-ijma-consensus>
 The #strong[whole ummah] is agreed that this ṭawāf is #strong[wājib] on
 #strong[everyone] performing Hajj --- Makkī, Ḥillī, or outsider ---
-because the Qur'anic proofs are #strong[general (ʿāmm)];.
+because the Qur'anic proofs are #strong[general (ʿāmm)].
 
-=== Why it is called “Tawaf al-Ziyarah”
+=== Why it is called "Tawaf al-Ziyarah"
 <why-it-is-called-tawaf-al-ziyarah>
 #strong[Ziyārah (زيارة)] = the #strong[inner, essential] part of the
 visit. This ṭawāf is the #strong[core] of the visit to the House that
-Hajj requires --- hence #strong[Ṭawāf al-Ziyārah];.
+Hajj requires --- hence #strong[Ṭawāf al-Ziyārah].
 
 #horizontalrule
 
-== Part 2 --- Rukn of Tawaf al-Ziyarah: hudur (presence around the Ka‘bah)
+== Part 2 --- Rukn of Tawaf al-Ziyarah: hudur (presence around the Ka'bah)
 <part-2-rukn-of-tawaf-al-ziyarah-hudur-presence-around-the-kabah>
 === What is the rukn?
 <what-is-the-rukn>
 The #strong[rukn (ركن)] \[essential pillar\] is #strong[ḥuḍūr (حضور)]
---- #strong[being present / going around] the Ka‘bah.
+--- #strong[being present / going around] the Ka'bah.
 
 - #strong[Not] walking itself.
-- #strong[Any means] of presence counts for the #strong[rukn];: walking,
+- #strong[Any means] of presence counts for the #strong[rukn]: walking,
   being carried, wheelchair, crowd pushing you while your body moves
   with the mass, etc.
 
@@ -136,9 +135,9 @@ The #strong[rukn (ركن)] \[essential pillar\] is #strong[ḥuḍūr (حضور)
   align(center)[#table(
     columns: (63.64%, 36.36%),
     align: (auto,auto,),
-    table.header([If he is around the Ka‘bah…], [Rukn complete?],),
+    table.header([If he is around the Ka'bah…], [Rukn complete?],),
     table.hline(),
-    [Walking himself], [#strong[Yes];],
+    [Walking himself], [#strong[Yes]],
     [Carried on shoulders / wheelchair while #strong[unable] to
     walk], [#strong[Yes] --- walking not wājib on him],
     [Carried while #strong[able] to walk but chose not
@@ -157,19 +156,19 @@ The #strong[rukn (ركن)] \[essential pillar\] is #strong[ḥuḍūr (حضور)
   align(center)[#table(
     columns: (9.68%, 54.84%, 35.48%),
     align: (auto,auto,auto,),
-    table.header([], [#strong[Rukn (farḍ)];], [#strong[Wājib];],),
+    table.header([], [#strong[Rukn (farḍ)]], [#strong[Wājib]],),
     table.hline(),
     [If missed], [#strong[Ṭawāf invalid] --- #strong[no compensation]
     fixes it], [#strong[Ṭawāf valid] --- #strong[dam] (average
     goat/sheep) compensates],
-    [Example], [No presence around Ka‘bah at all], [Capable but did not
+    [Example], [No presence around Ka'bah at all], [Capable but did not
     walk; rode without need],
   )]
   , kind: table
   )
 
 #strong[Wājib here:] To perform ṭawāf #strong[by oneself on foot] when
-#strong[able (qādir)];.
+#strong[able (qādir)].
 
 === Carrier and carried --- both complete rukn?
 <carrier-and-carried-both-complete-rukn>
@@ -178,22 +177,22 @@ The #strong[rukn (ركن)] \[essential pillar\] is #strong[ḥuḍūr (حضور)
 #strong[rukn] of #strong[ḥuḍūr] for each person.
 
 - #strong[Difference:] One performs presence through #strong[his own
-  action];; the other through #strong[being there] while another moves
-  --- but #strong[ḥuḍūr] is fulfilled for #strong[both];.
+  action]\; the other through #strong[being there] while another moves
+  --- but #strong[ḥuḍūr] is fulfilled for #strong[both].
 
 #strong[Objection:] One person's walking --- one action --- how enough
 for two?
 
-#strong[Answer 1:] The #strong[rukn is not walking];; it is
-#strong[presence];. Two presences = two fulfillments of rukn.
+#strong[Answer 1:] The #strong[rukn is not walking]\; it is
+#strong[presence]. Two presences = two fulfillments of rukn.
 
 #strong[Answer 2:] Sharīʿah sometimes accepts #strong[one action for
 two] --- e.g.~a #strong[father] trading on behalf of his
-#strong[immature child] and himself with #strong[one transaction];.
+#strong[immature child] and himself with #strong[one transaction].
 
 === Running without niyyah of ṭawāf
 <running-without-niyyah-of-awaf>
-If someone circles the Ka‘bah #strong[without niyyah of ṭawāf]
+If someone circles the Ka'bah #strong[without niyyah of ṭawāf]
 (e.g.~chasing someone, fleeing) --- #strong[rukn is not enough] for
 valid Tawaf al-Ziyarah (niyyah discussed below).
 
@@ -204,15 +203,15 @@ valid Tawaf al-Ziyarah (niyyah discussed below).
 === General rule
 <general-rule>
 #strong[Niyyah] is a #strong[shart (شرط)] \[condition\] for valid Tawaf
-al-Ziyarah --- unlike #strong[Wuquf Arafah];, where presence without
-intention still fulfills the #strong[rukn];.
+al-Ziyarah --- unlike #strong[Wuquf Arafah], where presence without
+intention still fulfills the #strong[rukn].
 
 #figure(
   align(center)[#table(
     columns: 3,
     align: (auto,auto,auto,),
-    table.header([], [#strong[Wuquf Arafah];], [#strong[Tawaf
-      al-Ziyarah];],),
+    table.header([], [#strong[Wuquf Arafah]], [#strong[Tawaf
+      al-Ziyarah]],),
     table.hline(),
     [Niyyah], [#strong[Not] required for rukn], [#strong[Required]
     (absolute niyyah)],
@@ -224,14 +223,14 @@ intention still fulfills the #strong[rukn];.
 
 === Absolute niyyah is enough
 <absolute-niyyah-is-enough>
-- #strong[Specific] niyyah (“this is Tawaf al-Ziyarah”) is #strong[not
+- #strong[Specific] niyyah ("this is Tawaf al-Ziyarah") is #strong[not
   required] when Sharīʿah has #strong[already specified] the act ---
-  like #strong[Ramadan fast];: general intention to fast suffices in
+  like #strong[Ramadan fast]: general intention to fast suffices in
   Ramaḍān.
 
 - If he goes to make #strong[ṭawāf] in the #strong[days fixed for Tawaf
-  al-Ziyarah] with #strong[general niyyah of ṭawāf];, it is
-  #strong[valid];.
+  al-Ziyarah] with #strong[general niyyah of ṭawāf], it is
+  #strong[valid].
 
 === Why niyyah of ihrām does not substitute
 <why-niyyah-of-ihram-does-not-substitute>
@@ -239,9 +238,9 @@ intention still fulfills the #strong[rukn];.
   align(center)[#table(
     columns: (8.33%, 30.56%, 61.11%),
     align: (auto,auto,auto,),
-    table.header([], [#strong[Iḥrām];], [#strong[Tawaf al-Ziyarah];],),
+    table.header([], [#strong[Iḥrām]], [#strong[Tawaf al-Ziyarah]],),
     table.hline(),
-    [Purpose], [Impose #strong[restrictions];], [#strong[Lift] remaining
+    [Purpose], [Impose #strong[restrictions]], [#strong[Lift] remaining
     restrictions (esp.~marital relations after slaughter)],
     [Relationship], [Opposite aims], [Niyyah of one #strong[cannot] work
     for the other],
@@ -252,12 +251,12 @@ intention still fulfills the #strong[rukn];.
 #strong[Analogy from class:] #strong[Salām] ends #strong[ṣalāh] --- it
 must be with intention to end; mere head movement is not enough.
 Similarly, #strong[ṭawāf al-ziyārah] #strong[undoes] what #strong[iḥrām]
-established --- it needs its #strong[own niyyah];.
+established --- it needs its #strong[own niyyah].
 
 - After #strong[nahr (ذبح)] \[sacrifice\] on Eid, most #strong[iḥrām]
   restrictions are lifted --- #strong[one] remains until this
   #strong[ṭawāf] is done.
-- Niyyah at #strong[iḥrām] was for #strong[restriction];, not for this
+- Niyyah at #strong[iḥrām] was for #strong[restriction], not for this
   #strong[tahlīl (تحليل)] \[becoming lawful again\].
 
 === When absolute niyyah counts as the specified tawaf
@@ -271,14 +270,14 @@ established --- it needs its #strong[own niyyah];.
     [Ṭawāf in #strong[time Sharīʿah fixed] for that type], [Counts as
     that type even without specific label],
     [#strong[Tawaf al-Qudūm] on arrival before Ḥajj days], [Absolute
-    niyyah → counts as #strong[qudūm];, not ziyārah],
+    niyyah → counts as #strong[qudūm], not ziyārah],
     [#strong[Qirān / ʿUmrah] --- first ṭawāf after iḥrām for
     ʿUmrah], [Sharīʿah assigns it → counts as #strong[ʿUmrah ṭawāf] even
-    if he only thought “general ṭawāf”],
+    if he only thought "general ṭawāf"],
     [Specific niyyah for #strong[nafl ṭawāf] in time of
-    #strong[wājib];], [Sharīʿah's specification #strong[overrides] →
+    #strong[wājib]], [Sharīʿah's specification #strong[overrides] →
     counts as #strong[wājib] (like nafl fast in Ramaḍān counting as
-    #strong[farḍ];)],
+    #strong[farḍ])],
   )]
   , kind: table
   )
@@ -286,17 +285,17 @@ established --- it needs its #strong[own niyyah];.
 #strong[Historical example (as taught):] Early Muslims after slaughter
 and raml went for #strong[ṭawāf] without naming the type ---
 #strong[absolute niyyah] sufficed because #strong[Eid days] were already
-fixed for #strong[Tawaf al-Ziyarah];.
+fixed for #strong[Tawaf al-Ziyarah].
 
 #horizontalrule
 
 == Part 4 --- Ṭahārah (preview --- next class)
 <part-4-aharah-preview-next-class>
 - #strong[Hanafi standard (mentioned):] Qur'anic command for ṭawāf is
-  #strong[absolute];; if #strong[khabar] (خبر) \[hadith report\] adds a
-  #strong[shart];, it is treated as #strong[wājib (maximal)];, not
-  always as #strong[rukn] --- method of reconciling #strong[Qur'an] and
-  #strong[ḥadīth];.
+  #strong[absolute]\; if #strong[khabar] (خبر) \[hadith report\] adds a
+  #strong[shart], it is treated as #strong[wājib (maximal)], not always
+  as #strong[rukn] --- method of reconciling #strong[Qur'an] and
+  #strong[ḥadīth].
 - #strong[Imam Shāfiʿī:] #strong[Ṭahārah] is #strong[shart] for ṭawāf in
   a stricter sense.
 - #strong[Details:] next class, same time inshā'Allāh.
@@ -306,7 +305,7 @@ fixed for #strong[Tawaf al-Ziyarah];.
 == Q&A
 <qa>
 #strong[Q:] After Wuqūf, Muzdalifah, Mina --- rami on 10th--12th --- on
-which day can I do #strong[Tawaf al-Ziyarah];? Must it be 13th?
+which day can I do #strong[Tawaf al-Ziyarah]? Must it be 13th?
 
 #strong[A:] After completing #strong[nahr, ḥalq (حلق)] \[shaving\], and
 #strong[rami] (as due), you may perform #strong[Tawaf al-Ziyarah] on
@@ -320,7 +319,7 @@ do #strong[not] have to wait until the 13th. #strong[Exact time periods]
 == Closing
 <closing>
 - #strong[Covered:] obligation of Tawaf al-Ziyarah (Qur'an, language,
-  ijmā‘); #strong[rukn] = #strong[ḥuḍūr];; #strong[wājib] = walking if
+  ijmā'); #strong[rukn] = #strong[ḥuḍūr]\; #strong[wājib] = walking if
   able; #strong[dam] if wājib missed; #strong[niyyah] required (absolute
   suffices); iḥrām niyyah does not substitute.
 - #strong[Next class:] #strong[Ṭahārah] for ṭawāf, and #strong[fixed

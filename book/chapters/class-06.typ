@@ -44,7 +44,7 @@ of Hajj is:
 
 #emph["Hajj is Arafah."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 The meaning is: #emph[the Hajj is \[essentially\] the standing at
@@ -55,7 +55,7 @@ without which Hajj does not exist at all.
 === The Nature of "Completion" (Tamām) Here
 <the-nature-of-completion-tamam-here>
 A question arises: when the completion of something depends on an
-action, that action should be #strong[wājib];, not farḍ --- because a
+action, that action should be #strong[wājib], not farḍ --- because a
 wājib is what completes an already-existing thing. The answer is that
 #strong[completion (tamām)] is of two types:
 
@@ -65,10 +65,10 @@ wājib is what completes an already-existing thing. The answer is that
   exists but remains incomplete.
 
 Here, the first meaning is intended. The ḥadīth means: whoever performs
-the wuqūf at Arafah, his Hajj #strong[comes into existence];. Without
-it, the Hajj has no existence whatsoever. Since the Quranic āyah
-obligating Hajj is at the level of #strong[farḍ];, and this ḥadīth is
-its tafsīr, the wuqūf too is established as farḍ --- not merely wājib.
+the wuqūf at Arafah, his Hajj #strong[comes into existence]. Without it,
+the Hajj has no existence whatsoever. Since the Quranic āyah obligating
+Hajj is at the level of #strong[farḍ], and this ḥadīth is its tafsīr,
+the wuqūf too is established as farḍ --- not merely wājib.
 
 #horizontalrule
 
@@ -113,7 +113,7 @@ Prophet ﷺ:
 
 #emph["I stood here, and the whole of Arafah is a place of standing."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 The Prophet ﷺ mentioned the wuqūf in #strong[absolute terms] without
@@ -122,7 +122,7 @@ in the field of Arafah.
 
 === Exception: Baṭn ʿUranah (بَطْنُ عُرَنَة)
 <exception-ba-n-uranah>
-The only exception is the #strong[Valley of ʿUranah];, a specific strip
+The only exception is the #strong[Valley of ʿUranah], a specific strip
 of land within the area. The Prophet ﷺ prohibited standing there for
 wuqūf and called it a #strong["mawqif of Shayṭān"] --- because Shayṭān
 would love for people to stand there, as their wuqūf would not be valid.
@@ -151,7 +151,7 @@ a ṣalāh cannot be performed before its prescribed time.
 
 #emph["Learn from me your rites of Hajj."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 The Prophet ﷺ performed the wuqūf after the zawāl, and instructed the
@@ -166,7 +166,7 @@ as the starting point.
 #emph["Whoever reaches Arafah at night has attained the Hajj; and
 whoever misses Arafah at night has missed the Hajj."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 #horizontalrule
@@ -180,11 +180,11 @@ whoever misses Arafah at night has missed the Hajj."]
     table.header([Scholar], [Position],),
     table.hline(),
     [#strong[Aḥnāf (Ḥanafī school)] --- Majority view], [The time for
-    wuqūf includes #strong[both day and night];. One may perform it at
+    wuqūf includes #strong[both day and night]. One may perform it at
     any point after the zawāl on the 9th until Fajr of the 10th.],
-    [#strong[Imām Mālik];], [The actual time for wuqūf is only the
-    #strong[night portion];. If someone was present only during the
-    daytime and left before night, their wuqūf is #strong[not valid];.],
+    [#strong[Imām Mālik]], [The actual time for wuqūf is only the
+    #strong[night portion]. If someone was present only during the
+    daytime and left before night, their wuqūf is #strong[not valid].],
   )]
   , kind: table
   )
@@ -202,7 +202,7 @@ night.
 #emph["Whoever stood at Arafah --- whether by night or by day --- his
 Hajj is complete."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 This explicitly includes the #strong[daytime] as a valid period. Both
@@ -229,9 +229,9 @@ If the people counted the month of Dhul Qaʿdah (the month before Dhul
 Ḥijjah) as thirty days, performed the wuqūf on what they believed was
 the 9th, but later witnesses testified that Dhul Qaʿdah was only
 twenty-nine days --- meaning the wuqūf was actually performed on the
-#strong[10th of Dhul Ḥijjah];:
+#strong[10th of Dhul Ḥijjah]:
 
-#strong[Ruling:] The wuqūf is #strong[valid];. What is done is done. It
+#strong[Ruling:] The wuqūf is #strong[valid]. What is done is done. It
 cannot be invalidated because: - It affects a large number of people,
 not just one individual. - Their money and effort would go to waste. -
 It happened due to a genuine mistake, which is forgiven.
@@ -245,7 +245,7 @@ The dalīl is the ḥadīth:
 sacrifice, and your Hajj is the day you perform it \[according to your
 counting\]."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 === Why the Testimony is Not Accepted to Invalidate
@@ -265,12 +265,12 @@ counting\]."]
 <case-wuquf-performed-on-the-8th-thinking-it-was-the-9th>
 If the people counted the previous month as twenty-nine days and
 performed the wuqūf on what they thought was the 9th, but it later
-turned out to be only the #strong[8th of Dhul Ḥijjah];:
+turned out to be only the #strong[8th of Dhul Ḥijjah]:
 
-#strong[Ruling:] The wuqūf is #strong[not valid];. They must repeat it
-on the actual 9th, because there is still time and opportunity to
-perform it correctly. The necessity that would justify accepting a
-premature wuqūf does not exist here --- the correct date is still ahead.
+#strong[Ruling:] The wuqūf is #strong[not valid]. They must repeat it on
+the actual 9th, because there is still time and opportunity to perform
+it correctly. The necessity that would justify accepting a premature
+wuqūf does not exist here --- the correct date is still ahead.
 
 #strong[Key distinction:] - Wuqūf on the 10th (after the time has
 passed) → valid, because there is no chance to repeat it. - Wuqūf on the

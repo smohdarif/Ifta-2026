@@ -29,12 +29,12 @@ This class continues the discussion of #strong[Wuqūf Arafah] from Class
 <continuation-mistaken-dates-the-analogy-of-qiblah>
 The case discussed in Class 6 --- where the wuqūf was performed on the
 10th due to a counting error --- is compared to the case of
-#strong[ṣalāh and qiblah];:
+#strong[ṣalāh and qiblah]:
 
 If a person does not know the exact direction of the qiblah, he is
-ordered to use his best judgement (#strong[ijtihād];) and pray facing
-the direction he believes to be correct. If it later turns out he faced
-the wrong direction, his ṣalāh is #strong[still valid] --- because he
+ordered to use his best judgement (#strong[ijtihād]) and pray facing the
+direction he believes to be correct. If it later turns out he faced the
+wrong direction, his ṣalāh is #strong[still valid] --- because he
 practiced upon the Sharʿī dalīl available to him. Similarly, the people
 practiced upon the Sharʿī ruling (completing the month at thirty days
 when the moon was not sighted). Their action remains valid even after
@@ -51,7 +51,7 @@ witnesses appear one or two days later testifying that the moon was
 sighted on the 29th (meaning the wuqūf was actually on the 10th, not the
 9th):
 
-#strong[Ruling:] Their testimony is #strong[not acted upon];. What is
+#strong[Ruling:] Their testimony is #strong[not acted upon]. What is
 done is done. The wuqūf was performed on the basis of the Sharʿī dalīl
 and cannot be invalidated retroactively.
 
@@ -76,7 +76,7 @@ time] to gather the people in Arafah:
     12+ hours until Fajr)], [The Imām #strong[must accept] the
     testimony, make the announcement, and gather the people for the
     wuqūf. If they do not perform the wuqūf despite having time, their
-    Hajj is #strong[not valid];.],
+    Hajj is #strong[not valid].],
     [Not enough time (testimony comes too late to organize the gathering
     on short notice)], [The Imām #strong[does not accept] the testimony.
     The people proceed with their original counting and perform the
@@ -100,11 +100,11 @@ differently, and the wuqūf is performed on what the witnesses know to be
 the 10th:
 
 #strong[Ruling:] The witnesses #strong[must follow the Imām's
-declaration];, not their personal knowledge. Their wuqūf alongside
+declaration], not their personal knowledge. Their wuqūf alongside
 everyone else is valid.
 
 #strong[Rationale:] The declaration of dates is in the authority of the
-Imām (#strong[Amīr al-Muslimīn];). Everyone must follow one unified
+Imām (#strong[Amīr al-Muslimīn]). Everyone must follow one unified
 determination; individual knowledge does not override the collective
 ruling.
 
@@ -114,7 +114,7 @@ ruling.
 #emph["Your fasting is the day you fast, and your Hajj is the day you
 perform it \[collectively\]."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 #horizontalrule
@@ -130,7 +130,7 @@ Some people ignore the Imām's ruling and follow the rejected testimony,
 performing the wuqūf one day early (on what is the 8th according to the
 Imām's counting, but the 9th according to the rejected testimony).
 
-#strong[Ruling:] Their wuqūf is #strong[not valid];. Once the Imām has
+#strong[Ruling:] Their wuqūf is #strong[not valid]. Once the Imām has
 rejected the testimony, it carries no legal weight. The Imām's
 declaration is the authoritative ruling, not the testimony of
 individuals whose claim was officially dismissed.
@@ -158,7 +158,7 @@ following conditions apply to the farḍ:
 
 - The person may be in #strong[any state] --- standing, sitting, riding,
   walking, or even passing through.
-- Even if the person is #strong[unconscious] or #strong[asleep];, the
+- Even if the person is #strong[unconscious] or #strong[asleep], the
   stay is counted.
 - #strong[Niyyah (intention)] is #strong[not required] for the farḍ
   wuqūf. This differs from Ṭawāf, where niyyah is required because Ṭawāf
@@ -168,7 +168,7 @@ following conditions apply to the farḍ:
 === The Wājib Duration
 <the-wajib-duration>
 The wājib level requires staying from the #strong[zawāl on the 9th of
-Dhul Ḥijjah until the ghurūb (sunset)];. This means being present for
+Dhul Ḥijjah until the ghurūb (sunset)]. This means being present for
 some portion of the night as well --- once Maghrib time begins, one has
 caught some part of the night.
 
@@ -194,7 +194,7 @@ either farḍ or sunnah --- regardless of whether it is proven by dalīl
 qaṭʿī or dalīl ẓannī. Since the long stay is not farḍ according to them,
 it falls to the level of sunnah.
 
-#strong[Practical difference:] - If someone misses a #strong[farḍ];, the
+#strong[Practical difference:] - If someone misses a #strong[farḍ], the
 action does not count at all. - If someone misses a #strong[wājib]
 (Ḥanafī), the action counts but is incomplete, and a penalty (dam) is
 required. - If someone misses a #strong[sunnah] (Shāfiʿī), there is no
@@ -214,7 +214,7 @@ The Muḥaddithīn divide ḥadīth into two main categories:
 + #strong[Mutawātir:] Narrated by such a large number of narrators in
   every era that it is inconceivable they all agreed on a lie ---
   whether intentionally or unintentionally. This produces certainty
-  (#strong[ʿilm al-yaqīn];).
+  (#strong[ʿilm al-yaqīn]).
 + #strong[Āḥād:] Everything that does not reach the level of mutawātir.
   This is further subdivided into:
   - #strong[Mashhūr:] Narrated by at least three narrators in every era.
@@ -232,7 +232,7 @@ The Uṣūliyyīn divide ḥadīth into #strong[three] direct categories:
   the first era (among the Ṣaḥābah), but gained fame and wide narration
   in the #strong[second era] --- the era of the Tābiʿīn. The first two
   eras (Ṣaḥābah and Tābiʿīn) are the eras of legislation
-  (#strong[tashrīʿ];), so fame achieved in either counts as strong
+  (#strong[tashrīʿ]), so fame achieved in either counts as strong
   evidence.
 + #strong[Khabar Wāḥid:] A ḥadīth that gained fame only #strong[after]
   the first two eras. Regardless of which later generation it became
@@ -241,8 +241,8 @@ The Uṣūliyyīn divide ḥadīth into #strong[three] direct categories:
   (definitive).
 
 #strong[Key implication:] In Ḥanafī uṣūl, mutawātir and mashhūr ḥadīth
-produce dalīl qaṭʿī and can establish a #strong[farḍ];. Khabar wāḥid
-produces dalīl ẓannī and can only establish a #strong[wājib];.
+produce dalīl qaṭʿī and can establish a #strong[farḍ]. Khabar wāḥid
+produces dalīl ẓannī and can only establish a #strong[wājib].
 
 #horizontalrule
 
@@ -252,7 +252,7 @@ produces dalīl ẓannī and can only establish a #strong[wājib];.
 <departing-before-ghurub-but-still-within-arafah>
 If a person starts leaving before sunset but is still physically within
 the boundaries of Arafah when ghurūb occurs, there is #strong[no
-penalty];. He is still in the field.
+penalty]. He is still in the field.
 
 === Departing Before Ghurūb and Leaving Arafah Entirely
 <departing-before-ghurub-and-leaving-arafah-entirely>
@@ -264,10 +264,10 @@ If a person crosses the boundary of Arafah before ghurūb:
     align: (auto,auto,),
     table.header([School], [Ruling],),
     table.hline(),
-    [#strong[Ḥanafī];], [A #strong[dam] (penalty --- slaughtering a
+    [#strong[Ḥanafī]], [A #strong[dam] (penalty --- slaughtering a
     medium-sized animal) is wājib upon him, because he missed the wājib
     of staying until sunset.],
-    [#strong[Shāfiʿī];], [#strong[No dam];, because in their view the
+    [#strong[Shāfiʿī]], [#strong[No dam], because in their view the
     extended stay is sunnah, not wājib. Missing a sunnah carries no
     penalty.],
   )]
@@ -285,10 +285,10 @@ ghurūb] and is present when sunset occurs.
     align: (auto,auto,),
     table.header([Opinion], [Ruling],),
     table.hline(),
-    [#strong[Majority opinion (preferred)];], [If he returns before
+    [#strong[Majority opinion (preferred)]], [If he returns before
     ghurūb and is present at sunset, the dam is #strong[dropped] ---
     because he has compensated for what he missed.],
-    [#strong[Imām Zufar];], [Once the dam becomes wājib (by leaving), it
+    [#strong[Imām Zufar]], [Once the dam becomes wājib (by leaving), it
     #strong[cannot be dropped] even if he returns. The wājib was
     established the moment he departed.],
   )]
@@ -310,7 +310,7 @@ according to Imām Zufar.
     table.hline(),
     [He returns #strong[after ghurūb] but the Imām (Amīr al-Ḥajj) is
     still in Arafah], [Two narrations exist. The #strong[preferred
-    (rājiḥ)] opinion: the dam is #strong[dropped];, because the reason
+    (rājiḥ)] opinion: the dam is #strong[dropped], because the reason
     for the penalty was leaving before sunset, and he has now
     compensated by returning while the Imām is still present.],
     [He returns after ghurūb #strong[and] the Imām has already
@@ -329,7 +329,7 @@ If a person does not go to Arafah at all during the entire window (from
 zawāl on the 9th to Fajr of the 10th) --- for example, he stayed in his
 hotel room or elsewhere:
 
-#strong[Ruling:] His Hajj is #strong[missed entirely];. There is no
+#strong[Ruling:] His Hajj is #strong[missed entirely]. There is no
 remedy for this year. He must make #strong[qaḍāʾ] (repeat the Hajj) the
 following year. The wuqūf is the farḍ pillar without which the Hajj has
 no existence.
@@ -343,7 +343,7 @@ slaughtering days.
 
 === Ḥanafī Position (Majority): Three Days
 <hanafi-position-majority-three-days>
-The days of slaughtering (#strong[Ayyām al-Naḥr];) are the #strong[10th,
+The days of slaughtering (#strong[Ayyām al-Naḥr]) are the #strong[10th,
 11th, and 12th of Dhul Ḥijjah] --- three days.
 
 ==== Dalīl 1 --- Statement of Ibn ʿUmar (raḍiyallāhu ʿanhu)
@@ -365,20 +365,20 @@ gives 10, 11, 12 --- three days.
 content is of the kind that #strong[cannot be derived through logic or
 personal reasoning] (e.g., fixing specific numbers of days), it is
 treated as though it goes back to the Prophet ﷺ (#strong[marfūʿ
-ḥukman];). This is because the only source for such information for a
+ḥukman]). This is because the only source for such information for a
 Ṣaḥābī would have been the Prophet ﷺ himself.
 
 ==== Dalīl 2 --- Ḥadīth of the Prophet ﷺ
-<dalil-2-hadith-of-the-prophet>
+#label("dalīl-2-ḥadīth-of-the-prophet-ﷺ")
 #quote(block: true)[
 #emph["Whoever among you slaughters, let nothing of its meat remain in
 his house after the morning of the third day."]
 
-#strong[(hadith as cited in class --- confirm in hadith index)]
+#strong[\(hadith as cited in class --- confirm in hadith index)]
 ]
 
 This prohibition (which was temporary, for a year of hardship) confirms
-that the Eid days are #strong[three];: if a fourth day of slaughtering
+that the Eid days are #strong[three]: if a fourth day of slaughtering
 existed, there would still be fresh meat in the house, and the
 prohibition would not have made sense.
 
@@ -393,7 +393,7 @@ days after it] (10th, 11th, 12th).
 === Shāfiʿī Position: Four Days
 <shafii-position-four-days>
 Imām al-Shāfiʿī holds that the slaughtering days extend to the
-#strong[13th of Dhul Ḥijjah];, making it four days (10th--13th).
+#strong[13th of Dhul Ḥijjah], making it four days (10th--13th).
 
 ==== Shāfiʿī Dalīl
 <shafii-dalil>
@@ -402,7 +402,7 @@ A ḥadīth narrated through Abū Saʿīd and others:
 #quote(block: true)[
 #emph["All the days of Tashrīq are days of slaughtering."]
 
-#strong[(hadith as cited in class --- chain has weakness, see below)]
+#strong[\(hadith as cited in class --- chain has weakness, see below)]
 ]
 
 The days of Tashrīq are the 11th, 12th, and 13th. Combined with the
@@ -416,8 +416,8 @@ used to argue that they must also be days of slaughtering.
 <hanafi-response>
 The ḥadīth #emph["all the days of Tashrīq are days of slaughtering"] has
 a weakness in its chain --- it contains a narrator who is considered
-#strong[ḍaʿīf (weak)];. Some scholars have even declared the ḥadīth
-#strong[mawḍūʿ (fabricated)];. This is why the majority of scholars did
+#strong[ḍaʿīf (weak)]. Some scholars have even declared the ḥadīth
+#strong[mawḍūʿ (fabricated)]. This is why the majority of scholars did
 not use it as evidence.
 
 The aḥādīth about #emph["days of eating and drinking"] are authentic but
@@ -447,7 +447,7 @@ direct.
 
 == Closing / Next Class
 <closing-next-class>
-This concludes the discussion on #strong[Wuqūf Arafah];. The next topic
+This concludes the discussion on #strong[Wuqūf Arafah]. The next topic
 --- #strong[Ṭawāf al-Ziyārah] (the second rukn of Hajj) --- will be
 covered after a one-week break for the blessed days of Dhul Ḥijjah and
 Eid al-Aḍḥā. Classes resume on Monday, inshāʾAllāh.

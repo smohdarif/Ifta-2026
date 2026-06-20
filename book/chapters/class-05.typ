@@ -32,7 +32,7 @@ today:
 == Second Condition Specific to Women: Absence of 'Iddah
 <second-condition-specific-to-women-absence-of-iddah>
 A woman in her 'iddah period --- whether due to divorce or the death of
-her husband --- is #strong[not permitted to leave her home];. This is
+her husband --- is #strong[not permitted to leave her home]. This is
 based on the Quranic command:
 
 #quote(block: true)[
@@ -61,7 +61,7 @@ the 'iddah takes priority.
 == Scenarios: Talaq or Husband's Death During the Hajj Journey
 <scenarios-talaq-or-husbands-death-during-the-hajj-journey>
 If a woman had already departed for Hajj and the talaq or death of her
-husband occurred #emph[mid-journey];, the rulings vary by circumstances.
+husband occurred #emph[mid-journey], the rulings vary by circumstances.
 
 === Talaq al-Raj'i (Revocable Divorce)
 <talaq-al-raji-revocable-divorce>
@@ -85,9 +85,9 @@ husband's death\]. The following four cases determine what she must do:
 in Shari'ah\] = approximately 48 miles.
 
 If the distance back to her home is less than 48 miles, and Makkah is
-farther away, she #strong[returns home];. Going back would not
-constitute a new journey (safar shar'i), so she fulfills her 'iddah
-there as intended.
+farther away, she #strong[returns home]. Going back would not constitute
+a new journey (safar shar'i), so she fulfills her 'iddah there as
+intended.
 
 #horizontalrule
 
@@ -127,7 +127,7 @@ safe and comfortable city (misr).
     align: (auto,auto,),
     table.header([Scholar], [Ruling],),
     table.hline(),
-    [#strong[Imam Abu Hanifa];], [She must remain in that city and
+    [#strong[Imam Abu Hanifa]], [She must remain in that city and
     complete her full 'iddah there, even if another Mahram joins her.
     That city is treated as her home for 'iddah purposes.],
     [#strong[Sahibayn] (Imam Abu Yusuf & Imam Muhammad)], [If a Mahram
@@ -147,9 +147,9 @@ She cannot remain there safely. In this case:
     align: (auto,auto,),
     table.header([Scholar], [Ruling],),
     table.hline(),
-    [#strong[Imam Abu Hanifa];], [She must travel to the next safe city
+    [#strong[Imam Abu Hanifa]], [She must travel to the next safe city
     and remain there for her 'iddah.],
-    [#strong[Sahibayn];], [If joined by a Mahram, she may continue all
+    [#strong[Sahibayn]], [If joined by a Mahram, she may continue all
     the way and complete her 'iddah while traveling.],
   )]
   , kind: table
@@ -182,16 +182,16 @@ physical disability, chronic illness, extreme old age, or an external
 barrier such as security conditions
 
 …is #strong[obligated] to send another person to perform Hajj on their
-behalf. This is called #strong[Hajj Badal];.
+behalf. This is called #strong[Hajj Badal].
 
 This Hajj Badal is counted as their #strong[Fard Hajj (first obligatory
-Hajj)];.
+Hajj)].
 
 === If the Person Performs Hajj Themselves Despite the Barrier
 <if-the-person-performs-hajj-themselves-despite-the-barrier>
 If such a person crosses their own barrier and personally performs Hajj
 (e.g., despite illness or disability), their Hajj is #strong[valid and
-counted as Fard];. Shari'ah did not require them to cross that barrier,
+counted as Fard]. Shari'ah did not require them to cross that barrier,
 but having done so, their Hajj obligation is fulfilled.
 
 === Recovery After Hajj Badal
@@ -201,8 +201,8 @@ person later #strong[recovers fully] and regains the physical
 capability:
 
 - The Hajj Badal performed is now considered #strong[nafl
-  (supererogatory)];, not Fard.
-- They are now #strong[obligated to perform Hajj themselves];, provided
+  (supererogatory)], not Fard.
+- They are now #strong[obligated to perform Hajj themselves], provided
   they still have the financial means and meet all conditions.
 
 #strong[Reasoning:] Hajj Badal was permitted due to necessity. When the
@@ -215,7 +215,7 @@ personally is restored.
 <analogy-the-poor-person-who-performs-hajj>
 A person who is financially incapable of Hajj but nonetheless manages to
 go and perform it --- fulfilling all other conditions (sane, adult,
-free) --- has performed their #strong[Fard Hajj];. They need not repeat
+free) --- has performed their #strong[Fard Hajj]. They need not repeat
 it. Although the financial condition was not met, they themselves
 crossed that barrier, so Shari'ah counts it.
 
@@ -267,7 +267,7 @@ Carried Over Into It):]
 
 If a person has the māl and the Hajj season arrives --- i.e., the time
 when people are preparing and departing for Hajj --- then it becomes
-#strong[obligatory upon him to use that māl for Hajj];. He is no longer
+#strong[obligatory upon him to use that māl for Hajj]. He is no longer
 free to spend it elsewhere on non-necessities.
 
 #strong[Analogy with Wudu' and Water:] - If a person has water and it is
@@ -281,7 +281,7 @@ divert it for other non-essential uses.
 <immediate-fawri-vs-delayed-tawsi-obligation>
 There is a scholarly difference of opinion on whether the obligation of
 Hajj must be fulfilled #strong[immediately] (in the very first year of
-capability) or whether it allows #strong[delay (tawsi')];.
+capability) or whether it allows #strong[delay (tawsi')].
 
 #figure(
   align(center)[#table(
@@ -289,10 +289,10 @@ capability) or whether it allows #strong[delay (tawsi')];.
     align: (auto,auto,),
     table.header([View], [Position],),
     table.hline(),
-    [#strong[Immediate (Fawri):];], [Hajj must be performed the first
+    [#strong[Immediate (Fawri):]], [Hajj must be performed the first
     available year; spending the māl elsewhere is impermissible.],
     [#strong[Delayed (Tawsi') --- Preferred (Mufta Bihi)
-    Opinion:];], [Hajj may be deferred; the māl may be spent elsewhere.
+    Opinion:]], [Hajj may be deferred; the māl may be spent elsewhere.
     However, the #emph[obligation] of Hajj remains binding. If the
     person loses capability later, the wujub (obligation) is not dropped
     --- it remains due upon him. He will be sinful if he dies without

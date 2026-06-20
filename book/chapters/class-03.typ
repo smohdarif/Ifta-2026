@@ -13,7 +13,7 @@
 <introduction>
 This lesson discusses one of the key conditions (شرائط) that make Hajj
 obligatory (فرض) upon a person --- specifically the condition of
-#strong[Zad (زاد)] and #strong[Rahila (راحلة)];.
+#strong[Zad (زاد)] and #strong[Rahila (راحلة)].
 
 #strong[Important note:] This condition applies only to someone who
 lives away from Makkah. A Makki (person residing in Makkah) can walk to
@@ -47,7 +47,7 @@ understood:
 <opinions-of-the-four-imams>
 === Imam Abu Hanifa and the Hanafi Majority
 <imam-abu-hanifa-and-the-hanafi-majority>
-Both Zad and Rahila must be in your #strong[full ownership (Milk)];. If
+Both Zad and Rahila must be in your #strong[full ownership (Milk)]. If
 someone merely gives you permission (Ibaha) to use their food and
 transport, Hajj does #strong[NOT] become obligatory upon you. The
 argument is that Ibaha can be withdrawn at any moment --- you do not
@@ -180,7 +180,7 @@ wealth).
 <case-3-expensive-house-being-used>
 If a person lives in a house worth 50 lakh rupees, and a simpler house
 is available for 30 lakh --- could he sell, downgrade, and use the
-leftover money for Hajj? The answer is #strong[No];. The house he
+leftover money for Hajj? The answer is #strong[No]. The house he
 currently lives in is an essential need and is not counted. He is not
 required to downgrade his home to fund Hajj. However, if he chooses to
 do so voluntarily, that is a good deed (Nafal --- نافلة --- voluntary
@@ -188,14 +188,14 @@ good act) for him.
 
 === Case 4 --- Person with Savings but No House or Servant
 <case-4-person-with-savings-but-no-house-or-servant>
-#strong[Abu Yusuf (رحمه الله)];, the student of Imam Abu Hanifa, says:
-if a person has money in hand sufficient for Hajj but has no house
-(living on rent) and no servant --- and he can arrange family expenses
-for the Hajj period --- then Hajj is #strong[immediately obligatory];.
-He should NOT delay it by first buying a house or hiring a servant. He
-can continue living on rent as he already is. Spending that money on a
-house first --- instead of Hajj --- would make him sinful, because Hajj
-was already obligatory upon him at that point.
+#strong[Abu Yusuf (رحمه الله)], the student of Imam Abu Hanifa, says: if
+a person has money in hand sufficient for Hajj but has no house (living
+on rent) and no servant --- and he can arrange family expenses for the
+Hajj period --- then Hajj is #strong[immediately obligatory]. He should
+NOT delay it by first buying a house or hiring a servant. He can
+continue living on rent as he already is. Spending that money on a house
+first --- instead of Hajj --- would make him sinful, because Hajj was
+already obligatory upon him at that point.
 
 === Case 5 --- Food for the Family
 <case-5-food-for-the-family>

@@ -124,6 +124,7 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 13 | `June 9 2026 - Masail e Hajj - Class 13 - Sai Conditions Timing and Missed Rulings.md` |
 | 14 | `June 10 2026 - Masail e Hajj - Class 14 - Wuquf Muzdalifah and Rami al-Jimar Introduction.md` |
 | 15 | `June 12 2026 - Masail e Hajj - Class 15 - Rami Missed Rulings Tadakhul and Qada.md` |
-| 16 | `May 24 2026 - Masail e Qurbani - Class 2 - Defects Method and Distribution.md` |
+| 16 | `June 16 2026 - Masail e Hajj - Class 16 - Halq Completion and Tawaf al-Sadr Obligation.md` |
+| 17 | `June 17 2026 - Masail e Hajj - Class 17 - Tawaf al-Sadr Rulings and Sunan of Ihram.md` |
 
 Update this table when adding new classes.

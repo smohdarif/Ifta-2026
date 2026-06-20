@@ -52,9 +52,9 @@ acts of worship:
     align: (auto,auto,auto,),
     table.header([], [Hanafi View], [Imam Shafi'i's View],),
     table.hline(),
-    [#strong[In this world];], [Non-Muslims are not obligated to perform
+    [#strong[In this world]], [Non-Muslims are not obligated to perform
     Islamic acts], [Same --- they cannot perform them],
-    [#strong[In the Hereafter];], [They will #strong[not] be questioned
+    [#strong[In the Hereafter]], [They will #strong[not] be questioned
     about Salah, Hajj, etc. --- they go directly to punishment for
     disbelief], [They #strong[will] be questioned and punished for
     #strong[not] performing these acts],
@@ -62,8 +62,8 @@ acts of worship:
   , kind: table
   )
 
-#strong[Imam Shafi'i's evidence:] The Quranic verse says “upon the
-people” --- general, not “upon Muslims only.”
+#strong[Imam Shafi'i's evidence:] The Quranic verse says "upon the
+people" --- general, not "upon Muslims only."
 
 #strong[Hanafi response:] The general wording becomes specific when read
 in context --- the next part of the verse addresses non-believers
