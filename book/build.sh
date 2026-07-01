@@ -25,6 +25,8 @@ MD_CHAPTERS=(
   "June 12 2026 - Masail e Hajj - Class 15 - Rami Missed Rulings Tadakhul and Qada.md"
   "June 16 2026 - Masail e Hajj - Class 16 - Halq Completion and Tawaf al-Sadr Obligation.md"
   "June 17 2026 - Masail e Hajj - Class 17 - Tawaf al-Sadr Rulings and Sunan of Ihram.md"
+  "June 22 2026 - Masail e Hajj - Class 18 - Sunan of Tawaf Istilam Ramal and Two Rakats.md"
+  "June 24 2026 - Masail e Hajj - Class 19 - Tawaf al-Qudum for the Three Hajj Types.md"
 )
 
 echo "→ Converting markdown chapters to Typst…"
