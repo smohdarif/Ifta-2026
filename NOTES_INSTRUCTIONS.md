@@ -128,5 +128,6 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 17 | `June 17 2026 - Masail e Hajj - Class 17 - Tawaf al-Sadr Rulings and Sunan of Ihram.md` |
 | 18 | `June 22 2026 - Masail e Hajj - Class 18 - Sunan of Tawaf Istilam Ramal and Two Rakats.md` |
 | 19 | `June 24 2026 - Masail e Hajj - Class 19 - Tawaf al-Qudum for the Three Hajj Types.md` |
+| 20 | `June 29 2026 - Masail e Hajj - Class 20 - Wuquf Arafah Method and Combining Zuhr and Asr.md` |
 
 Update this table when adding new classes.
