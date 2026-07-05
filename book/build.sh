@@ -28,6 +28,7 @@ MD_CHAPTERS=(
   "June 22 2026 - Masail e Hajj - Class 18 - Sunan of Tawaf Istilam Ramal and Two Rakats.md"
   "June 24 2026 - Masail e Hajj - Class 19 - Tawaf al-Qudum for the Three Hajj Types.md"
   "June 29 2026 - Masail e Hajj - Class 20 - Wuquf Arafah Method and Combining Zuhr and Asr.md"
+  "July 1 2026 - Masail e Hajj - Class 21 - Muzdalifah and Combining Maghrib and Isha.md"
 )
 
 echo "→ Converting markdown chapters to Typst…"
