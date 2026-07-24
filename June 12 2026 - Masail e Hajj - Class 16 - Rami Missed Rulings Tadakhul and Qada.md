@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 15 Summary
+# Masail e Hajj — Class 16 Summary
 
 **Date:** June 12, 2026
 **Topic:** Ramī al-Jimār — Rulings for Missed/Delayed Ramī, Tadākhul (Combining Violations), Qaḍā' Concept, and Tartīb (Sequence) of Jamarāt

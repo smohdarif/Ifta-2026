@@ -123,12 +123,15 @@ If the teacher quotes wording but not a number, include the Arabic + meaning and
 | 12 | `June 8 2026 - Masail e Hajj - Class 12 - Sai Status Wajibat and Penalty Framework.md` |
 | 13 | `June 9 2026 - Masail e Hajj - Class 13 - Sai Conditions Timing and Missed Rulings.md` |
 | 14 | `June 10 2026 - Masail e Hajj - Class 14 - Wuquf Muzdalifah and Rami al-Jimar Introduction.md` |
-| 15 | `June 12 2026 - Masail e Hajj - Class 15 - Rami Missed Rulings Tadakhul and Qada.md` |
-| 16 | `June 16 2026 - Masail e Hajj - Class 16 - Halq Completion and Tawaf al-Sadr Obligation.md` |
-| 17 | `June 17 2026 - Masail e Hajj - Class 17 - Tawaf al-Sadr Rulings and Sunan of Ihram.md` |
-| 18 | `June 22 2026 - Masail e Hajj - Class 18 - Sunan of Tawaf Istilam Ramal and Two Rakats.md` |
-| 19 | `June 24 2026 - Masail e Hajj - Class 19 - Tawaf al-Qudum for the Three Hajj Types.md` |
-| 20 | `June 29 2026 - Masail e Hajj - Class 20 - Wuquf Arafah Method and Combining Zuhr and Asr.md` |
-| 21 | `July 1 2026 - Masail e Hajj - Class 21 - Muzdalifah and Combining Maghrib and Isha.md` |
+| 15 | `June 11 2026 - Masail e Hajj - Class 15 - Rami al-Jimar Meaning Timing and Nafr.md` |
+| 16 | `June 12 2026 - Masail e Hajj - Class 16 - Rami Missed Rulings Tadakhul and Qada.md` |
+| 17 | `June 15 2026 - Masail e Hajj - Class 17 - Halq and Qasr Rulings Amount and Time.md` |
+| 18 | `June 16 2026 - Masail e Hajj - Class 18 - Halq Completion and Tawaf al-Sadr Obligation.md` |
+| 19 | `June 17 2026 - Masail e Hajj - Class 19 - Tawaf al-Sadr Rulings and Sunan of Ihram.md` |
+| 20 | `June 22 2026 - Masail e Hajj - Class 20 - Sunan of Tawaf Istilam Ramal and Two Rakats.md` |
+| 21 | `June 24 2026 - Masail e Hajj - Class 21 - Tawaf al-Qudum for the Three Hajj Types.md` |
+| 22 | `June 29 2026 - Masail e Hajj - Class 22 - Wuquf Arafah Method and Combining Zuhr and Asr.md` |
+| 23 | `June 30 2026 - Masail e Hajj - Class 23 - Combining Zuhr and Asr Conditions and Arafah Dua.md` |
+| 24 | `July 1 2026 - Masail e Hajj - Class 24 - Muzdalifah and Combining Maghrib and Isha.md` |
 
 Update this table when adding new classes.

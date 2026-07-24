@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 16 Summary
+# Masail e Hajj — Class 18 Summary
 
 **Date:** June 16, 2026
 **Topic:** Completing Ḥalq/Qaṣr (Order on Yawm al-Naḥr, What Becomes Ḥalāl, Time & Place); Beginning Ṭawāf al-Ṣadr (Farewell Ṭawāf) — Its Obligation and Conditions of Wujūb

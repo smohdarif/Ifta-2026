@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 21 Summary
+# Masail e Hajj — Class 24 Summary
 
 **Date:** July 1, 2026
 **Topic:** Departure from ʿArafāt, the Night at Muzdalifah, Combining Maghrib & ʿIshā' (Jamʿ Taʾkhīr) — Adhān/Iqāmah Rulings, Praying Before Reaching Muzdalifah, the Early Fajr (Taghlīs), and Departure to Minā

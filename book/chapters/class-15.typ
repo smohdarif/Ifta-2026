@@ -3,402 +3,389 @@
 = Masail e Hajj --- Class 15 Summary
 <masail-e-hajj-class-15-summary>
 #class-meta(
-  date: [June 12, 2026],
-  topic: [Ramī al-Jimār --- Rulings for Missed/Delayed Ramī, Tadākhul (Combining Violations), Qaḍā' Concept, and Tartīb (Sequence) of Jamarāt],
+  date: [June 11, 2026],
+  topic: [Ramī al-Jimār in Detail --- Its Meaning, Niyābah (Proxy), the Times of Stoning on the 10th vs.~the 11th--13th, the First & Second Departure (Nafr) from Minā, Sūrat al-Baqarah 2:203, and the Rules of Distance / Hitting the Jamrah],
   teacher: [Mufti Umar Aejaz],
 )
 
 
 == Introduction
 <introduction>
-This lesson completes the study of #strong[Ramī al-Jimār (رمي الجمار)]
-\[stoning the pillars\] by covering what happens when it is
-#strong[missed or delayed], the principle of #strong[Tadākhul (تداخل)]
-\[combining violations into a single penalty\], a foundational
-discussion on the #strong[concept of Qaḍā' (قضاء)] \[making up missed
-acts\] --- when it applies and when it does not --- and the
-#strong[Tartīb (ترتيب)] \[sequence\] of stoning the three Jamarāt.
-Several practical cases are worked through applying these uṣūl
-principles.
+Building on the previous class (the #strong[status] of Ramī ---
+#strong[wājib] in the Ḥanafī school, with its dalīl: #strong[ijmāʿ], the
+Prophet's ﷺ #strong[order], and his #strong[action] --- his action
+establishing only #strong[wājib ʿamalī], not creed-wise wujūb, because
+of the possibility of #strong[khuṣūṣiyyah]), this lesson turns to the
+#strong[detailed rulings] of #strong[Ramī al-Jimār (رمي الجمار)]
+\[stoning the pillars\]:
+
++ #strong[What Ramī al-Jimār means] (and why #emph[throwing] is
+  essential).
++ #strong[Niyābah] --- performing it by proxy.
++ The #strong[time] of Ramī --- the 10th (Yawm al-Naḥr) vs.~the 11th,
+  12th, and 13th.
++ The #strong[first departure (Nafr al-Awwal)] from Minā and Sūrat
+  al-Baqarah 2:203.
++ #strong[Distance and hitting] the Jamrah.
 
 #horizontalrule
 
-== Part 1 --- Rulings When Ramī is Missed or Delayed
-<part-1-rulings-when-rami-is-missed-or-delayed>
-=== The four days of Ramī
-<the-four-days-of-rami>
-Ramī is performed over #strong[four days]: the 10th, 11th, 12th, and
-13th of Dhū al-Ḥijjah. On the #strong[10th (Yawm al-Naḥr)], only
-#strong[Jamarat al-ʿAqabah] is stoned (7 pebbles). On the #strong[11th,
-12th, and 13th], all #strong[three Jamarāt] are stoned (7 pebbles each =
-21 per day).
-
-=== Complete missing: All four days missed
-<complete-missing-all-four-days-missed>
-If a person #strong[completely missed] the Ramī in all four days --- did
-not throw any pebbles at all:
-
-- #strong[Dam (دم)] is wājib --- agreed upon in the Ḥanafī school.
-
-=== Partial missing on a specific day
-<partial-missing-on-a-specific-day>
-The #strong[preferred opinion (muftā bihī)] of #strong[Imam Abū Ḥanīfah]
-is that the Ramī of each day is #strong[restricted to that day] --- the
-Ramī of the 10th must be done on the 10th, the 11th on the 11th, and so
-on.
-
-#strong[According to the Ṣāḥibayn (Imam Abū Yūsuf and Imam Muḥammad):]
-The Ramī is restricted to the four days #strong[collectively], not day
-by day. So a person may do all the Ramī on any of the four days.
-
-==== Penalty framework (applying the established uṣūl)
-<penalty-framework-applying-the-established-usul>
-#strong[On the 10th (one Jamarah --- 7 pebbles):]
-
-#figure(
-  align(center)[#table(
-    columns: (37.5%, 40%, 22.5%),
-    align: (auto,auto,auto,),
-    table.header([Pebbles missed], [Classification], [Penalty],),
-    table.hline(),
-    [#strong[All 7]], [Whole wājib missed], [#strong[Dam]],
-    [#strong[4 out of 7]], [Major part missed], [#strong[Dam] (major =
-    whole)],
-    [#strong[3 out of 7]], [Minor part missed], [#strong[Ṣadaqah] ---
-    one per pebble (like Ṣadaqat al-Fiṭr each)],
-    [#strong[2 out of 7]], [Minor part missed], [#strong[Ṣadaqah] ---
-    one per pebble],
-    [#strong[1 out of 7]], [Minor part missed], [#strong[Ṣadaqah] ---
-    one pebble],
-  )]
-  , kind: table
-  )
-
-#strong[On the 11th/12th/13th (three Jamarāt --- 21 pebbles per day):]
-
-On these days, the unit of measurement is #strong[Jamarāt] (not
-individual pebbles):
-
-#figure(
-  align(center)[#table(
-    columns: (37.5%, 40%, 22.5%),
-    align: (auto,auto,auto,),
-    table.header([Jamarāt missed], [Classification], [Penalty],),
-    table.hline(),
-    [#strong[All 3 Jamarāt]], [Whole wājib of that day
-    missed], [#strong[Dam]],
-    [#strong[2 out of 3]], [Major part missed], [#strong[Dam]],
-    [#strong[1 out of 3]], [Minor part missed], [#strong[Ṣadaqah] ---
-    for the missed pebbles of that Jamarah],
-  )]
-  , kind: table
-  )
-
-=== Concession when ṣadaqah total reaches dam value
-<concession-when-sadaqah-total-reaches-dam-value>
-If the total ṣadaqah for missed pebbles #strong[equals the value of one
-dam] (the price of a goat), the Sharīʿah grants a concession:
-#strong[reduce the amount slightly] so the minor penalty does not equal
-the major penalty.
-
-#strong[Example:] If one dam = 90 dirham and one ṣadaqah = 30 dirham,
-then missing 3 pebbles = 3 × 30 = 90 (equal to dam). In this case, he
-may pay #strong[89 dirham] --- slightly less than the dam value ---
-because the minor penalty should remain lesser than the major penalty.
+== Part 1 --- The Meaning of Ramī al-Jimār
+<part-1-the-meaning-of-rami-al-jimar>
+- #strong[Linguistically], #strong[Ramī al-Jimār] means #strong[throwing
+  the small pebbles (jimār)]. Two things are built into the term:
+  - the objects must be #strong[small pebbles], and
+  - there must be #strong[actual throwing (ramī)].
+- #strong[Throwing is essential (farḍ of the act):] merely
+  #strong[placing] the pebble on the Jamrah is #strong[not valid]. There
+  must be a genuine throw.
+- #strong[A very light throw] --- like just #strong[pushing] the pebble
+  away from oneself --- #strong[is sufficient] (it still counts as
+  throwing), #strong[but the masnūn (Sunnah) way is a proper throw]:
+  throwing with the force needed to carry the pebble across the distance
+  to the Jamrah.
 
 #horizontalrule
 
-== Part 2 --- Delayed Ramī: Performing Another Day's Ramī Later
-<part-2-delayed-rami-performing-another-days-rami-later>
-=== According to Imam Abū Ḥanīfah (preferred opinion)
-<according-to-imam-abu-hanifah-preferred-opinion>
-If a person delayed the Ramī of a specific day --- e.g.~did not do the
-Ramī of the 10th on the 10th but performed it on the 13th:
+== Part 2 --- Niyābah (Performing Ramī by Proxy)
+<part-2-niyabah-performing-rami-by-proxy>
+- A person should perform the Ramī #strong[himself].
+- #strong[If he is unable] --- due to #strong[old age, illness], or
+  similar --- #strong[someone else may throw on his behalf], because in
+  Hajj #strong[niyābah (نيابة)] \[acting as a proxy\] is
+  #strong[permissible], especially for Ramī.
+- The incapable person may #strong[place the pebbles in his own palm],
+  and another person throws them for him --- this is valid. Once he is
+  unable, it does not matter whether he throws or another throws on his
+  behalf.
+- #strong[Parallels already studied:]
+  - In #strong[Ṭawāf], a person who cannot walk may be #strong[carried].
+  - In the #strong[Wuqūf at Muzdalifah], a person may be
+    #strong[carried] to fulfil it.
 
-- The Ramī #strong[itself is performed] (it counts), but
-- A #strong[penalty is due for the delay] (not for missing --- he did
-  perform it, just late).
+#horizontalrule
 
-=== According to the Ṣāḥibayn
-<according-to-the-sahibayn>
-Since the Ramī is collectively restricted to the four days (not
-day-by-day), performing any day's Ramī on another day within the four
-days incurs #strong[no penalty].
+== Part 3 --- The Time of Ramī: Four Days
+<part-3-the-time-of-rami-four-days>
+Ramī is performed over #strong[four days]: the #strong[10th] (Yawm
+al-Naḥr) and then the #strong[11th, 12th, and 13th] of Dhū al-Ḥijjah.
+The #strong[10th is different] from the other days in its timing.
 
-=== Complete missing across all four days
-<complete-missing-across-all-four-days>
+=== 3.1 --- The 10th (Yawm al-Naḥr): only Jamrat al-ʿAqabah
+<the-10th-yawm-al-nahr-only-jamrat-al-aqabah>
+On the 10th, #strong[only Jamrat al-ʿAqabah] is stoned. The day divides
+into #strong[four periods]:
+
 #figure(
   align(center)[#table(
-    columns: (37.5%, 62.5%),
+    columns: (50%, 50%),
     align: (auto,auto,),
-    table.header([Opinion], [Number of dams],),
+    table.header([Period], [Ruling],),
     table.hline(),
-    [#strong[Ṣāḥibayn]], [#strong[One dam] --- because the entire Ramī
-    is one collective wājib, and he missed it],
-    [#strong[Imam Abū Ḥanīfah]], [Also #strong[one dam] --- although he
-    violated on three separate days (which should be three dams), the
-    violations are #strong[combined (tadākhul)] into one penalty],
+    [#strong[From Ṭulūʿ al-Fajr → sunrise (Ṭulūʿ
+    al-Shams)]], [#strong[Jāʾiz but makrūh]],
+    [#strong[From sunrise → Zawāl]], [#strong[Mustaḥabb] (the
+    recommended time)],
+    [#strong[From Zawāl → sunset (Ghurūb)]], [#strong[Jāʾiz, without
+    karāhah]],
+    [#strong[The night (between 10th and 11th)]], [#strong[Jāʾiz but
+    makrūh] if without ʿudhr; #strong[no karāhah] if there is an ʿudhr],
   )]
   , kind: table
   )
 
-#horizontalrule
+- #strong[Start:] the time #strong[begins at Ṭulūʿ al-Fajr] (Ḥanafī
+  view) --- so it #strong[cannot] be done in the #strong[night before]
+  the 10th (the night of the 9th/10th).
+- #strong[The night after] counts as part of the 10th: a Ramī "day" runs
+  from #strong[one Fajr to the next Fajr] (a full 24-hour reckoning), so
+  the night between the 10th and 11th still belongs to the 10th.
+- #strong[End:] the time for the 10th's Ramī #strong[ends at sunset
+  (Ghurūb)] of the 10th; the night is still valid but #strong[makrūh].
+- #strong[Delaying to the next day (11th) without ʿudhr → penalty
+  (dam)].
 
-== Part 3 --- Tadākhul (Combining Violations into One Penalty)
-<part-3-tadakhul-combining-violations-into-one-penalty>
-=== The principle
-<the-principle>
-When multiple #strong[violations] occur and they meet #strong[all three
-conditions], they are combined into a #strong[single penalty]:
-
+==== The differing views on the start time
+<the-differing-views-on-the-start-time>
 #figure(
   align(center)[#table(
-    columns: (21.43%, 78.57%),
+    columns: (25.71%, 74.29%),
     align: (auto,auto,),
-    table.header([\#], [Condition],),
+    table.header([Scholar], [Start of the 10th's Ramī],),
     table.hline(),
-    [1], [The violations are of the #strong[same category] (jins wāḥid /
-    جنس واحد)],
-    [2], [They occur within #strong[one iḥrām]],
-    [3], [They do #strong[not] relate to a #strong[valuable asset] (māl
-    mutaqawwam / مال متقوم)],
+    [#strong[Ḥanafī] #emph[\(preferred)]], [#strong[Ṭulūʿ al-Fajr]
+    (basic time); #strong[sunrise] onward is mustaḥabb],
+    [#strong[Imam al-Shāfiʿī]], [From the #strong[second half of the
+    night] before the 10th],
+    [#strong[Sufyān al-Thawrī]], [#strong[Not] permissible before
+    #strong[sunrise]],
   )]
   , kind: table
   )
 
-=== Examples of Tadākhul (violations combined → one penalty)
-<examples-of-tadakhul-violations-combined-one-penalty>
-#figure(
-  align(center)[#table(
-    columns: (33.33%, 39.39%, 27.27%),
-    align: (auto,auto,auto,),
-    table.header([Violation], [Repetitions], [Penalty],),
-    table.hline(),
-    [#strong[Shaving parts of the head] during iḥrām], [Shaved ¼, then
-    another ¼, then another ¼, then the last ¼], [#strong[One dam] ---
-    not four; same category, one iḥrām, not about a valuable asset],
-    [#strong[Applying perfume] to different body parts], [Applied on 5
-    different parts], [#strong[One dam] --- all combined],
-    [#strong[Wearing stitched clothing]], [Wore multiple
-    garments], [#strong[One dam] --- all combined],
-    [#strong[Missing Ramī] of multiple days], [Missed 1st, 2nd, and 3rd
-    day Ramī], [#strong[One dam] --- violations combined (Imam Abū
-    Ḥanīfah)],
-  )]
-  , kind: table
-  )
+#quote(block: true)[
+#strong[Note:] the Ḥanafī--Shāfiʿī disagreement over "does the time
+begin in the night before, or after Fajr of the day?" recurs in
+#strong[three] places: the #strong[timing of Ramī], the #strong[Wuqūf at
+ʿArafah], and the #strong[Wuqūf at Muzdalifah]. Pilgrims should know the
+Hajj timings #strong[according to their own school] and not blindly
+follow another's practice without realising it.
+]
 
-=== Exception: Violations relating to valuable assets
-<exception-violations-relating-to-valuable-assets>
-#strong[Hunting wild animals] in the Ḥaram during iḥrām:
+==== Ḥanafī dalīl
+<hanafi-dalil>
+The Prophet ﷺ sent the #strong[weaker members and women] of his family
+ahead from Muzdalifah in the night, and instructed them #strong[not to
+stone Jamrat al-ʿAqabah until they reached the morning]:
 
-- If a person hunted #strong[3 wild animals] in the Ḥaram during one
-  iḥrām → #strong[3 separate penalties] (one per animal).
-- The violations are #strong[not combined] because the violation relates
-  to a #strong[valuable asset] (the animal has monetary value).
-- Each animal is an independent valuable entity, so each requires its
-  own compensation.
+#quote(block: true)[
+#strong[«لَا تَرْمُوا الْجَمْرَةَ حَتَّى تُصْبِحُوا»]
+
+#emph["Do not stone the Jamrah until you reach the morning."]
+
+#strong[\(hadith as cited in class --- confirm wording/number in hadith
+index; narrated concerning the Banū al-Muṭṭalib / the weak sent ahead
+from Muzdalifah)]
+]
+
+This proves the time #strong[starts once morning comes] and does
+#strong[not] begin before #strong[Ṣubḥ] appears --- a #strong[counter to
+both Imam al-Shāfiʿī] (night before) #strong[and Sufyān al-Thawrī] (only
+after sunrise).
+
+==== Reconciling two apparently conflicting ḥadīths
+<reconciling-two-apparently-conflicting-hadiths>
+- One narration: #strong[do not stone until you reach the morning
+  (Ṣubḥ)].
+- Another narration: #strong[do not stone until sunrise (Ṭulūʿ
+  al-Shams)].
+
+There is an #strong[apparent conflict (taʿāruḍ ẓāhirī)]. The Aḥnāf, as
+is their method, make #strong[tatbīq (reconciliation)] so both
+narrations can be acted upon:
+
+- The #strong[first] ḥadīth refers to the #strong[actual/basic time] ---
+  it begins at #strong[Fajr].
+- The #strong[second] ḥadīth refers to the #strong[mustaḥabb time] ---
+  best performed #strong[after sunrise].
+
+Since the two ḥadīths speak of #strong[different subjects] (basic time
+vs.~preferred time), there is #strong[no real conflict].
+
+=== 3.2 --- The 11th and 12th (Ayyām al-Tashrīq)
+<the-11th-and-12th-ayyam-al-tashriq>
+The #strong[11th] is the #strong[first day of Ayyām al-Tashrīq (أيام
+التشريق)]\; the #strong[12th] is the #strong[second day]. Their Ramī
+differs from the 10th in #strong[two] ways:
+
++ #strong[Time begins after Zawāl] --- it is #strong[not jāʾiz] to stone
+  #strong[before Zawāl] on these two days (unlike the 10th, whose time
+  began at Fajr).
++ #strong[All three Jamarāt] are stoned --- \*\* Jamrat al-Ūlā,
+  al-Wusṭā, and al-ʿAqabah\*\* --- not just al-ʿAqabah.
+
+- #strong[After sunset until Fajr:] still #strong[jāʾiz but with
+  karāhah] (no penalty).
+- A #strong[non-preferred] opinion permits Ramī #strong[before Zawāl] on
+  the 11th/12th; the #strong[preferred] view is that one #strong[must
+  wait until Zawāl].
+
+#strong[Dalīl (preferred view):] the Prophet's ﷺ #strong[action] --- he
+stoned #strong[al-ʿAqabah on the 10th after sunrise], and stoned on the
+#strong[other days after Zawāl]. #strong[Timings are fixed by the texts
+(naṣṣ), not by qiyās.]
 
 #horizontalrule
 
-== Part 4 --- The Concept of Qaḍā' (Making Up Missed Acts)
-<part-4-the-concept-of-qa-a-making-up-missed-acts>
-=== When does Qaḍā' apply?
-<when-does-qa-a-apply>
-The teacher explained a fundamental uṣūl regarding #strong[when a missed
-ʿibādah can be made up by performing the same action later]:
+== Part 4 --- The First Departure (Nafr al-Awwal) and Sūrat al-Baqarah 2:203
+<part-4-the-first-departure-nafr-al-awwal-and-surat-al-baqarah-2203>
+After the Ramī of the #strong[12th] (which is after Zawāl), a pilgrim
+has a #strong[choice]:
 
-#strong[Principle:] After the time of the ʿibādah has passed, if there
-exists #strong[another ʿibādah of the same category] --- whether wājib
-or nafl --- that can still be performed, then #strong[Qaḍā' is
-possible]. The person must turn his intention to the missed wājib and
-perform it.
+- #strong[Depart Minā for Makkah on the 12th] --- this is the
+  #strong[Nafr al-Awwal (النفر الأول)] \[first / earlier departure\];
+  #strong[or]
+- #strong[Stay for the 13th] (the 4th day), stone that day, then depart
+  --- the #strong[Nafr al-Thānī] \[second departure\].
 
-If there is #strong[no other ʿibādah of the same category] remaining in
-the year, then #strong[Qaḍā' is not possible] --- only the penalty
-(dam/ṣadaqah) remains.
+#strong[It is better (afḍal)] to wait for the #strong[4th day (13th)],
+stone, and then depart. The Qur'anic basis:
 
-=== Application
-<application>
+#quote(block: true)[
+#strong[فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ ۚ لِمَنِ اتَّقَىٰ]
+
+#emph["Whoever hastens (to leave) in two days --- there is no sin upon
+him; and whoever delays --- there is no sin upon him --- for the one who
+has taqwā."]
+
+#strong[Ref:] al-Baqarah, 2:203.
+]
+
+=== Two questions on the āyah
+<two-questions-on-the-ayah>
+#strong[Q1 --- Why "no sin (lā ithm)"?] This wording is normally used
+for #strong[optional/permissible] matters --- yet the 4th day's Ramī
+(for one who stays) is #strong[wājib]. How can the āyah say "no sin"?
+
+#quote(block: true)[
+#strong[Answer:] here #strong["no sin" does not mean "it is optional /
+permission granted."] It means the person is #strong[forgiven] --- no
+sin remains upon him --- in #strong[both] cases (whether he departs
+after the 3rd day's Ramī or after the 4th). One who leaves early is
+#strong[forgiven] the shortfall; one who stays and completes is likewise
+fine. It is about #strong[maghfirah (forgiveness)], not about declaring
+the act optional.
+]
+
+#strong[Q2 --- Why is "for the one who has taqwā (لِمَنِ اتَّقَىٰ)" attached
+only to the one who #emph[delays] (wa man taʾakhkhara)?] It should apply
+to the one who #strong[hastens] too --- indeed, the hastening one
+arguably needs the reminder more.
+
+#quote(block: true)[
+#strong[Answer:] the clause #strong[belongs to both]. Both the one who
+hastens and the one who delays are #strong[encouraged toward taqwā], and
+it is #strong[their choice] to stay for three days or four.
+]
+
+#strong[Other interpretations of the taqwā clause:] some say the
+#strong[taqwā] here refers to #strong[keeping away from hunting (ṣayd)
+in the Ḥaram] (also mentioned in the surrounding passage), not to the
+Ramī; others take it as #strong[taqwā throughout the whole of Hajj (and
+the rest of life)], or #strong[keeping away from the restrictions of
+iḥrām].
+
+=== Losing the choice: when the 13th's Ramī becomes obligatory
+<losing-the-choice-when-the-13ths-rami-becomes-obligatory>
+If a pilgrim completed the Ramī of the 10th, 11th, and 12th and
+#strong[could have departed] on the 12th but #strong[stayed], and the
+#strong[Fajr of the 13th arose while he was still in Minā], then his
+#strong[option to skip the 13th is gone] --- the #strong[Ramī of the
+13th now becomes wājib] on him.
+
+- So to leave under the #strong[Nafr al-Awwal], he must #strong[depart
+  on the 12th before the Fajr of the 13th enters]\; otherwise the
+  #strong[13th's Ramī is obligatory].
+
+#horizontalrule
+
+== Part 5 --- The Time of Ramī on the 13th (the 4th Day)
+<part-5-the-time-of-rami-on-the-13th-the-4th-day>
+This is the #strong[third day of Tashrīq] (counting from the 11th).
+
 #figure(
   align(center)[#table(
-    columns: (10.71%, 69.05%, 20.24%),
+    columns: (18.18%, 60.61%, 21.21%),
     align: (auto,auto,auto,),
-    table.header([ʿIbādah], [After its time passes, is there another of
-      the same kind?], [Qaḍā' possible?],),
+    table.header([View], [Ruling on the 13th], [Basis],),
     table.hline(),
-    [#strong[Ṣalāh] (e.g.~Ẓuhr)], [#strong[Yes] --- there are other
-    ṣalāhs (ʿAṣr, Maghrib, etc.) and nafl ṣalāhs throughout the
-    year], [#strong[Yes] --- perform the missed ṣalāh as Qaḍā'],
-    [#strong[Qurbānī]], [#strong[No] --- after the days of Eid pass,
-    there is no other Qurbānī in the entire year], [#strong[No] --- pay
-    the value as charity instead],
-    [#strong[Ramī]], [#strong[No] --- after the four days of Ramī pass,
-    there is no other Ramī in the year], [#strong[No] --- dam is the
-    penalty; no Qaḍā' by Ramī],
+    [#strong[Imam Abū Ḥanīfah]
+    #emph[\(preferred)]], [#strong[Recommended after Zawāl], but
+    #strong[permitted before Zawāl] (after Fajr) --- #strong[specific to
+    this last day]], [See dalīl below],
+    [#strong[The Ṣāḥibayn (Abū Yūsuf & Muḥammad)]], [Must be
+    #strong[after Zawāl], like the 11th/12th], [The Prophet ﷺ stoned "on
+    the (remaining) days after Zawāl"],
   )]
   , kind: table
   )
 
-=== Qaḍā' within the four days of Ramī
-<qa-a-within-the-four-days-of-rami>
-However, #strong[within] the four days:
+#strong[Imam Abū Ḥanīfah's dalīl:]
 
-- If he missed the Ramī of the #strong[1st day], he may perform the
-  #strong[Qaḍā'] of it on the 2nd, 3rd, or 4th day (because Ramī still
-  exists as an ʿibādah on those days).
-- If he missed the 1st, 2nd, and 3rd day, he may perform #strong[all
-  their Qaḍā'] on the 4th day.
-- But once all four days have passed --- no Qaḍā' by Ramī; only dam.
++ #strong[Naqlī (primary):] the statement of #strong[Ibn ʿAbbās رضي الله
+  عنهما] that the time of the #strong[last day's] Ramī #strong[begins
+  when the day (Fajr) begins]. In a matter that #strong[cannot be
+  derived by qiyās], a #strong[Ṣaḥābī's statement has the ruling of a
+  marfūʿ ḥadīth] (attributed to the Prophet ﷺ). The general ḥadīth "the
+  Prophet ﷺ stoned on the remaining days after Zawāl" is understood to
+  #strong[exclude the 4th day] on the strength of Ibn ʿAbbās's report
+  (or that ḥadīth describes only what is #strong[recommended] on that
+  day).
++ #strong[ʿAqlī (supportive):] the 4th day's Ramī is a duty that
+  #strong[may be skipped entirely] (one may depart on the 12th). Since a
+  #strong[concession is given to skip it completely], a concession
+  should also be given to #strong[perform it early] (before Zawāl).
 
-#strong[Note (per Imam Abū Ḥanīfah):] Even though Qaḍā' is performed
-within the four days, the #strong[penalty for delay] still applies
-because each day's Ramī was restricted to that day.
-
-=== Takbīr al-Tashrīq example
-<takbir-al-tashriq-example>
-During the days of Tashrīq (9th--13th Dhū al-Ḥijjah), #strong[Takbīr
-al-Tashrīq] is wājib after each farḍ ṣalāh. If a person misses a ṣalāh
-during those days and performs its Qaḍā' #strong[after] the days of
-Tashrīq (e.g.~a month later):
-
-- He performs the #strong[ṣalāh] as Qaḍā' --- because ṣalāh exists as an
-  ʿibādah throughout the year.
-- He does #strong[NOT] recite Takbīr al-Tashrīq after the Qaḍā' ṣalāh
-  --- because there is no Takbīr al-Tashrīq outside those specific days.
-  The "option" of Takbīr is gone.
-
-=== Dalīl for Qaḍā'
-<dalil-for-qa-a>
-Two types of evidence support the concept:
-
-+ #strong[From the nuṣūṣ (texts):] In the case of ṣalāh, there are
-  explicit aḥādīth showing the Prophet ﷺ making up missed prayers ---
-  establishing the concept of Qaḍā'.
-+ #strong[From the uṣūl principle:] The existence of another ʿibādah of
-  the same category after the time has passed indicates that the
-  Sharīʿah recognises the continued validity of performing that type of
-  act --- so Qaḍā' is directed there.
+#quote(block: true)[
+#strong[Method note:] how to recognise the #strong[preferred opinion] in
+a book like #emph[al-Hidāyah] / #emph[Badāʾiʿ] --- the author places the
+#strong[dalīl of the preferred view last]. Here the dalīl of
+#strong[Imam Abū Ḥanīfah comes last], marking it as the preferred
+position.
+]
 
 #horizontalrule
 
-== Part 5 --- Tartīb (Sequence) of the Three Jamarāt
-<part-5-tartib-sequence-of-the-three-jamarat>
-=== The sunnah sequence
-<the-sunnah-sequence>
-On the 11th, 12th, and 13th Dhū al-Ḥijjah, the three Jamarāt must be
-stoned. The #strong[sunnah sequence] is:
-
-+ #strong[Jamarat al-Ūlā (الجمرة الأولى)] --- the first, closest to
-  Masjid al-Khayf in Minā
-+ #strong[Jamarat al-Wusṭā (الجمرة الوسطى)] --- the middle one
-+ #strong[Jamarat al-ʿAqabah (الجمرة العقبة)] --- the last one
-
-=== Tartīb is Sunnah, not Wājib
-<tartib-is-sunnah-not-wajib>
-#strong[Ruling:] The sequence (tartīb) of stoning the three Jamarāt is
-#strong[sunnah (مسنون)], not wājib. If someone stones them out of order,
-the Ramī is #strong[still valid] --- but he has missed the sunnah.
-
-=== The uṣūl behind this ruling
-<the-usul-behind-this-ruling>
-#strong[Principle:] In acts that are #strong[normally performed
-together] but #strong[can exist independently/separately], the tartīb is
-#strong[sunnah] (not wājib).
-
-#figure(
-  align(center)[#table(
-    columns: (13.95%, 51.16%, 34.88%),
-    align: (auto,auto,auto,),
-    table.header([Acts], [Can they be separated?], [Tartīb status],),
-    table.hline(),
-    [#strong[The three Jamarāt]], [#strong[Yes] --- on the 10th, only
-    one Jamarah is stoned (they can exist
-    separately)], [#strong[Sunnah]],
-    [#strong[Wuḍū actions] (washing hands, rinsing mouth,
-    etc.)], [#strong[Yes] --- on some occasions, individual parts are
-    done separately], [#strong[Sunnah]],
-    [#strong[Ṭawāf and Saʿī]], [#strong[No] --- Saʿī cannot exist
-    without Ṭawāf; they are interdependent], [#strong[Wājib]],
-    [#strong[Rukūʿ and Sujūd] in Ṣalāh], [#strong[No] --- they cannot be
-    performed independently], [#strong[Wājib]],
-  )]
-  , kind: table
-  )
-
-=== Achieving tartīb when stoned out of order
-<achieving-tartib-when-stoned-out-of-order>
-If someone stoned the Jamarāt in the wrong order (e.g.~ʿAqabah → Wusṭā →
-Ūlā):
-
-- He ended with #strong[Ūlā] --- which should be first.
-- #strong[Recommended:] Repeat the Ramī of #strong[Wusṭā] and
-  #strong[ʿAqabah] (so they come after Ūlā), thereby restoring the
-  sequence.
-- He does #strong[not] need to repeat Ūlā (since it was the last one he
-  did, and it should be first).
-- If he does not repeat, it is valid --- he only missed a sunnah.
+== Part 6 --- Distance and Hitting the Jamrah
+<part-6-distance-and-hitting-the-jamrah>
+- #strong[There is no fixed limit] on how far one stands from the
+  Jamrah.
+- #strong[What counts:] the pebble's #strong[trajectory must go toward
+  the Jamrah] and #strong[fall within its designated boundary/basin].
+  #strong[Hitting the pillar exactly is not compulsory] --- landing
+  #strong[within the fixed area] is sufficient.
+- If the throw goes #strong[elsewhere] (not toward the Jamrah, or
+  outside its area), it does #strong[not] count.
+- #strong[Recommended distance:] about #strong[five arm-lengths (hands)]
+  from the Jamrah --- from the Prophet's ﷺ practice --- but since not
+  everyone can manage this in the crowd, throwing #strong[from further]
+  is fine, #strong[as long as the pebble lands in the fixed area].
 
 #horizontalrule
 
-== Part 6 --- Practical Cases
-<part-6-practical-cases>
-=== Case 1: Threw 3 pebbles at each Jamarah (missed 4 per Jamarah)
-<case-1-threw-3-pebbles-at-each-jamarah-missed-4-per-jamarah>
-He threw #strong[3 pebbles] at each of the three Jamarāt on the second
-day. Since 4 out of 7 is the #strong[major part], he has missed the
-major part of each Jamarah.
+== Part 7 --- Preview: Points on Ramī for Later
+<part-7-preview-points-on-rami-for-later>
+The teacher listed points to come:
 
-#strong[If he remembers on the same day:] - He can repeat, and the
-#strong[penalty is dropped] (still within the time). - #strong[To
-achieve tartīb:] Start by throwing the remaining #strong[4 pebbles at
-Ūlā] → this completes Ūlā. - Then #strong[redo Wusṭā completely] (all 7
-pebbles, newly) --- so that the entire Wusṭā comes after the completion
-of Ūlā. - Then #strong[redo ʿAqabah completely] (all 7 pebbles, newly)
---- so the full ʿAqabah comes after Wusṭā. - Why redo? The original 3
-pebbles at Wusṭā and ʿAqabah were thrown #strong[before] Ūlā was
-completed --- so to maintain tartīb, they should be redone after Ūlā is
-complete.
+- #strong[Number of pebbles] --- #strong[seven] per stoning.
+- #strong[Size] and #strong[material] of the pebbles, and #strong[where]
+  they should be collected from.
+- #strong[How many pebbles] in total for each day (10th, 11th, 12th,
+  13th).
+- #strong[The method] of throwing, and the #strong[Sunan] and
+  #strong[Makrūhāt] of Ramī (discussed together in the Sunan chapter).
 
-=== Case 2: Threw 4 pebbles at each Jamarah (missed 3 per Jamarah)
-<case-2-threw-4-pebbles-at-each-jamarah-missed-3-per-jamarah>
-He threw #strong[4 pebbles] at each Jamarah. Since 4 out of 7 is the
-#strong[major part], the Ramī is essentially #strong[done] for each
-Jamarah. The tartīb was maintained (since the major part of each was
-done in order).
+#horizontalrule
 
-- Simply throw the #strong[remaining 3 pebbles] at each Jamarah in
-  sequence (Ūlā, Wusṭā, ʿAqabah).
-- #strong[No need to redo] any Jamarah --- but redoing all three newly
-  is a lesser recommendation for perfecting the tartīb across all seven
-  pebbles.
+== Q&A from Class
+<qa-from-class>
+#strong[Q:] Imam Abū Ḥanīfah's #emph[ʿaqlī] argument --- "since the 4th
+day's Ramī may be skipped entirely (rukhṣah), it may also be done early"
+--- could this same reasoning be applied to #strong[combining the
+prayers]? For example, a traveller may pray the full or #strong[qaṣr]\;
+so if he prays at the earlier time, why can he not also combine
+#strong[ʿAṣr] into #strong[Ẓuhr's] time?
 
-=== Case 3: Forgot which Jamarah had the missed pebble
-<case-3-forgot-which-jamarah-had-the-missed-pebble>
-He missed #strong[one pebble] but #strong[forgot] at which Jamarah (Ūlā,
-Wusṭā, or ʿAqabah) he missed it.
-
-#strong[Ruling:] Throw #strong[one pebble at each] of the three Jamarāt.
-This way, he is #strong[certain] to have covered the missed one ---
-whichever it was.
-
-#strong[Analogy:] This is like a person who missed one of the five daily
-ṣalāhs but forgot which one. He performs #strong[Qaḍā' of all five] (one
-Fajr, one Ẓuhr, one ʿAṣr, one Maghrib, one ʿIshā') --- thereby certainly
-covering the one he missed.
+#strong[A:] No --- because that #strong[ʿaqlī (qiyās) argument here is
+only a #emph[supportive] argument]\; the #strong[primary] proof is the
+#strong[naqlī] one (Ibn ʿAbbās's report). A #strong[supportive] argument
+#strong[cannot be applied] where it #strong[conflicts with a naqlī
+proof] --- and the #strong[times of ṣalāh are fixed by naṣṣ], so a
+prayer cannot be brought forward before its time. Only in a mas'alah
+where there is #strong[no naqlī evidence at all] does #strong[qiyās
+become the main argument]. So questions built on the #emph[ʿaqlī]
+argument should be understood in light of its being #strong[merely
+supportive], not universally extendable.
 
 #horizontalrule
 
 == Closing
 <closing>
-- #strong[Covered:] Complete and partial missing of Ramī (penalty
-  framework applied day-by-day vs collectively); Imam Abū Ḥanīfah vs
-  Ṣāḥibayn on day-specific restriction; Tadākhul principle (combining
-  violations --- same category, one iḥrām, not about valuable assets;
-  exception for hunting); Qaḍā' concept (when another ʿibādah of the
-  same kind exists vs when it does not); Takbīr al-Tashrīq in Qaḍā'
-  ṣalāh; tartīb of the three Jamarāt (sunnah, not wājib --- uṣūl of
-  separability); practical cases for achieving tartīb and completing
-  missed pebbles.
-- #strong[Next class:] Ḥalq and Qaṣr (shaving/trimming the hair) --- the
-  fifth wājib of Hajj; same time inshā'Allāh.
+- #strong[Covered:] the #strong[meaning] of Ramī al-Jimār (throwing
+  small pebbles --- throwing essential, placing invalid, a light "push"
+  sufficient but a proper throw is masnūn); #strong[niyābah] for the
+  incapable (as with carrying in Ṭawāf and Muzdalifah); the
+  #strong[times] --- the #strong[10th] (Fajr start; four periods:
+  Fajr--sunrise makrūh, sunrise--Zawāl mustaḥabb, Zawāl--sunset jāʾiz,
+  night makrūh/ or no karāhah with ʿudhr; ends at sunset; delay without
+  ʿudhr → dam), the Ḥanafī vs.~Shāfiʿī vs.~Sufyān al-Thawrī views and
+  the #strong[tatbīq] of the two ḥadīths; the #strong[11th--12th] (after
+  Zawāl, all three Jamarāt); the #strong[Nafr al-Awwal] and
+  #strong[al-Baqarah 2:203] (the two questions on "lā ithm" and
+  "limani-ttaqā"); losing the choice once Fajr of the 13th enters; the
+  #strong[13th's] timing (Abū Ḥanīfah permits before Zawāl --- Ibn
+  ʿAbbās + the rukhṣah argument --- vs.~the Ṣāḥibayn); and the
+  #strong[distance/hitting] rules.
+- #strong[Next class:] what to do if the #strong[time for Ramī is
+  missed] (delay without ʿudhr → penalty, as with any missed wājib) and
+  related details; same time inshā'Allāh.

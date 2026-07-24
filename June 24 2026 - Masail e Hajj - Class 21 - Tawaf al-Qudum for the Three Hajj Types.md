@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 19 Summary
+# Masail e Hajj — Class 21 Summary
 
 **Date:** June 24, 2026
 **Topic:** Ṭawāf al-Qudūm Across the Three Types of Hajj (Tamattuʿ, Ifrād, Qirān); Nāfil Ṭawāf vs. Nāfil Ṣalāh for Outsiders vs. Makkans; and the Two Rakʿahs After Each Usbūʿ (Set of Seven Rounds)

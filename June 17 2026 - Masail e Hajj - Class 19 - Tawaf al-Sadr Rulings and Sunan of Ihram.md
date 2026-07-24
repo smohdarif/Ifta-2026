@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 17 Summary
+# Masail e Hajj — Class 19 Summary
 
 **Date:** June 17, 2026
 **Topic:** Ṭawāf al-Ṣadr — Timing, Place, Performing it in Advance, and the Ruling on Leaving Without it; then the **Sunan of Hajj** Begin — Sunan of Iḥrām (Ghusl, the Two Cloths, Perfume Before Iḥrām)

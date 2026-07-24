@@ -3,337 +3,161 @@
 = Masail e Hajj --- Class 21 Summary
 <masail-e-hajj-class-21-summary>
 #class-meta(
-  date: [July 1, 2026],
-  topic: [Departure from ʿArafāt, the Night at Muzdalifah, Combining Maghrib & ʿIshā' (Jamʿ Taʾkhīr) --- Adhān/Iqāmah Rulings, Praying Before Reaching Muzdalifah, the Early Fajr (Taghlīs), and Departure to Minā],
+  date: [June 24, 2026],
+  topic: [Ṭawāf al-Qudūm Across the Three Types of Hajj (Tamattuʿ, Ifrād, Qirān); Nāfil Ṭawāf vs.~Nāfil Ṣalāh for Outsiders vs.~Makkans; and the Two Rakʿahs After Each Usbūʿ (Set of Seven Rounds)],
   teacher: [Mufti Umar Aejaz],
 )
 
 
 == Introduction
 <introduction>
-Continuing the method of Hajj from ʿArafāt, this lesson covers the
-#strong[calm departure] after sunset, reaching #strong[Muzdalifah
-(مزدلفة)], and combining #strong[Maghrib and ʿIshā'] there as
-#strong[Jamʿ Taʾkhīr (جمع تأخير)] --- both prayed in ʿIshā' time with
-#strong[one adhān and one iqāmah] (the view of the three imams). It then
-examines the differing views (Zufar, Shāfiʿī), the rule that these two
-prayers #strong[must be performed at Muzdalifah] (Usāmah's ḥadīth
-"#emph[al-ṣalātu amāmak]"), the #strong[excuse (ʿudhr)] cases, spending
-the #strong[night] (Sunnah), the #strong[early Fajr (Taghlīs)] of the
-10th, the #strong[Wuqūf] at al-Mashʿar al-Ḥarām, and the departure to
-Minā --- opposing the practice of Jāhiliyyah.
+This lesson clarifies #strong[Ṭawāf al-Qudūm (طواف القدوم)] \[the
+arrival ṭawāf\] for each of the three types of Hajj --- #strong[Tamattuʿ
+(تمتّع)], #strong[Ifrād (إفراد)], and #strong[Qirān (قِران)] ---
+establishing that the #strong[Mutamattiʿ] does #strong[not] make a
+separate arrival ṭawāf/saʿī for Hajj, while the #strong[Mufrid] and
+#strong[Qārin] do. It then discusses the #strong[relative merit
+(afḍaliyyah)] of nāfil ṭawāf vs.~nāfil ṣalāh (differing for outsiders
+vs.~Makkans), and the ruling that #strong[two rakʿahs] should follow
+#strong[each set of seven rounds (usbūʿ)] --- with a differing view of
+#strong[Imam Abū Yūsuf] to be taken up next class.
 
 #horizontalrule
 
-== Part 1 --- Departure from ʿArafāt (with Sakīnah)
-<part-1-departure-from-arafat-with-sakinah>
-After sunset, pilgrims depart from ʿArafāt #strong[calm and composed]
---- with #strong[Sakīnah (سكينة)] and #strong[Iṭmiʾnān (اطمئنان)]
-\[tranquillity\] --- #strong[without running or rushing], until they
-reach Muzdalifah. The Prophet ﷺ did likewise, #strong[restraining his
-mount] from going fast, and taught that #strong[birr (righteousness)] is
-not in making one's horse or camel gallop, but in moving with calm and
-dignity.
+== Part 1 --- Ṭawāf al-Qudūm for the Mutamattiʿ
+<part-1-awaf-al-qudum-for-the-mutamatti>
+=== The preferred opinion
+<the-preferred-opinion>
+For the #strong[Mutamattiʿ], there is #strong[no recommendation] to make
+a separate ṭawāf and saʿī (i.e.~Ṭawāf al-Qudūm) for the sake of Hajj
+before departing for Minā:
 
-#quote(block: true)[
-#emph["O people, be calm; righteousness is not in haste (making the
-mounts race)."]
+- He performs #strong[one ṭawāf and saʿī --- for his ʿUmrah]. When done,
+  he is #strong[done].
+- He then proceeds to perform the #strong[Hajj]: later he does the
+  #strong[ṭawāf (al-Ziyārah)] and makes his #strong[Hajj saʿī after it].
+- So it is #strong[not] recommended for him to make any ṭawāf besides
+  the ʿUmrah ṭawāf, or any saʿī besides the ʿUmrah saʿī, #strong[before
+  the acts of Hajj].
 
-#strong[\(meaning of the ḥadīth as cited in class --- confirm
-wording/number in hadith index; cf.~the ḥadīth of calm departure, Ṣaḥīḥ
-al-Bukhārī)]
-]
+=== The non-preferred opinion (analogy to Ifrād & Qirān)
+<the-non-preferred-opinion-analogy-to-ifrad-qiran>
+One view (#strong[not preferred]) compares Tamattuʿ to #strong[Ifrād and
+Qirān] --- where Ṭawāf al-Qudūm #strong[is] recommended (and a saʿī may
+optionally follow it). This view says Ṭawāf al-Qudūm should likewise be
+#strong[recommended for the Mutamattiʿ] --- a ṭawāf #strong[for the sake
+of Hajj] (his earlier ṭawāf having been for ʿUmrah).
+
+=== The counter (why the preferred view holds)
+<the-counter-why-the-preferred-view-holds>
+In #strong[Ifrād and Qirān], Ṭawāf al-Qudūm is sunnah/recommended
+#strong[because the person arrives in Makkah with the intention of
+Hajj]: - #strong[Ifrād:] intention of #strong[Hajj only]. -
+#strong[Qirān:] a #strong[combination] --- intention of both
+#strong[ʿUmrah and Hajj].
+
+But the #strong[Mutamattiʿ does not arrive in Makkah with the intention
+of Hajj] --- at arrival his intention was #strong[ʿUmrah only].
+Therefore there is #strong[no Ṭawāf al-Qudūm for the sake of Hajj] for
+him.
+
+=== A further (non-preferred) view --- assuming Iḥrām on the 8th
+<a-further-non-preferred-view-assuming-ihram-on-the-8th>
+Another opinion (attributed to al-Ḥasan): if the Mutamattiʿ
+#strong[assumes iḥrām for Hajj on the Day of Tarwiyah (8th Dhū
+al-Ḥijjah) before Zawāl], he #strong[may] make a Ṭawāf al-Qudūm with
+saʿī for Hajj as well. But if he assumes iḥrām #strong[after Zawāl] on
+the 8th, he must #strong[depart for Minā] and will #strong[not] occupy
+himself with any (further) ṭawāf or saʿī. #strong[This too is not the
+preferred opinion.] The preferred opinion remains: the Mutamattiʿ
+completes his ʿUmrah, then goes to Minā, then performs the remaining
+acts of Hajj.
 
 #horizontalrule
 
-== Part 2 --- Reaching Muzdalifah
-<part-2-reaching-muzdalifah>
-- The purpose is to reach Muzdalifah and pray #strong[Maghrib and ʿIshā'
-  together] there --- again moving with #strong[sukūn and iṭmiʾnān], not
-  running.
-- #strong[Following the imam:] it is preferred to move #strong[after the
-  imam]. But if the imam #strong[delays] until the night has clearly
-  fallen and it is dark, the people #strong[do not wait any longer] ---
-  there is no reason to wait --- and proceed to Muzdalifah.
-- #strong[Where to stay:] anywhere in Muzdalifah --- to the
-  #strong[right or left] of the road --- but #strong[not on the road
-  itself].
-- #strong[Where NOT to stay: Wādī Muḥassir (وادي مُحَسِّر)] --- the Prophet
-  ﷺ avoided it. (So: not on the road, and not in Wādī Muḥassir.)
+== Part 2 --- Mufrid and Qārin (and Their Extra Nāfil Ṭawāf)
+<part-2-mufrid-and-qarin-and-their-extra-nafil-awaf>
+The #strong[Mufrid] and #strong[Qārin] complete their #strong[Ṭawāf
+al-Qudūm and (Hajj) Saʿī] performed for the sake of Hajj, and
+#strong[remain in iḥrām]. Before departing for Minā (on the Day of
+Tarwiyah), they #strong[may perform additional (nāfil) ṭawāf] --- and,
+if they are #strong[outsiders (Āfāqī)], #strong[as much as possible].
 
-#horizontalrule
-
-== Part 3 --- Combining Maghrib & ʿIshā' (Jamʿ Taʾkhīr): Adhān & Iqāmah
-<part-3-combining-maghrib-isha-jam-ta-khir-adhan-iqamah>
-At Muzdalifah, the imam leads #strong[Maghrib late] (in ʿIshā' time),
-then leads #strong[ʿIshā' with no new adhān and no new iqāmah].
-
-=== The difference from ʿArafāt
-<the-difference-from-arafat>
+=== Nāfil Ṭawāf vs.~Nāfil Ṣalāh --- the merit varies
+<nafil-awaf-vs-nafil-salah-the-merit-varies>
 #figure(
   align(center)[#table(
-    columns: (20%, 37.14%, 20%, 22.86%),
-    align: (auto,auto,auto,auto,),
-    table.header([Place], [Combination], [Adhān], [Iqāmah],),
-    table.hline(),
-    [#strong[ʿArafāt] (Jamʿ Taqdīm)], [Ẓuhr + ʿAṣr in Ẓuhr
-    time], [#strong[One]], [#strong[Two]],
-    [#strong[Muzdalifah] (Jamʿ Taʾkhīr)], [Maghrib + ʿIshā' in ʿIshā'
-    time], [#strong[One]], [#strong[One]],
-  )]
-  , kind: table
-  )
-
-=== The scholars' views on Muzdalifah
-<the-scholars-views-on-muzdalifah>
-#figure(
-  align(center)[#table(
-    columns: (42.86%, 57.14%),
-    align: (auto,auto,),
-    table.header([Imam], [Ruling],),
-    table.hline(),
-    [#strong[Abū Ḥanīfah, Abū Yūsuf, Muḥammad]
-    #emph[\(preferred)]], [#strong[One adhān + one iqāmah] for both],
-    [#strong[Imam Zufar]], [#strong[One adhān + two iqāmahs] (comparing
-    it to Jamʿ Taqdīm at ʿArafāt)],
-    [#strong[Imam al-Shāfiʿī]], [Held a different configuration (a
-    second adhān) --- against the three imams],
-  )]
-  , kind: table
-  )
-
-=== Evidence and reconciliation
-<evidence-and-reconciliation>
-- #strong[For one adhān + one iqāmah:] the narrations (from Jābir / Ibn
-  ʿUmar and others) that the Prophet ﷺ prayed both #strong[with a single
-  adhān and single iqāmah].
-- #strong[Imam Zufar's ḥadīth] mentions the Prophet praying
-  "#strong[with two]." There is thus an apparent #strong[conflict]
-  between the two ḥadīths, requiring #strong[taʾwīl (reconciliation)].
-- #strong[Resolution:] the "#strong[two]" in Zufar's ḥadīth is
-  understood as the #strong[adhān and the iqāmah]
-  (i.e.~"#emph[iqāmatayn]" used loosely for the two calls) --- since
-  #strong[no separate adhān is mentioned]. This is #strong[Taghlīb
-  (تغليب)] --- using one word for two things --- a normal feature of
-  Arabic:
-  - #strong[al-ʿUmarān (العُمَران)] = Abū Bakr #strong[and] ʿUmar (the
-    word "ʿUmar" covering both).
-  - #strong[al-Qamarān (القمران)] = the #strong[sun and the moon] (the
-    word "qamar/moon" covering both).
-  - The ḥadīth #strong[«بَيْنَ كُلِّ أَذَانَيْنِ صَلَاةٌ … لِمَنْ شَاءَ»] ---
-    #emph["Between every two adhāns there is a prayer for whoever
-    wishes"] (except Maghrib) --- where "#strong[two adhāns]" means the
-    #strong[adhān and the iqāmah], not two literal adhāns. #strong[Ref:]
-    Ṣaḥīḥ al-Bukhārī, 624; Ṣaḥīḥ Muslim, 838.
-
-=== Rebuttal of Zufar's analogy to ʿArafāt (Jamʿ Taqdīm)
-<rebuttal-of-zufars-analogy-to-arafat-jam-taqdim>
-- At #strong[ʿArafāt], the #strong[second prayer (ʿAṣr)] is performed
-  #strong[before its own time] --- so a #strong[fresh iqāmah] is needed
-  to announce that a prayer is being offered ahead of its time.
-- At #strong[Muzdalifah], the #strong[second prayer (ʿIshā')] is
-  performed #strong[within its own time] --- so #strong[no announcement]
-  is needed; #strong[the time itself is the announcement]. Hence
-  #strong[no second iqāmah]. The two cases are therefore not analogous.
-
-=== No gap between the two prayers
-<no-gap-between-the-two-prayers>
-Nothing --- #strong[no nawāfil] or other activity --- is done
-#strong[between] Maghrib and ʿIshā'; they are prayed #strong[one after
-another], as the Prophet ﷺ did. If a person #strong[breaks the
-continuity] (prays nafl or busies himself), he must make a #strong[new
-iqāmah] for ʿIshā', because it has now become detached from the first
-announcement.
-
-#horizontalrule
-
-== Part 4 --- Who May Combine? (Muzdalifah vs.~ʿArafāt) --- clarifying the previous class
-<part-4-who-may-combine-muzdalifah-vs-arafat-clarifying-the-previous-class>
-A question from the previous class was clarified:
-
-- #strong[At ʿArafāt (Jamʿ Taqdīm):] combining is an #strong[exception]
-  permitted #strong[only in the congregation of the Amīr al-Ḥajj] (or
-  his appointee), because the #strong[ʿAṣr is prayed before its time]
-  --- established strictly by the Prophet's ﷺ practice as leader. A
-  person praying #strong[alone or in his own small jamāʿah] (e.g.~in a
-  tent) may #strong[not] combine at ʿArafāt; he prays #strong[Ẓuhr at
-  its time] and #strong[waits for ʿAṣr's time].
-- #strong[At Muzdalifah (Jamʿ Taʾkhīr):] both prayers are performed
-  #strong[after their times have entered] (Maghrib merely
-  #strong[delayed] into ʿIshā' time). So there is #strong[no restriction
-  to the Amīr's congregation] --- #strong[anyone] may combine,
-  #strong[alone or in a small jamāʿah].
-- #strong[Best] at Muzdalifah is to pray with the imam/Amīr al-Ḥajj's
-  congregation; but praying in one's own tent (alone or in a group) is
-  #strong[fine], since the times have already come.
-
-#horizontalrule
-
-== Part 5 --- Praying Maghrib/ʿIshā' Before Reaching Muzdalifah
-<part-5-praying-maghribisha-before-reaching-muzdalifah>
-#strong[Question:] If a person prays #strong[Maghrib after sunset] (or
-#strong[ʿIshā' after its time]) while #strong[still on the way], before
-entering Muzdalifah --- is it valid?
-
-#strong[This is a debatable case:]
-
-#figure(
-  align(center)[#table(
-    columns: (24%, 32%, 44%),
+    columns: (21.62%, 64.86%, 13.51%),
     align: (auto,auto,auto,),
-    table.header([View], [Ruling], [Reasoning],),
+    table.header([Person], [Which nāfil is better?], [Why],),
     table.hline(),
-    [#strong[Abū Ḥanīfah & Muḥammad] #emph[\(preferred)]], [#strong[Not
-    valid --- must repeat] at Muzdalifah (if he arrives before
-    #strong[Ṭulūʿ al-Fajr])], [These prayers #strong[must] be performed
-    at Muzdalifah; there is a #strong[restriction of time and place]],
-    [#strong[Imam Abū Yūsuf]], [#strong[Valid], but he is a
-    #strong[wrongdoer (isāʾah)] for missing the Sunnah], [The prayer was
-    offered #strong[within its time]\; missing a Sunnah does not
-    invalidate the ṣalāh],
+    [#strong[Outsider (Āfāqī)]], [#strong[Nāfil Ṭawāf] is better than
+    nāfil ṣalāh], [He #strong[will not get this chance again] --- ṭawāf
+    is available only here],
+    [#strong[Makkan (resident)]], [#strong[Nāfil Ṣalāh] is better than
+    nāfil ṭawāf], [Ṣalāh is among the greatest acts in Islam; the
+    resident #strong[has ongoing access] to ṭawāf],
   )]
   , kind: table
   )
 
-#strong[Dalīl (preferred view) --- Usāmah ibn Zayd رضي الله عنه:] on the
-way to Muzdalifah the Prophet ﷺ made a short stop, relieved himself and
-made wuḍū'; Usāmah reminded him that the (Maghrib) time had come. The
-Prophet ﷺ replied:
+#strong[Principle:] the #strong[afḍaliyyah (superiority)] of an act
+#strong[varies] from time to time and from person to person.
 
 #quote(block: true)[
-#strong[«الصَّلَاةُ أَمَامَكَ»]
-
-#emph["The prayer is ahead of you."]
-
-#strong[Ref:] Ṣaḥīḥ al-Bukhārī, 1669; Ṣaḥīḥ Muslim, 1280.
+#strong[Illustrative analogy --- Ribāṭ:] a man guarding the frontier
+(ribāṭ) in the way of Allah, protecting the Muslims, while also wishing
+to engage in dhikr/ʿibādah. Which is better --- #strong[holding his
+post] or #strong[occupying himself with ʿibādah]? It #strong[varies with
+the situation]: if #strong[someone else] can take his post, it is better
+for him to engage in ʿibādah; but if #strong[no one else] is there, it
+is better for him to #strong[guard and protect] the Muslim army.
 ]
 
-He did not pray until he reached Muzdalifah --- proving Maghrib/ʿIshā'
-#strong[cannot be prayed ahead of Muzdalifah]: - #strong[Time
-restriction:] Maghrib is #strong[not] prayed early (it is delayed to
-ʿIshā' time). - #strong[Place restriction:] Maghrib/ʿIshā' are
-#strong[not] prayed #strong[before] reaching Muzdalifah.
+=== Manner of the extra nāfil ṭawāf
+<manner-of-the-extra-nafil-awaf>
+For these #strong[additional] ṭawāfs (beyond the Ṭawāf al-Qudūm), he:
 
-This is #strong[obligatory to follow] (shown by the Prophet's ﷺ
-wording); one who violates it is #strong[ordered to repeat] as long as
-ʿIshā' time remains before Fajr.
-
-=== If he did not repeat until Fajr entered
-<if-he-did-not-repeat-until-fajr-entered>
-Then the two prayers #strong[become valid]. This reconciles two sets of
-evidence: - #strong[General texts] (Qur'ān/aḥādīth) fix the
-#strong[times] of Maghrib and ʿIshā' #strong[without a place
-restriction] → they demand #strong[validity]. - #strong[Usāmah's ḥadīth]
-("#emph[al-ṣalātu amāmak]") → demands #strong[invalidity] (restricted to
-Muzdalifah).
-
-#strong[Tawfīq (reconciliation):] #emph[before] Fajr, we act on Usāmah's
-ḥadīth (time + place restriction → repeat if violated); #emph[after]
-Fajr enters, we act on the general texts (which fix the times without
-place) → so it #strong[becomes valid].
+- does #strong[not] perform #strong[Ramal] --- he walks
+  #strong[normally]\;
+- does #strong[not] perform a #strong[saʿī] after them --- the
+  #strong[only] saʿī is the #strong[first one], done for Hajj alongside
+  the Ṭawāf al-Qudūm.
 
 #horizontalrule
 
-== Part 6 --- The Excuse (ʿUdhr) Cases
-<part-6-the-excuse-udhr-cases>
-- #strong[Departure delayed to the very last part of the night:] if
-  waiting to reach Muzdalifah would cause him to #strong[miss ʿIshā'
-  time entirely] (Fajr would enter), then out of #strong[ʿudhr] he
-  #strong[may] pray Maghrib and ʿIshā' #strong[outside Muzdalifah].
-- #strong[Lost / cannot find the way:] he still may #strong[not] pray
-  outside Muzdalifah --- he keeps #strong[searching and waiting] until
-  only the #strong[last \~10--15 minutes] of ʿIshā' time remain;
-  #strong[only then] does he pray (wherever he is), so as not to miss
-  the time.
+== Part 3 --- Two Rakʿahs After Each Usbūʿ (Set of Seven Rounds)
+<part-3-two-rakahs-after-each-usbu-set-of-seven-rounds>
+For each #strong[usbūʿ (أسبوع)] \[a set of seven rounds of ṭawāf\], he
+performs the #strong[two rakʿahs] of ṭawāf.
 
-#horizontalrule
+- It is #strong[disliked (makrūh)] to #strong[combine two usbūʿ (two
+  complete ṭawāfs) without the two rakʿahs in between] them.
+- So however many ṭawāfs he performs during his stay --- whether the
+  count is #strong[odd or even] --- he prays #strong[two rakʿahs after
+  each set of seven], and does not string two sets together without
+  them.
 
-== Part 7 --- The Night at Muzdalifah (Sunnah)
-<part-7-the-night-at-muzdalifah-sunnah>
-- #strong[Spending the night] at Muzdalifah --- the night between the
-  #strong[9th and 10th of Dhū al-Ḥijjah] --- is #strong[masnūn].
-- If missed (with or without reason), he is a #strong[wrongdoer] for
-  missing the Sunnah, but #strong[no penalty (dam)] is due --- he missed
-  no #strong[wājib].
-- The #strong[wājib] is the #strong[Wuqūf at Muzdalifah after Ṭulūʿ
-  al-Fajr] (as studied earlier), not the overnight stay itself.
-
-#horizontalrule
-
-== Part 8 --- The Early Fajr (Taghlīs) of the 10th
-<part-8-the-early-fajr-taghlis-of-the-10th>
-When Fajr enters, the imam prays #strong[Fajr early --- in the
-darkness]. This is #strong[Taghlīs (تغليس)] \[praying in the dark\].
-
-- #strong[Normally], the #strong[mustaḥabb] Fajr time in the Ḥanafī
-  school is #strong[Isfār (إسفار)] --- praying when it has become
-  #strong[light] (the later part of the time).
-- #strong[On this day only], the Prophet ﷺ prayed it #strong[early/in
-  the dark] (reported by #strong[ʿAbdullāh ibn Masʿūd رضي الله عنه]).
-- #strong[Why early?] To #strong[extend the time for Wuqūf at
-  Muzdalifah]. The Sunnah of Isfār can be attained on #strong[any] day
-  of the year, but this Muzdalifah Wuqūf comes #strong[only on this day]
-  --- so Fajr is prayed early to gain #strong[more time] for it (and
-  because departure to Minā must be #strong[before sunrise]).
-
-#horizontalrule
-
-== Part 9 --- Wuqūf at al-Mashʿar al-Ḥarām, then Departure to Minā
-<part-9-wuquf-at-al-mashar-al-haram-then-departure-to-mina>
-- After Fajr, the imam and people make #strong[Wuqūf] --- best
-  #strong[near the mountain Quzaḥ (قُزَح)], i.e.~#strong[al-Mashʿar
-  al-Ḥarām (المشعر الحرام)].
-
-#quote(block: true)[
-فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ
-
-#emph["…remember Allah at al-Mashʿar al-Ḥarām."]
-
-#strong[Ref:] al-Baqarah: 198. (Ibn ʿAbbās رضي الله عنهما interpreted
-#emph[al-Mashʿar al-Ḥarām] as that mountain; some say it refers to the
-whole of Muzdalifah.)
-]
-
-- They continue #strong[dhikr and duʿā'] until it is #strong[very
-  bright], then depart for #strong[Minā before sunrise].
-
-=== Opposing the Jāhiliyyah
-<opposing-the-jahiliyyah>
-#figure(
-  align(center)[#table(
-    columns: (12.28%, 36.84%, 50.88%),
-    align: (auto,auto,auto,),
-    table.header([Place], [Jāhiliyyah practice], [The Prophet's ﷺ
-      opposition],),
-    table.hline(),
-    [#strong[ʿArafāt]], [Left #strong[before] sunset], [Depart
-    #strong[after] sunset],
-    [#strong[Muzdalifah]], [Left #strong[at/after] sunrise], [Depart
-    #strong[before] sunrise],
-  )]
-  , kind: table
-  )
-
-One who departs from Muzdalifah #strong[after Ṭulūʿ al-Shams (sunrise)]
-is a #strong[wrongdoer].
+#strong[A debatable point:] #strong[Imam Abū Yūsuf] holds a
+#strong[different opinion] here, arguing from a #strong[ḥadīth]. This is
+a somewhat contested case that will be discussed in a #strong[separate
+class] (the teacher had to leave early due to an emergency).
 
 #horizontalrule
 
 == Closing
 <closing>
-- #strong[Covered:] calm departure from ʿArafāt (Sakīnah); reaching
-  Muzdalifah (avoid the road itself and Wādī Muḥassir); combining
-  Maghrib & ʿIshā' as #strong[Jamʿ Taʾkhīr] with #strong[one adhān + one
-  iqāmah] (three imams --- vs.~Zufar's two-iqāmah and Shāfiʿī's view),
-  the #strong[Taghlīb] reconciliation and the rebuttal of the ʿArafāt
-  analogy; #strong[no gap] between the two prayers; #strong[who may
-  combine] (Muzdalifah open to all; ʿArafāt restricted to the Amīr's
-  jamāʿah); #strong[praying before reaching Muzdalifah] (invalid &
-  repeat per Abū Ḥanīfah/Muḥammad --- Usāmah's ḥadīth --- vs.~Abū
-  Yūsuf's "valid but isāʾah"\; becomes valid once Fajr enters); the
-  #strong[ʿudhr] cases; the #strong[night] at Muzdalifah (Sunnah, no dam
-  if missed); #strong[early Fajr (Taghlīs)] to extend the Wuqūf;
-  #strong[Wuqūf at al-Mashʿar al-Ḥarām]\; and departing to Minā before
-  sunrise (opposing Jāhiliyyah).
-- #strong[Next class:] the details of Minā on the 10th (Ramī, etc.) and
-  remaining rulings; same time inshā'Allāh.
+- #strong[Covered:] the #strong[Mutamattiʿ] makes no separate Ṭawāf
+  al-Qudūm for Hajj (his ṭawāf/saʿī were for ʿUmrah; the Hajj saʿī
+  follows Ṭawāf al-Ziyārah) --- with the non-preferred analogy to
+  Ifrād/Qirān and its rebuttal (intention at arrival), and al-Ḥasan's
+  non-preferred 8th-of-Dhū-al-Ḥijjah view; the #strong[Mufrid and Qārin]
+  perform Ṭawāf al-Qudūm + Hajj saʿī and may add nāfil ṭawāf;
+  #strong[nāfil ṭawāf is better for the outsider], #strong[nāfil ṣalāh
+  for the Makkan] (afḍaliyyah varies --- the ribāṭ analogy); extra nāfil
+  ṭawāfs are #strong[without Ramal and without a following saʿī]\; and
+  #strong[two rakʿahs after each usbūʿ] (makrūh to combine two sets
+  without them).
+- #strong[Next class:] the differing view of #strong[Imam Abū Yūsuf] on
+  the two-rakʿah ruling, and then #strong[how to perform Saʿī]\; timing
+  to be confirmed inshā'Allāh.

@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 18 Summary
+# Masail e Hajj — Class 20 Summary
 
 **Date:** June 22, 2026
 **Topic:** Sunan of Ṭawāf — Istilām of Ḥajar al-Aswad, Idtibāʿ, Ramal, the Ruling on the Corners (Rukn al-Yamānī vs. Rukn al-ʿIrāqī & al-Shāmī), the Two Rakʿahs of Ṭawāf, and Returning to Ḥajar al-Aswad Before Saʿī

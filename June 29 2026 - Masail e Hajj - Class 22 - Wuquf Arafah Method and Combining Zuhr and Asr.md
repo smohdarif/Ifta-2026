@@ -1,4 +1,4 @@
-# Masail e Hajj — Class 20 Summary
+# Masail e Hajj — Class 22 Summary
 
 **Date:** June 29, 2026
 **Topic:** The Method of the 8th & 9th of Dhū al-Ḥijjah — Minā, Departure to ʿArafāt, the Wuqūf, the ʿArafah Khuṭbah, and the Jurisprudence of Combining Ẓuhr & ʿAṣr (Jamʿ Taqdīm) in the Ḥanafī School

@@ -3,429 +3,380 @@
 = Masail e Hajj --- Class 17 Summary
 <masail-e-hajj-class-17-summary>
 #class-meta(
-  date: [June 17, 2026],
-  topic: [Ṭawāf al-Ṣadr --- Timing, Place, Performing it in Advance, and the Ruling on Leaving Without it; then the],
+  date: [June 15, 2026],
+  topic: [Ḥalq / Qaṣr (Shaving or Trimming the Head) --- Its Obligation (vs.~Imam al-Shāfiʿī), the Qur'anic Evidences (Sūrat al-Ḥajj & Sūrat al-Fatḥ), the Superiority of Ḥalq, the Bald Person, the Muḥṣar, Women's Taqṣīr, and the Amount, Time & Place of Ḥalq],
   teacher: [Mufti Umar Aejaz],
 )
 
 
 == Introduction
 <introduction>
-This lesson completes #strong[Ṭawāf al-Ṣadr (طواف الصدر)] \[the farewell
-ṭawāf\] --- its #strong[timing] (no fixed ending point; performed before
-departure), its #strong[place] (fixed at the Baytullāh), the case of
-performing it #strong[in advance], and the ruling on someone who
-#strong[leaves Makkah without it]. With this, the #strong[wājibāt of
-Hajj] are complete, and the #strong[Sunan of Hajj (سنن الحج)] begin ---
-starting with the #strong[Sunan of Iḥrām]: the #strong[ghusl], the
-#strong[two cloths (Izār & Ridā')], and the detailed discussion of
-#strong[applying perfume before iḥrām].
+This lesson opens the chapter of #strong[Ḥalq / Qaṣr (حلق / قصر)]
+\[shaving or shortening the hair\], one of the acts of #strong[Yawm
+al-Naḥr (the 10th)]. It covers: whether Ḥalq is #strong[wājib] (Ḥanafī)
+or merely a means of exiting iḥrām (Imam al-Shāfiʿī); the two
+#strong[Qur'anic proofs]\; why #strong[Ḥalq is superior to Taqṣīr]\; how
+a #strong[bald person] fulfils it; the ruling for a #strong[muḥṣar]
+(blocked pilgrim); #strong[women's Taqṣīr]\; and the #strong[amount,
+time, and place] of Ḥalq.
 
 #horizontalrule
 
-== Part 1 --- Timing of Ṭawāf al-Ṣadr
-<part-1-timing-of-awaf-al-sadr>
-=== No fixed ending point --- tied to departure
-<no-fixed-ending-point-tied-to-departure>
-- The #strong[time to perform it] depends on #strong[when you leave
-  Makkah] --- it should be made #strong[before departure], regardless of
-  the date.
-- Whenever it is performed, it is #strong[valid] --- it is #strong[never
-  counted as "late"] and #strong[no penalty] attaches for the timing.
-- It is the #strong[last act] one should do (the last ʿibādah / ʿamal
-  with the Baytullāh before leaving).
-- #strong[Permissible time:] begins with #strong[Yawm al-Naḥr] and
-  continues --- there is #strong[no upper limit] on the ending point,
-  #strong[by all (Ijmāʿ)].
+== Part 1 --- Is Ḥalq Wājib? (Ḥanafī vs.~Shāfiʿī)
+<part-1-is-halq-wajib-hanafi-vs-shafii>
+- #strong[Imam al-Shāfiʿī's position:] once a pilgrim performs the
+  #strong[Ramī of Jamrat al-ʿAqabah] on the 10th, he #strong[exits the
+  restrictions of iḥrām except two] --- #strong[intimacy with women] and
+  #strong[perfume] --- and the rest are lifted #strong[by the Ramī
+  alone]. On this view, #strong[Ḥalq/Qaṣr is not wājib].
+- #strong[Ḥanafī position:] #strong[Ḥalq/Qaṣr is wājib] --- a required
+  act, not merely a formality that drops away with Ramī.
 
-=== Q&A --- Performing it in advance, then staying on
-<qa-performing-it-in-advance-then-staying-on>
+#horizontalrule
+
+== Part 2 --- The Ḥanafī Evidences (Ḥalq is Wājib)
+<part-2-the-hanafi-evidences-halq-is-wajib>
+=== Dalīl 1 --- Sūrat al-Ḥajj
+<dalil-1-surat-al-hajj>
 #quote(block: true)[
-#strong[Q:] A person performs Ṭawāf al-Ṣadr #strong[in advance] (early).
-He then stays in Makkah for one, two, or three years --- but
-#strong[without] intending #strong[permanent] residence (he is staying
-#strong[temporarily]). He departs after, say, one year. Is the early
-ṭawāf still valid?
+#strong[ثُمَّ لْيَقْضُوا تَفَثَهُمْ وَلْيُوفُوا نُذُورَهُمْ وَلْيَطَّوَّفُوا بِالْبَيْتِ الْعَتِيقِ]
+
+#emph["Then let them end their unkemptness (tafath), fulfil their vows,
+and circumambulate the Ancient House."]
+
+#strong[Ref:] al-Ḥajj, 22:29.
 ]
 
-#strong[Answer:] #strong[Yes, it is valid.] (Note: someone who intends
-to settle #strong[permanently] becomes a #strong[Makkī / Mutawaṭṭin],
-and Ṭawāf al-Ṣadr is #strong[not] upon him --- but this man is only
-temporary.)
+- #strong[Tafath (تفث)] literally means #strong[dirt / dust /
+  unkemptness]. Here it refers to #strong[removing the hair and nails]
+  --- i.e.~#strong[shaving the head], along with #strong[cutting the
+  nails] and #strong[trimming the mustache].
+- This is an #strong[order from the Qur'an] (#strong["lī-yaqḍū" --- let
+  them end/fulfil]) → establishing #strong[wujūb].
 
-- Making it the #strong[last act before departure] is only
-  #strong[recommended (mustaḥabb)], #strong[not obligatory]. It is
-  #strong[permissible to perform it earlier], though performing it at
-  the time of departure is #strong[better].
-- #strong[No penalty] is due if it is delayed; it is usually done
-  #strong[after Ṭawāf al-Ziyārah], and there is #strong[no restriction]
-  on its ending point --- according to all.
-
-=== Cannot be performed before Ṭawāf al-Ziyārah
-<cannot-be-performed-before-awaf-al-ziyarah>
-Although the #strong[time] of Ṭawāf al-Ṣadr begins with Yawm al-Naḥr, it
-#strong[cannot be performed before Ṭawāf al-Ziyārah] (the
-first/obligatory ṭawāf). It #strong[must] come after it.
-
+=== Dalīl 2 --- Sūrat al-Fatḥ
+<dalil-2-surat-al-fath>
 #quote(block: true)[
-#strong[Analogy (given by the Muṣannif):] #strong[ʿIshā' and Witr] ---
-both times begin at the #strong[same point]. Yet #strong[Witr cannot be
-performed before ʿIshā'], because the #strong[tartīb (ترتيب)]
-\[sequence\] must be maintained. If Witr is performed before ʿIshā', it
-is #strong[not valid] --- the obligatory tartīb is missed. Likewise,
-Ṭawāf al-Ṣadr cannot be performed before Ṭawāf al-Ziyārah.
+#strong[لَقَدْ صَدَقَ اللَّهُ رَسُولَهُ الرُّؤْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ إِن شَاءَ
+اللَّهُ آمِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ]
+
+#emph["Certainly Allah has fulfilled His Messenger's vision in truth:
+you will surely enter the Sacred Mosque, if Allah wills, in safety,
+#strong[with your heads shaved and (hair) shortened], without fear."]
+
+#strong[Ref:] al-Fatḥ, 48:27.
 ]
 
-#strong[Worked example:] He performs Ṭawāf al-Ziyārah (say, after Ramī,
-Dhabḥ if due, and Ḥalq on the Day). Once Ṭawāf al-Ziyārah is done, he
-may perform Ṭawāf al-Ṣadr #strong[any time] thereafter --- but it is
-#strong[recommended to keep it as the last act] before departure.
+Allah #strong[fulfilled the dream] of His Messenger ﷺ --- the dream of
+#strong[entering Masjid al-Ḥarām and performing Ṭawāf]. The phrase
+#strong["muḥalliqīna ruʾūsakum wa muqaṣṣirīn"] \[shaving your heads and
+shortening\] is a #strong[circumstantial clause (ḥāl)] describing the
+state of entry. The obligation is drawn from it in one of two ways:
+
+#strong[Interpretation A --- it carries the sense of a command (amr):] -
+Read as an #strong[implied command] ("enter… while shaving/shortening"),
+it is a strong dalīl for wujūb. Because there is #strong[a slight
+uncertainty] in the meaning, the Aḥnāf #strong[do not raise it to farḍ]
+--- they settle it at #strong[wājib]. - #strong[The "in shāʾa Allāh"
+question:] how can an obligation be tied to #strong[Allah's will], which
+is unknown? --- #strong[Answer:] the #strong["in shāʾa Allāh"] attaches
+to the #strong[safety (āminīn)], #emph[not] to the command of entering.
+So the meaning is: "you will surely enter… #strong[shaving/shortening]
+--- in #strong[safety], if Allah wills." It concerns the
+#strong[security], not the order to shave. (It also functions as a
+#strong[tabarruk / taʿabbud] phrase --- referring the matter to Allah's
+knowledge --- not literal conditionality.)
+
+#strong[Interpretation B --- it is information / a promise (khabar):] -
+Taken as #strong[khabar] (Allah #strong[informing] that they will enter
+shaving/shortening), it is still a proof, because #strong[Allah's
+information always comes true] --- it is effectively a #strong[promise].
+\- For the promise to be #strong[guaranteed], note that
+shaving/shortening is a #strong[human action] (under human control,
+sometimes done, sometimes not). The only way Allah's information about
+it is #strong[certain to occur] is if the action is #strong[obligatory]
+--- obligation #strong[compels] it to happen. Therefore the āyah
+#strong[demands wujūb]. (On this reading, "in shāʾa Allāh" is again
+#strong[not literal conditionality] but referral to Allah's knowledge
+--- since Allah is informing that it will certainly be.)
+
+#strong["wa" = "aw" (or):] in #strong["muḥalliqīna… wa muqaṣṣirīn,"] the
+#strong[wāw] carries the meaning of #strong[aw (or)] --- #strong[Ḥalq
+and Taqṣīr are both permissible]\; some pilgrims shave, some shorten.
+The two cannot both be done by the same person at once.
 
 #horizontalrule
 
-== Part 2 --- Place of Ṭawāf al-Ṣadr
-<part-2-place-of-awaf-al-sadr>
-- It is performed #strong[around the Kaʿbah in Masjid al-Ḥarām] ---
-  exactly like Ṭawāf al-Ziyārah. There is #strong[no difference] between
-  the obligatory ṭawāf and this wājib ṭawāf in terms of #strong[place].
-- The one who performs Hajj of this House --- the #strong[last] of his
-  acts with the Baytullāh should be the #strong[ṭawāf]. So the place is
-  #strong[fixed with the Baytullāh]: it is a #emph[ṭawāf bi'l-bayt]
-  (around the House itself), not merely #emph[ṭawāf ḥawlahu] (somewhere
-  nearby).
-
-#horizontalrule
-
-== Part 3 --- Leaving Makkah Without Performing the Ṭawāf
-<part-3-leaving-makkah-without-performing-the-awaf>
-=== Still within the Mīqāt
-<still-within-the-miqat>
-If a person leaves Makkah without performing the ṭawāf but is
-#strong[still within the Mīqāt] (has #strong[not crossed] it):
-
-- It is #strong[obligatory (wājib)] on him to #strong[return and perform
-  it], because it is #strong[wājib].
-- He can do so #strong[without a new iḥrām] --- he is #strong[still in
-  iḥrām] (he has not crossed the Mīqāt).
-
-=== Having crossed the Mīqāt (or gone home / to Madīnah)
-<having-crossed-the-miqat-or-gone-home-to-madinah>
-If he has #strong[crossed the Mīqāt], or returned #strong[home], or
-travelled to #strong[Madīnah] without performing it:
-
-- #strong[Returning is no longer obligatory.] Forcing him back would
-  require assuming a #strong[new iḥrām] (at least for #strong[ʿUmrah])
-  --- an extra burden. So the Sharīʿah does #strong[not] force him back.
-- Instead, the #strong[penalty option] is selected: a #strong[dam (دم)]
-  --- slaughtered within the Ḥaram.
-
-==== If he chooses to return anyway
-<if-he-chooses-to-return-anyway>
-Suppose he says, #emph["I can easily go back, so let me perform it
-instead of paying the penalty."] Since he has #strong[crossed the
-Mīqāt], returning means crossing it again, which #strong[requires iḥrām]
---- and that iḥrām is for #strong[ʿUmrah]:
-
-+ First, #strong[ʿUmrah becomes obligatory] on him (by crossing the
-  Mīqāt to return), so he performs its #strong[ṭawāf] (and
-  #strong[saʿī]).
-+ Then he performs the #strong[Ṭawāf al-Ṣadr].
-+ The #strong[penalty is then dropped] from him.
-
-==== The recommended choice
-<the-recommended-choice>
-If he is #strong[financially able] to pay the penalty, the
-#strong[recommended] option is to #strong[not return] and to #strong[pay
-the dam] --- because:
-
-- it #strong[benefits the poor of the Ḥaram], and
-- it is the #strong[easier] path (returning means re-entering the
-  restrictions and difficulties of iḥrām, plus assuming a fresh iḥrām).
-
-It ultimately depends on him --- returning is permissible, but it
-requires the ʿUmrah first, then the ṭawāf.
+== Part 3 --- Ḥalq is Superior to Taqṣīr (Afḍal)
+<part-3-halq-is-superior-to-taqsir-af-al>
+The Prophet ﷺ #strong[supplicated for the muḥalliqīn (those who shaved)
+three times], and for the #strong[muqaṣṣirīn (those who shortened)
+once]:
 
 #quote(block: true)[
-#strong[This completes the wājibāt of Hajj.] Hajj has #strong[two farḍ]
-(Wuqūf ʿArafah, Ṭawāf al-Ziyārah) and #strong[five wājib] ---
-#strong[Wuqūf Muzdalifah, Ramī, Ḥalq/Qaṣr, Ṭawāf al-Ṣadr, and Saʿī] ---
-#strong[seven] compulsory actions in total.
+#strong[«اللَّهُمَّ ارْحَمِ الْمُحَلِّقِينَ» (ثَلَاثًا) … «وَالْمُقَصِّرِينَ»]
+
+#emph["O Allah, have mercy on those who shaved"] (three times), then
+#emph["…and those who shortened."]
+
+#strong[\(hadith as cited in class --- confirm number in hadith index;
+narrated in Bukhārī & Muslim)]
 ]
 
-#horizontalrule
+#strong[Reasoning:] #strong[Ḥalq is the additional act] --- shaving
+#strong[includes] shortening #strong[plus] removing the hair to the
+root; when the head is shaved completely, the hair is necessarily
+"shortened" to the utmost degree.
 
-== Part 4 --- The Sunan of Hajj Begin (Method & Tartīb)
-<part-4-the-sunan-of-hajj-begin-method-tartib>
-The teacher now turns to the #strong[complete method of Hajj] from
-beginning to end and the #strong[tartīb] to be followed.
+=== Reconciling the hadith "whoever did Ramī became ḥalāl"
+<reconciling-the-hadith-whoever-did-rami-became-halal>
+A narration reports the Prophet ﷺ saying on the minbar that
+#strong[whoever performed the Ramī became ḥalāl], #strong[without
+mentioning Ḥalq]. This must be reconciled with the two āyāt above:
 
-- #strong[Outline of the sequence:] Iḥrām → #strong[Ramī] (10th Dhū
-  al-Ḥijjah) → #strong[Dhabḥ] (sometimes wājib, sometimes not) →
-  #strong[Ḥalq/Qaṣr] → #strong[Ṭawāf al-Ziyārah] → #strong[Ṭawāf
-  al-Ṣadr] at the end.
-- #strong[Dhabḥ] is #strong[obligatory in Tamattuʿ and Qirān] (where
-  both Hajj and ʿUmrah are performed, there is an additional wājib ---
-  the #strong[dam of shukr]); it is #strong[not] due on the Mufrid.
-- #strong[Ḥanafī principle on tartīb:] the obligatory sequence applies
-  specifically to the #strong[three actions of the 10th] ---
-  #strong[first Ramī, then Dhabḥ (if due), then Ḥalq].
-
-The #strong[seven] acts already studied are #strong[farḍ/wājib]\; the
-remaining acts now discussed are #strong[sunan].
+- #strong[We read Ḥalq into it] --- otherwise the statement would
+  #strong[contradict the Kitāb of Allah], which is not acceptable; the
+  statement must accord with the Qur'an.
+- #strong[Or:] it mentions only the #strong[major part (aktharuhā)] ---
+  after #strong[Qurbānī and Ramī] (the bulk of the acts), a
+  #strong[minor part (Ḥalq)] remains; it is normal in speech to name the
+  #strong[greater part] of something.
 
 #horizontalrule
 
-== Part 5 --- Sunan of Iḥrām
-<part-5-sunan-of-ihram>
-=== Sunnah 1 --- Ghusl (or at least Wuḍū') before assuming Iḥrām
-<sunnah-1-ghusl-or-at-least-wu-u-before-assuming-ihram>
-When intending to assume iḥrām, one should make #strong[ghusl] (or, as
-the lesser option, #strong[wuḍū'] --- but ghusl is #strong[better]).
+== Part 4 --- The Bald Person (No Hair)
+<part-4-the-bald-person-no-hair>
+How does someone with #strong[no hair] (bald, or hair not present)
+perform Ḥalq/Qaṣr?
 
-- #strong[Practice of the Prophet ﷺ:] he made ghusl at his Mīqāt
-  (#strong[Dhū al-Ḥulayfah]) when assuming iḥrām.
-- #strong[Recommended for both men and women.]
-- #strong[It does not matter what state the woman is in] --- whether she
-  is in #strong[Ḥayḍ/Nifās] or not --- because this ghusl is #strong[not
-  for Ṭahārah (purification)] but for #strong[Naẓāfah (نظافة)]
-  \[cleanliness\], which she still needs.
+- He simply #strong[runs a razor (or trimmer) over his head] ---
+  obtaining the #strong[mushābahah (resemblance)] of shaving. This is
+  #strong[attributed to the Prophet ﷺ] (a ḥadīth).
+- #strong[Logic:] he is #strong[not able] to literally shave (no hair),
+  but he #strong[is able] to achieve the #strong[resemblance] by running
+  the razor --- so he acts #strong[according to his capacity], and that
+  suffices, per the principle: #strong[مَا لَا يُدْرَكُ كُلُّهُ لَا يُتْرَكُ كُلُّهُ]
+  \[what cannot be attained in full is not left in full\].
 
-#strong[Evidence:] the Prophet ﷺ ordered #strong[Asmā' bint ʿUmays (رضي
-الله عنها)], who had just #strong[given birth to Muḥammad ibn Abī Bakr]
-(at Dhū al-Ḥulayfah). Abū Bakr (رضي الله عنه) asked the Prophet ﷺ what
-she should do; he ﷺ instructed her to #strong[make ghusl and assume
-iḥrām for Hajj] --- showing the ghusl is for #strong[naẓāfah], not
-#strong[ṭahārah], hence recommended even in the state of Nifās.
+=== Removing hair by chemical / cream
+<removing-hair-by-chemical-cream>
+- Using a #strong[depilatory cream or chemical] to remove the hair
+  #strong[is sufficient], because #strong[Ḥalq is the removal of hair]
+  --- it does not matter whether it is done by #strong[razor] or by
+  #strong[cream/chemical].
+- #strong[But the razor is the recommended (afḍal) option] --- it is the
+  #strong[practice of the Prophet ﷺ], and the word #strong["ḥalq"
+  literally means shaving with a razor]. (The Prophet ﷺ is reported to
+  have used a hair-removing paste --- #emph[nūra] --- type substance as
+  well; today's creams serve the same purpose, but the #strong[razor is
+  afḍal]\.)
 
-- #strong[Why it is only recommended (not wājib):] in the case of
-  Ḥayḍ/Nifās it cannot achieve #strong[purification] anyway, so it
-  cannot be obligatory on the basis of ṭahārah --- it is purely for
-  #strong[cleanliness].
-- #strong[Ghusl is preferred over wuḍū'] because the Prophet ﷺ chose it
-  (indicating its being a sunnah), he ﷺ ordered it, and ghusl gives
-  #strong[complete cleanliness] compared with wuḍū'.
-- #strong[Modern application:] since we now cross the Mīqāt #strong[by
-  air], do this #strong[in advance] --- make ghusl at home before the
-  flight, and #strong[assume iḥrām before crossing the Mīqāt] (before or
-  during the flight).
+#horizontalrule
 
-=== Sunnah 2 --- Wearing the two cloths: Izār and Ridā'
-<sunnah-2-wearing-the-two-cloths-izar-and-rida>
-- #strong[Izār (إزار)] --- the #strong[lower] garment, wrapped around
-  the lower body.
-- #strong[Ridā' (رداء)] --- the #strong[upper] sheet, wrapped around the
-  upper body.
-
-#strong[Rulings on the cloths:]
-
-- They should be #strong[clean] and #strong[not silk].
-- It is #strong[prohibited to wear stitched/sewn clothing (mukhīṭ /
-  مخيط)] --- following the Sunnah of the Prophet ﷺ.
-- #strong[Covering the satr] (private parts) is #strong[compulsory in
-  all cases], as is covering enough of the body to protect oneself from
-  the effect of #strong[heat and cold].
-- One may wrap the sheets around the whole body #strong[except the head]
-  (the head must remain uncovered for men).
-- The cloths may be #strong[new or old/washed] --- no problem;
-  #strong[new is better] (cleaner), but properly cleaned old ones may be
-  used.
-
-#strong[Children --- two types:]
+== Part 5 --- The Muḥṣar (Blocked Pilgrim)
+<part-5-the-muhsar-blocked-pilgrim>
+A #strong[muḥṣar (محصر)] is one #strong[prevented / blocked] from
+completing his Hajj (the full rulings of #strong[Iḥṣār] come in a later
+chapter). Is #strong[Ḥalq wājib] on him?
 
 #figure(
   align(center)[#table(
-    columns: (65.22%, 34.78%),
+    columns: (23.08%, 76.92%),
     align: (auto,auto,),
-    table.header([Type of child], [Ruling],),
+    table.header([View], [Ḥalq on the muḥṣar],),
     table.hline(),
-    [#strong[Mumayyiz (discerning)] --- e.g.~5, 7, 9 years
-    old], [#strong[Better] for the guardian to dress them in iḥrām like
-    adults, so they are trained to follow these acts (recommended,
-    though not obligatory on them)],
-    [#strong[Small / non-discerning]], [The restrictions do not apply to
-    them (they need diapers, etc.); iḥrām does not effectively operate
-    over them],
+    [#strong[Abū Ḥanīfah & Muḥammad]], [#strong[Not wājib] over him ---
+    he becomes ḥalāl #strong[without] it; if he removes the "dirt" some
+    other way (e.g.~a #strong[perfumed soap/plant]), there is #strong[no
+    penalty], since he committed no violation],
+    [#strong[Imam Abū Yūsuf]], [#strong[Wājib] over him --- so if he
+    uses something perfumed on his head, a #strong[penalty] is due,
+    because he is #strong[still in iḥrām] until he performs Ḥalq],
+    [#strong[Muṣannif's preferred view]], [#strong[Ḥalq is compulsory]
+    on him too; he #strong[cannot become ḥalāl without Ḥalq/Qaṣr] --- so
+    if he violates before it (e.g.~washes his head with a
+    #strong[perfumed plant/soap]), a #strong[penalty] is due],
   )]
   , kind: table
   )
 
-=== Applying oil and perfume #strong[before] iḥrām
-<applying-oil-and-perfume-before-ihram>
-Before assuming iḥrām, a person may #strong[apply oil and perfume] and
-take full care of the body's cleanliness --- because #strong[after]
-iḥrām, restrictions apply and he can no longer groom freely (he must
-even be careful when bathing, since #strong[dropping hair] incurs a
-penalty proportionate to the amount dropped).
+#horizontalrule
 
-#strong[Two components of a perfume:] 1. #strong[Rīḥ (ريح)] --- its
-#strong[scent]. 2. #strong[ʿAyn / Jirm (عين / جرم)] --- its
-#strong[physical substance / body] (e.g.~its #strong[colour], as in a
-coloured perfume).
+== Part 6 --- Women: Taqṣīr Only
+<part-6-women-taqsir-only>
+- #strong[A woman's option is Taqṣīr (shortening)] --- #strong[Ḥalq is
+  prohibited] for her.
+- #strong[Why:] shaving would #strong[disfigure her natural shape
+  (fiṭrah)] --- women are #strong[ordered to keep the hair] on their
+  heads; the hair is part of their natural #strong[zīnah]. This is from
+  the #strong[Sunnah] and the practice of the #strong[Azwāj
+  al-Muṭahharāt (the pure wives) رضي الله عنهن].
+- #strong[Amount:] she shortens by about #strong[a fingertip (qadr
+  al-unmulah)] --- roughly #strong[one inch] --- #strong[from all sides]
+  of the hair.
+- A #strong[weak opinion] (attributed to some) that a woman also takes a
+  little --- #strong[is not approved] by the evidences of the Sharia.
+- #strong[The beard] has nothing to do with this (it concerns head hair
+  only).
 
-==== The disagreement on coloured / substance-leaving perfume
-<the-disagreement-on-coloured-substance-leaving-perfume>
-#figure(
-  align(center)[#table(
-    columns: (6.38%, 93.62%),
-    align: (auto,auto,),
-    table.header([Imam], [Ruling on applying (before iḥrām) a perfume
-      whose #strong[substance remains] after iḥrām],),
-    table.hline(),
-    [#strong[Imam Abū Ḥanīfah & Imam Abū Yūsuf] #emph[\(preferred /
-    muftā bihī)]], [#strong[Permissible] --- any perfume may be applied,
-    even one whose substance/colour remains],
-    [#strong[Imam Muḥammad] #emph[\(after his rujūʿ)]], [#strong[Not] to
-    apply a perfume whose #strong[substance remains] after iḥrām],
-    [#strong[Imam Mālik]], [Similar to Imam Muḥammad --- not to apply
-    such a perfume],
-  )]
-  , kind: table
-  )
-
-- #strong[Imam Muḥammad's rujūʿ (retraction):] he originally agreed with
-  the permissibility, but later retracted, saying: #emph["I saw people
-  coming with a great deal of perfume and applying it over the body and
-  clothes --- that is why I disliked it."] So he restricted it to
-  perfume whose substance does #strong[not] remain after iḥrām.
-- #strong[Modern note:] today's perfumes are typically
-  #strong[colourless] with #strong[no remaining substance], so they
-  #strong[may be applied] by all.
-
-==== Imam Muḥammad's evidence and the Ḥanafī replies
-<imam-muhammads-evidence-and-the-hanafi-replies>
-#strong[His ḥadīth:] the Prophet ﷺ told a #strong[villager (Aʿrābī)] to
-#strong[remove and wash off] a coloured perfume --- #strong[Khalūq
-(خلوق)] --- which is #strong[saffron-coloured].
-
-- #strong[Ḥanafī reading of it:] Khalūq's problem is that its
-  #strong[saffron colour is unsuitable for men] (it suits women). Men
-  are not permitted to wear clothing dyed saffron --- and this is
-  #strong[more strongly prohibited] in iḥrām. So the prohibition is
-  about the #strong[colour], not about substance-that-remains.
-
-#strong[His logical argument:] if a perfume with physical substance is
-applied, then after iḥrām is assumed the substance #strong[spreads to
-other parts of the body] --- which would be like #strong[applying
-perfume anew] (not permissible in iḥrām).
-
-- #strong[Ḥanafī counter:] if the spreading were a genuinely #emph[new]
-  application, it would incur a #strong[penalty] (since newly applying
-  perfume in iḥrām incurs a penalty). But the spreading #strong[incurs
-  no penalty] --- #strong[by Ijmāʿ]. Therefore it #strong[cannot] be
-  deemed a new application, and the argument fails.
-
-==== The Ḥanafī evidence (preferred view)
-<the-hanafi-evidence-preferred-view>
-#strong[ʿĀ'ishah (رضي الله عنها) said:]
-
-#quote(block: true)[
-#emph["I applied perfume to Allah's Messenger ﷺ when he assumed iḥrām,
-and when he came out of iḥrām --- before he performed Ṭawāf
-al-Ziyārah."]
-
-#strong[\(hadith as cited in class --- confirm in hadith index)]
-]
-
-#quote(block: true)[
-#emph["…and I could see the #strong[whiteness] of the perfume in the
-#strong[mafriq] (parting of the hair) of Allah's Messenger ﷺ."]
-]
-
-- The #strong[whiteness] is the #strong[physical substance] of the
-  perfume --- visible #strong[while he was in iḥrām] --- proving that a
-  substance-leaving perfume applied #strong[before] iḥrām is fine.
-- ʿĀ'ishah is a #strong[Companion] who did this #strong[herself] with
-  the Prophet ﷺ. (The mention of applying it as he #strong[came out] of
-  iḥrām --- before Ṭawāf al-Ziyārah --- shows that by then the other
-  restrictions, except intimacy with women, were already lifted.)
-
-#strong[The decisive logic:] what is prohibited in iḥrām is applying
-perfume #strong[anew]. Here he applied it #strong[before] iḥrām, not
-during it; the #strong[remainder] belongs to the earlier (permissible)
-application and is not prohibited.
-
-#quote(block: true)[
-#strong[Supporting example:] before completing the acts on the 10th you
-may not do Ḥalq; but if a person #strong[shaved his head just before
-entering iḥrām], that shaving "remains" with him in iḥrām yet causes
-#strong[no violation]. Likewise, perfume applied before iḥrām remains
-without violation.
-]
-
-#strong[On the reports of ʿUmar and ʿUthmān] (who #strong[disliked]
-applying perfume before iḥrām): against them stand reports of
-#strong[other Companions (e.g.~Ibn ʿAbbās / Ibn ʿUmar)] who
-#strong[permitted] it. A statement of one Companion against another
-leaves them #strong[equal], so either may be adopted --- and the Ḥanafīs
-adopt the permitting view, supported by the Prophet's ﷺ practice.
+=== Note on men and the beard
+<note-on-men-and-the-beard>
+- #strong[Shaving the beard disfigures the natural (fiṭrī) shape of a
+  man] --- the #strong[zīnah of a man is in his beard].
+- The #strong[Islamic way]: the beard should be #strong[one fistful
+  (qabḍah)]\; the #strong[extra beyond a fist may be trimmed] --- as
+  opposed to those who let it grow without limit, or those who shave it
+  off.
 
 #horizontalrule
 
-== Part 6 --- Debatable Case: Penalty for the #emph[Remaining] of a Perfume Applied #strong[During] Iḥrām
-<part-6-debatable-case-penalty-for-the-remaining-of-a-perfume-applied-during-ihram>
-#strong[Setup:] A person applies perfume #strong[newly, after] assuming
-iḥrām (a clear violation). A #strong[penalty] is due, and he
-#strong[pays] it. But the perfume's #strong[physical substance remains]
-afterward. Does that #strong[remaining substance] generate a #strong[new
-penalty], repeatedly?
+== Part 7 --- The Amount of Ḥalq and Qaṣr
+<part-7-the-amount-of-halq-and-qasr>
+=== Ḥalq (shaving)
+<halq-shaving>
+- #strong[Best (afḍal):] shave the #strong[whole head]. Used absolutely,
+  #strong["ḥalaqa"] refers to the #strong[entire head] --- and the
+  Prophet ﷺ #strong[shaved his whole head].
+- #strong[Obligatory minimum:] #strong[one-fourth (rubʿ) of the head]
+  --- because #strong[one-fourth represents the whole head] (as in the
+  #strong[masḥ of the head in wuḍū'], where one-fourth stands for the
+  whole).
+- If he shaves #strong[less than one-fourth], it is #strong[not
+  sufficient] --- he #strong[remains under the restrictions of iḥrām].
+- #strong[Begin from the right side] --- the Prophet ﷺ
+  #strong[distributed his hair from the right] among the people (it is
+  his blessed hair), and gave the #strong[left side's hair] to
+  #strong[Umm Sulaym / Abū Ṭalḥah] specifically (as in the ḥadīth).
+- If he shaves #strong[only one-fourth], it #strong[suffices] and he
+  becomes ḥalāl, but it is #strong[makrūh] --- against the Prophet's ﷺ
+  practice of shaving the whole head.
 
-#strong[Two situations distinguished:]
+=== The order on Yawm al-Naḥr (Ramī → Dhabḥ → Ḥalq)
+<the-order-on-yawm-al-nahr-rami-dhabh-halq>
+On the 10th the three acts are done in order:
 
-+ #strong[Applied #emph[before] iḥrām, remains after] → #strong[no
-  penalty] (established above).
-+ #strong[Applied #emph[during] iḥrām (newly), penalty paid, substance
-  still remaining] → #strong[debatable]\; both opinions exist in the
-  Ḥanafī school.
++ #strong[Ramī] (of Jamrat al-ʿAqabah);
++ #strong[Dhabḥ (ذبح)] \[slaughter\] --- #strong[if due] (on the
+  #strong[Mutamattiʿ / Qārin]\; not on the Mufrid);
++ #strong[Ḥalq].
 
+The word #strong["thumma (ثُمَّ)"] \[then\] indicates #strong[tartīb
+(sequence)] → the #strong[tartīb is wājib] per the Imam. Missing the
+order #strong[without ʿudhr] incurs a #strong[penalty].
+
+=== Taqṣīr (shortening) --- for men who choose it
+<taqsir-shortening-for-men-who-choose-it>
+- #strong[Amount:] about #strong[one fingertip (unmulah)] ≈ #strong[one
+  inch], #strong[from all sides] of the head.
+- #strong[Strong recommendation:] #strong[go a little beyond] one
+  fingertip (out of #strong[iḥtiyāṭ] / to be certain), because the
+  #strong[hair is not equal in length] on all sides --- a flat "one
+  fingertip" cut might leave some shorter hairs cut by #strong[less than
+  an inch]. Going beyond gives #strong[certainty] that #strong[all] the
+  hair has been shortened by at least an inch, from every side.
+- The #strong[finger-joint mark] (the crease on the finger past the tip)
+  is the practical gauge --- it is #strong[approximately one inch].
+
+#horizontalrule
+
+== Part 8 --- The Time and Place of Ḥalq
+<part-8-the-time-and-place-of-halq>
 #figure(
   align(center)[#table(
-    columns: (32.14%, 28.57%, 39.29%),
+    columns: (12.5%, 41.67%, 45.83%),
     align: (auto,auto,auto,),
-    table.header([Opinion], [Ruling], [Reasoning],),
+    table.header([Imam], [Restricted by time?], [Restricted by place?],),
     table.hline(),
-    [#strong[A]], [The remaining #strong[is] considered a new
-    application → #strong[another penalty] is due], [The original
-    application was #strong[new] (in iḥrām), so its remainder is treated
-    as new too --- unlike the before-iḥrām case, where the remainder
-    belongs to an #strong[old, permissible] application],
-    [#strong[B] #emph[\(appears to be preferred)]], [#strong[No]
-    additional penalty for the remaining], [Once the penalty for the new
-    application is #strong[paid, it is done and dusted] --- the
-    remaining (like the first case) does not generate a fresh penalty],
+    [#strong[Imam Abū Ḥanīfah] #emph[\(preferred)]], [#strong[Yes] ---
+    within the #strong[three days of Naḥr]], [#strong[Yes] --- inside
+    the #strong[Ḥaram]],
+    [#strong[Imam Abū Yūsuf]], [No], [No],
+    [#strong[Imam Muḥammad]], [No], [#strong[Yes] (place only)],
   )]
   , kind: table
   )
 
-#strong[Note on method:] the Muṣannif's habit is to place the
-#strong[preferred opinion last] --- so the #strong[second opinion (B ---
-no additional penalty)] appears to be the preferred one.
+- Per #strong[Abū Ḥanīfah], one who performs Ḥalq #strong[after the
+  days] or #strong[outside the Ḥaram] --- #strong[intentionally, without
+  ʿudhr] --- incurs a #strong[penalty] (like any missed wājib).
+
+=== The dalīls
+<the-dalils>
+#strong[For "no restriction of place" (opponents):] the
+#strong[Companions did Ḥalq at Ḥudaybiyah], and Ḥudaybiyah is (claimed
+to be) #strong[outside the Ḥaram]. \> #strong[Ḥanafī reply:]
+#strong[part] of Ḥudaybiyah is in the #strong[Ḥaram] and #strong[part in
+the Ḥill] --- so this is #strong[not a certain proof]. The Prophet's ﷺ
+#strong[stay] was in the #strong[Ḥill] part, but he #strong[prayed and
+performed the acts of worship in the Ḥaram] part --- indicating the
+ʿibādah (including Ḥalq) was done in the #strong[Ḥaram].
+
+#strong[For "no restriction of time" (opponents):] the ḥadīth in which a
+man on the day of Naḥr asked, #emph["I did such-and-such before/after
+(its order),"] and the Prophet ﷺ replied #strong["لَا حَرَجَ" ("no harm")].
+\> #strong[Ḥanafī reply:] (1) this #strong["lā ḥaraj"] was a
+#strong[concession] in the #strong[early phase] of the Sharia, while the
+rulings were being #strong[taught]\; and (2) #strong["no harm" means no
+sin (in the Hereafter)] --- it does #strong[not] mean "#strong[no
+penalty]." Compare the one who #strong[shaves due to a head ailment] ---
+the Qur'an says #strong["no harm,"] yet a #strong[fidyah] is still due:
+\> \> \> #strong[فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ
+صَدَقَةٍ أَوْ نُسُكٍ] \> \> \> \> #emph["…whoever of you is ill or has an ailment
+of the head \[and shaves\], then a ransom of fasting, charity, or
+sacrifice."] \> \> \> \> #strong[Ref:] al-Baqarah, 2:196. \> \> So the
+#strong[Hajj is valid] (the farāʾiḍ are covered) and there is #strong[no
+sin in the Hereafter], but the #strong[worldly penalty] for the missed
+wājib #strong[remains].
+
+#strong[Abū Ḥanīfah's dalīl (preferred):] the #strong[practice of the
+Prophet ﷺ] --- he did Ḥalq #strong[in the Ḥaram, within the days]. His
+action is the #strong[commentary (tafsīr)] of the Qur'an, and he
+ordered: #strong[«خُذُوا عَنِّي مَنَاسِكَكُمْ»] #emph["Take from me your rites."]
+Therefore the #strong[restriction of place and time is wājib], and
+violating it (without ʿudhr) brings the #strong[penalty of a missed
+wājib].
+
+#strong[Case:] a person #strong[left the Ḥaram], then remembered he had
+#strong[not done Ḥalq in the Ḥaram], #strong[returned] and did it there
+→ #strong[no penalty], because he #strong[achieved the place
+restriction].
 
 #horizontalrule
 
-== Part 7 --- Sunnah 3 (Preview): The Two Rakʿahs of Iḥrām
-<part-7-sunnah-3-preview-the-two-rakahs-of-ihram>
-After (1) achieving cleanliness via #strong[ghusl] and (2) applying
-#strong[perfume/oil] and grooming the body --- #strong[both done before
-iḥrām] --- the #strong[third] act is performing the #strong[two rakʿahs
-of iḥrām]. This will be taken up next.
+== Q&A from Class
+<qa-from-class>
+#strong[Q:] Are both #strong[Ḥalq and Qaṣr] available for #strong[men]?
+--- #strong[A:] #strong[Yes], both are available, but #strong[Ḥalq is
+afḍal].
+
+#strong[Q:] When men choose #strong[Taqṣīr], how much? --- #strong[A:]
+about #strong[one fingertip (≈ one inch)], #strong[all over the head,
+from every side]. Better to #strong[go a bit beyond] the fingertip so he
+is #strong[satisfied that every side is cut by at least an inch], since
+hair length is uneven around the head. (The #strong[finger-joint] past
+the fingertip is the practical measure --- roughly one inch.)
 
 #horizontalrule
 
 == Closing
 <closing>
-- #strong[Covered:] Ṭawāf al-Ṣadr --- no fixed ending point (tied to
-  departure; performing it early is valid, only being last is
-  mustaḥabb); cannot precede Ṭawāf al-Ziyārah (ʿIshā'/Witr tartīb
-  analogy); place fixed at the Baytullāh; the rulings on leaving without
-  it (return if within the Mīqāt; otherwise #strong[dam], or return via
-  a fresh ʿUmrah). Then the #strong[Sunan of Hajj] opened: the method
-  and tartīb; #strong[Sunan of Iḥrām] --- #strong[ghusl] (for naẓāfah,
-  even in Ḥayḍ/Nifās; Asmā' bint ʿUmays); the #strong[two cloths] (Izār
-  & Ridā', no mukhīṭ, children's rulings); #strong[perfume before iḥrām]
-  (Abū Ḥanīfah & Abū Yūsuf permit substance-leaving perfume ---
-  preferred --- vs.~Imam Muḥammad's rujūʿ and Mālik; ʿĀ'ishah's evidence
-  and the logic of "no new application"); and the #strong[debatable
-  case] of the remaining substance of an in-iḥrām application.
-- #strong[Next class:] the #strong[complete method of Hajj] with its
-  #strong[tartīb] (including the #strong[two rakʿahs of iḥrām] and the
-  talbiyah), continuing the Sunan; same time inshā'Allāh.
+- #strong[Covered:] whether #strong[Ḥalq is wājib] (Ḥanafī: yes) or
+  exit-from-iḥrām comes by #strong[Ramī alone] except women & perfume
+  (Shāfiʿī); the #strong[two Qur'anic proofs] (al-Ḥajj 22:29 "tafath"\;
+  al-Fatḥ 48:27 "muḥalliqīna… wa muqaṣṣirīn," the amr vs.~khabar
+  readings, and the "in shāʾa Allāh" question); #strong["wa" = "aw"]\;
+  #strong[Ḥalq superior to Taqṣīr] (the threefold duʿā') and reconciling
+  "whoever did Ramī became ḥalāl"\; the #strong[bald person] (run the
+  razor --- mushābahah); #strong[cream/chemical] valid but razor afḍal;
+  the #strong[muḥṣar] (three views; Muṣannif: Ḥalq compulsory on him);
+  #strong[women --- Taqṣīr only] (Ḥalq prohibited; \~one fingertip); the
+  #strong[amount of Ḥalq] (whole head afḍal, one-fourth obligatory ---
+  as in masḥ; begin from the right) and the #strong[order Ramī → Dhabḥ →
+  Ḥalq] (thumma → tartīb wājib); #strong[Taqṣīr's] measure (≈ one inch,
+  go beyond for certainty); and the #strong[time & place] of Ḥalq (Abū
+  Ḥanīfah --- both --- preferred, vs.~the Ṣāḥibayn; the Ḥudaybiyah and
+  "lā ḥaraj" dalīls and the Ḥanafī replies).
+- #strong[Next class:] what becomes #strong[ḥalāl after Ḥalq] --- the
+  pilgrim becomes #strong[partially ḥalāl], remaining under only a
+  #strong[couple of restrictions]\; and the completion of this chapter;
+  same time inshā'Allāh.
